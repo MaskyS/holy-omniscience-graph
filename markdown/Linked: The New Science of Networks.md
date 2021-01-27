@@ -9,3 +9,4 @@
     - The web is unnatural for a complex network, because it isn't quite as small-world as the rest of them-- the network diameter is ~19, which is the highest observed iirc.
     - One side-effect of introducing bidirectional links to the web at large is that the network diameter will be reduced, and balance somewhat restored.
     - Truly central positions in networks are reserved for nodes that are simultaneously part of many large clusters.
+    - The introduction of the idea of "fitness" feels like just creating a proxy for whatever factor that allows new nodes to overtake hubs, without actually explaining why; and the whole einstein-bose condensation section in 8th link sounds like a steaming pile of bull. 

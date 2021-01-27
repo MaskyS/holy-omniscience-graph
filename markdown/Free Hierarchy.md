@@ -259,7 +259,7 @@ Now, how does Roam/Zettelkasten and humans' use of imagination to organize socie
     - This is the power of atoms and electrons and whatever other fundamental particle we discover. ((Think about it. You and I and every other thing in the universe are made of the same things at our core. What makes us us, is their arrangement. The power of the particle lies in its ability to to arrange itself with others of its kind in whatever way it pleases.))
     - This is why people get addicted to Minecraft. This is the power of computers. This is the power of polymaths. This is the power of language. This is the power of programming.
 ## Ponderings
-    - Let's get a little more dreamy. 
+    - Let's get a little more dreamy, and allow me to embarrass myself if I haven't already.
     - Free hierarchies offer a fresh perspective of what context actually means
         - Maybe instead of using the story of the blind men and the elephant to illustrate context's importance, we should have used the story of the gamers and Minecraft instead. 
     - The Universal Label
