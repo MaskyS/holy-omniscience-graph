@@ -15,9 +15,8 @@
     - ## Why We Need This Graph
         - 
         - We are on the cusp of a virtual revolution- a revolution led by map-builders and innovators. But our bright minds are few in number, their efforts disorganized and redundant; and their work obscure.
-        - It is easy to understand why: such high-level abstract thinking is extremely rare; and we like to think of our unique ideas as part of ourselves; that they define us. And due to that uniqueness, we try to "protect" them, restricting our most important work to the lonely confines of our minds and private journals.
+        - It is easy to understand why: such high-level abstract thinking is extremely rare; and we like to think of our unique ideas as part of ourselves; that they define us. And due to that uniqueness, we try to "protect" them, restricting our most important work to the lonely confines of our minds.
         - We are afraid to share this part of ourselves, lest they attract plagiarism, or worse, criticism, or worse, indifference. 
-        - So what do we do instead? We ask and look for questions we can answer and puzzles we've solved before. Some of us post obscure musings, hoping that people will understand just enough to appreciate our wits, but not so much to use it to their advantage.
         - But we may stall no longer. Our capability to produce information is overwhelming our abilities to meaningfully use it. Censorship and misinformation abound. To regain control over our information means to regain control over our lives, and for that we must immediately overcome our fears.
         - ":hiccup [:hr]"
     - ## TLDR Of What This Graph Is
