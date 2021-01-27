@@ -1,0 +1,1 @@
+The Holy Omniscience Graph is a blueprint for **accelerators of intellectual progress**. We map ideas, tools, and resources for creating [[The Information Platform of The Future]]. You can access it [here](https://roamresearch.com/#/app/holy-omniscience/page/c3Z8Q3cb_). 
