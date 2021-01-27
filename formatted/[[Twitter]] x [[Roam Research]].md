@@ -1,0 +1,5 @@
+- https://twitter.com/maskys_/status/1347790241084579840?s=20
+- https://twitter.com/maskys_/status/1348189083185471490?s=20
+- Can we scrape every tweet using something like [APIFY](https://apify.com/vdrmota/twitter-scraper), then see where the tweetContent contains tweetIds of other tweets from the list, then replace?
+- How to use the [Roam Research](<Roam Research.md>) API to create and edit these blocks + refs though?
+    - [[[Roam Research](<[[Roam Research.md>) API Resources]]

@@ -1,0 +1,3 @@
+- #author: [[Vannevar Bush]]
+- {{[[TODO]]}} Scrape this article
+- https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/

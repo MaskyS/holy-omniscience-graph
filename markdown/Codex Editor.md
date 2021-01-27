@@ -1,0 +1,2 @@
+- "Creating the knowledge worker's OS."
+- https://twitter.com/codexeditor?lang=en

@@ -1,0 +1,1 @@
+- ![Illustration of Pascal's Wager](https://miro.medium.com/max/2415/1*LTkICqVskVQa0SPQCKu38A.jpeg)

@@ -1,0 +1,3 @@
+- [[Holy Truth]] is the 8th [Holy Idea]([[holy ideas]]).
+- {{[[TODO]]}} This needs to be expanded upon and put into context, but until then, please see below link (Idea 8)
+    - https://www.diamondapproach.org/glossary/refinery_phrases/enneagram-holy-ideas

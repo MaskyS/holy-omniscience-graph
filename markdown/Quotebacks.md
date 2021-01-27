@@ -1,0 +1,5 @@
+- > Quotebacks makes it easy to reference content and create dialogue with other sites by turning snippets of text into elegant, self-contained blockquote components.
+- [[Quotebacks]] is a [[Browser Extension]] to facilitate referencing website content.
+- It's a good step towards [[perfect transclusion]], but it still has a few drawbacks, like having to export to Markdown to index content in [[Roam Research]].
+- Website:
+    - {{iframe: https://quotebacks.net/#about}}

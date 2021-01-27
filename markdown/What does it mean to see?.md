@@ -1,0 +1,4 @@
+- First, you must be able to see all the intrinsic properties of an entity without prematurely passing judgement, no matter how paradoxical or controversial or unimportant the combination of properties might seem.
+- Two, see all the relationships-- both intra (how the property affects the interpretation/purpose/other properties of the entity) and inter (how properties of the object affects its purpose as a node in parent hierarchies)
+- Understand which properties are required for which relationships/purposes. 
+- Understand that functions are just properties that vary depending on properties of associated entities, i.e. they interact and metamorphose depending on the environment/arguments passed.

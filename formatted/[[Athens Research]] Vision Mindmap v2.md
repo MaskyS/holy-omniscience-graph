@@ -1,0 +1,57 @@
+- Last indexed [January 9th, 2021](<January 9th, 2021.md>). Check OG block for changes.
+- A Community for
+    - [learning](<learning.md>)
+    - [collaboration](<collaboration.md>)
+    - [invention]
+- v1: A Self-Hosted Athens
+    - pages
+    - blocks
+    - parser
+    - search
+    - right sidebar alternative
+    - slash commands
+    - basic key bindings
+    - right – click
+    - daily notes
+    - interop: import/export
+        - markdown
+        - JSON
+        - datoms
+- v2: An Individual Memex
+    - graph visualization
+        - AR/VR/MR
+    - plug-in architecture
+        - themes
+        - key bindings
+        - custom commands
+    - programmable environment/arbitrary compute
+        - [GraalVM](<GraalVM.md>)
+            - sci.web
+        - [WASM](<WASM.md>)
+        - [LightTable](<LightTable.md>)
+        - [Smalltalk](<Smalltalk.md>)
+        - [ObservableHQ](<ObservableHQ.md>)
+        - nocode
+        - [smart contract](<smart contract.md>)s
+    - ingest arbitrary data
+        - [IFTT](<IFTT.md>)
+        - [Zapier](<Zapier.md>)
+    - powerful tables and queries
+        - [Airtable](<Airtable.md>)
+        - [Notion](<Notion.md>)
+        - [Datalog](<Datalog.md>)/EQL
+- v3: A Collective Memex
+    - a protocol for bidirectionality
+        - semantic web
+        - other apps
+            - chat
+            - IDE
+    - a protocol for knowledge markets
+        - publishing/monetization layer
+        - immutable and decentralized databases
+            - git
+            - block chain
+            - datahike
+            - [IPFS](<IPFS.md>)
+        - complex permissions
+            - share `[Page X](<Page X.md>)` and all nodes at most 3 hops away, excluding `[Page Y](<Page Y.md>)` and `((Z blocks))`

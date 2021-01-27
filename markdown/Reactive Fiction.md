@@ -1,0 +1,2 @@
+- Depending on the reader’s emotions, the story might take totally different turns.
+    - — 

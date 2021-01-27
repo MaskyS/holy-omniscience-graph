@@ -1,0 +1,24 @@
+- https://twitter.com/Plinz/status/1283211048145711104 #[[[[GPT-3]] and its funny-talking AI friends]] #[[summarization and expansion of information]] #[[Joscha Bach]]
+- https://twitter.com/balajis/status/1123092897664880640 #[[Balaji Srinivasan]] #[[Kiraman Katibin]] #[[Decentralized Technologies]]
+- {{[[TODO]]}} index https://twitter.com/jack/status/1204766078468911106 #[[Jack Dorsey]] #Twitter #Bluesky #[[The Lyceum]]
+- https://twitter.com/jborichevskiy/status/1295465938293153792 #[[Jonathan Borichevskiy]] #[[Kiraman Katibin]]
+- https://twitter.com/dwr/status/1273307320911450112 #[[Kiraman Katibin]]
+- https://twitter.com/pavtalk/status/1315456023050645505?s=20 #[[Social Browser]] #[[Paul Katsen]] #[[Gossip Aggregator]] #[[Browser Extension]]
+- https://twitter.com/mckaywrigley/status/1278734337735684097 #[[McKay Wrigley]] #[[The Lyceum]] #Twitter
+- https://twitter.com/mckaywrigley/status/1284110063498522624 #[[Learn From Anyone]] #[[McKay Wrigley]] #[[Information Personalisation]] #[[[[GPT-3]] and its funny-talking AI friends]]
+- https://twitter.com/anirudhbadri/status/1322242745021288448 #stories #[[Anirudh Badri]] #[[Information Personalisation]] #[[Individualised Entertainment]]
+- https://twitter.com/lehrjulian/status/1304085231608225792 #[[Julian Lehr]] #[[Maps and Exploratory Tools]] #Twitter
+- https://twitter.com/lehrjulian/status/1304084114732130305 #[[Julian Lehr]] #[[Maps and Exploratory Tools]]
+- https://twitter.com/visakanv/status/1071803092331520001 #[[Visakan Veerasamy]] #[[Maps and Exploratory Tools]] #[[Free Hierarchy]]
+- https://twitter.com/MatthewWSiu/status/1340620345171083265 (thread) #[[Matthew Siu]] #[[Maps and Exploratory Tools]] #[[Free Hierarchy]] #[[The Information Platform of The Future]]
+    - https://twitter.com/MatthewWSiu/status/1340620346236391424 #[[Matthew Siu]] #[[Free Hierarchy]] #[[Maps and Exploratory Tools]]
+- https://twitter.com/azlenelza/status/1246612847427112960 #[[Azlen Elza]] #[[holy omniscience]] #[[Maps and Exploratory Tools]] #[[Free Hierarchy]]
+- https://twitter.com/jackbutcher/status/1340906258031910913 #[[Jack Butcher]] #[[Programmable Oracles]] #[[Maps and Exploratory Tools]] #[[curation engine]]
+- https://twitter.com/debarghya_das/status/1291978175619031040 #[[Debarghya Das]] #[[Programmable Oracles]] #[[Free Hierarchy]] #[[search engine]] #[[curation engine]] #[[Maps and Exploratory Tools]]
+    - https://twitter.com/paulg/status/1319911708941582337 #[[Paul Graham]] #[[Programmable Oracles]] #[[search engine]]
+        - https://twitter.com/dadkins_/status/1320752299992616961 #[[Programmable Oracles]] #[[search engine]]
+            - https://twitter.com/maskys_/status/1330819112931532801 #[[Kifah Meeran]] #[[Programmable Oracles]]
+- https://twitter.com/klingfjord/status/1324660777043828737 #[[Oliver Klingefjord]] #[[curation engine]] #[[Programmable Oracles]]
+- https://twitter.com/brandontoner/status/1330664404346662915 #[[Brandon Toner]] #[[curation engine]] #[[Programmable Oracles]]
+- https://twitter.com/CultRoam/status/1273827332554240001 #[[Roam Research]] #[[search engine]] #Google
+- ![Screen Shot 2021-01-11 at 12.51.27 PM.png](https://d19gji6e5gn3r8.cloudfront.net/ee075433-610e-4ee2-adb9-7060211707e0/Screen%20Shot%202021-01-11%20at%2012.51.27%20PM.png?Expires=1611499836&Signature=LF4QMjVB90xyNGqIK00y53q1Zxyd7eI6ve8WT0zcK7Wmow-Cjwd4VEzGpH5cPov4wfUV02u0sC5ZuGd13NHq98qDo679we6oY1tTIHu-~-s6GUK2U8ODwBtwXNtUQUrJAhFeLbOdUag369nfMhIFC7lJZyMe6jDLq9ZG2JAS88yzMzhhU6FtepfIGYIg0z4q9p~WPnwWUDW5NmomAHiRMRN6VStUpWrQoUuQaeaZ1FdruJWU5ZflOdmsWuObms9ZkKMU9K-wgyJEopP~s4iVRnfkusjbmJXcUJrYAeCd0n5xmPX1MM0byic~vPzTl5D~5g~6bSzJGbeylBLo~d5kpA__&Key-Pair-Id=APKAJWJJOF7ZM5FW5N4Q) #[[Ryan Singer]] #[[Free Hierarchy]] #writing

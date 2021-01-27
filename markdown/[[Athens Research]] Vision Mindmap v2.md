@@ -1,0 +1,57 @@
+- Last indexed [[January 9th, 2021]]. Check OG block for changes.
+- A Community for
+    - [[learning]]
+    - [[collaboration]]
+    - [invention]
+- v1: A Self-Hosted Athens
+    - pages
+    - blocks
+    - parser
+    - search
+    - right sidebar alternative
+    - slash commands
+    - basic key bindings
+    - right – click
+    - daily notes
+    - interop: import/export
+        - markdown
+        - JSON
+        - datoms
+- v2: An Individual Memex
+    - graph visualization
+        - AR/VR/MR
+    - plug-in architecture
+        - themes
+        - key bindings
+        - custom commands
+    - programmable environment/arbitrary compute
+        - [[GraalVM]]
+            - sci.web
+        - [[WASM]]
+        - [[LightTable]]
+        - [[Smalltalk]]
+        - [[ObservableHQ]]
+        - nocode
+        - [[smart contract]]s
+    - ingest arbitrary data
+        - [[IFTT]]
+        - [[Zapier]]
+    - powerful tables and queries
+        - [[Airtable]]
+        - [[Notion]]
+        - [[Datalog]]/EQL
+- v3: A Collective Memex
+    - a protocol for bidirectionality
+        - semantic web
+        - other apps
+            - chat
+            - IDE
+    - a protocol for knowledge markets
+        - publishing/monetization layer
+        - immutable and decentralized databases
+            - git
+            - block chain
+            - datahike
+            - [[IPFS]]
+        - complex permissions
+            - share `[[Page X]]` and all nodes at most 3 hops away, excluding `[[Page Y]]` and `((Z blocks))`

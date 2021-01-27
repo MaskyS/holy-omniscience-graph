@@ -1,0 +1,15 @@
+- https://twitter.com/JamesClear/status/1208945148996079618 #[[James Clear]] #[[Information Overload]]
+- These will identify connections between seemingly disparate fields and allow us to know where to look without getting overwhelmed.
+- Through [[Free Hierarchy]] we know that at their core, feeds, search engines, exploratory tools are actually the same thing- they retrieve information nodes based off certain properties, and then arrange them in different hierarchies that are (so far) usually linear.
+    - So a feed is, in the end, is just a permanently recurring search from the info-emitting entities that have the "followed by X" property that arranges these nodes a linear hierarchy, usually prioritizing two properties- age (in reverse) and some vanity social signal like likes.
+- What matters is
+    - the sources being searched
+        - FB's database vs Google crawled info vs consumption history etc
+    - how discrete the specified properties are
+        - "from x person" is more random than "contains this keyword"
+    - the specified relationships between those properties/nodes
+        - "contains this keyword" AND "from x person"
+    - which purpose this hierarchy is achieving, and therefore, which arrangement it shall take, and which node properties will matter (if any).
+        - "looking for most viewed nodes" etc
+- {{embed: [[visualizer]]}}
+- {{embed: [[Programmable Oracles]]}}

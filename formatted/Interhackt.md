@@ -1,0 +1,6 @@
+- is a week-long online designathon to explore the future of interfaces. 
+- The [2020](<2020.md>) edition had some super interesting projects worth looking at. 
+    - [ ] They'll be indexed in this graph sooner or later https://updates.interhackt.space/
+- Socials
+    - Twitter
+    - 

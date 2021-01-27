@@ -1,0 +1,5 @@
+- **metadata**
+    - Full title: `Why Information Grows: The Evolution of Order, from Atoms to Economies`
+    - by [[Cesar Hidalgo]]
+    - tags: #[[growth theory]] #Books
+- ## Notes

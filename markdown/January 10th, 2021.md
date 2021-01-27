@@ -1,0 +1,19 @@
+- https://twitter.com/azlenelza/status/1269696510611959808 #[[Azlen Elza]] #[[Max Kriegers]] #[[Chatting With Glue]] #[[Information distillation]] #transclusion #visualizer 
+- {{[[TODO]]}} index and tag https://jon.bo/posts/digital-tools/ #article #[[Jonathan Borichevskiy]]
+- {{[[TODO]]}} tag https://twitter.com/vgr/status/1200101161128185856
+- [[Wikigraph]] is a [[Wikipedia]] [[visualizer]]/[[search engine]] built by [[Drew Tada]]. "Link: giantgra.ph" #[[Maps and Exploratory Tools]]
+- {{[[TODO]]}} An [[article]] on how [[Wikigraph]] was built: https://kcollective.substack.com/p/exploration-engines #Articles #visualizer #[[Maps and Exploratory Tools]]
+- {{[[TODO]]}} Read and categorize http://artifacts.fyi/
+- https://twitter.com/balajis/status/1244422902826426370 #[[Balaji Srinivasan]] #[[Decentralized Technologies]] #[[Free Hierarchy]]
+- https://twitter.com/naval/status/445940612160688129 #[[Naval Ravikant]] #[[Partial Centralization]] #[[Free Hierarchy]] #consumption #production
+- https://twitter.com/ankitkr0/status/1200049404893265920 #[[People Search]] #Twitter #[[Programmable Oracles]]#[[Social Search]] #[[search engine]]
+- https://twitter.com/visakanv/status/1348212104159875072?s=20 #[[curation engine]] #[[search engine]] #Twitter
+- the concept of "adapting buildings" from [[How Buildings Learn]], as illustrated here by [[Geoffrey Litt]]: https://twitter.com/geoffreylitt/status/1272542423001022467 #[[Decentralized Technologies]] #abstraction
+    - {{[[TODO]]}} Mentioned in the replies was a recommendation for [[A Pattern Language]] [goodreads](https://www.goodreads.com/book/show/79766.A_Pattern_Language).  To read.
+- [[Preeti Kovvali]] shows how she pulls tweets (manually downloading archive, copy individual tweet, add NER) https://twitter.com/preetiblogs/status/1260335606695178241 #[[[[Twitter]] x [[Roam Research]]]] 
+- https://www.geoffreylitt.com/2019/07/29/browser-extensions.html by [[Geoffrey Litt]] #[[Browser Extension]] #article
+- [[Beaker Browser]] #Browser #[[Decentralized Technologies]]
+    - {{iframe: https://beakerbrowser.com/}}
+- https://twitter.com/rmeinl/status/1319720393624739840?s=20
+- https://twitter.com/maskys_/status/1348189083185471490?s=20
+- 

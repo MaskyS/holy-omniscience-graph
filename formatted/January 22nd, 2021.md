@@ -1,0 +1,58 @@
+- https://twitter.com/jordanmoore/status/1352381177278164993/photo/3 [Atlas Recall](<Atlas Recall.md>): a [visual]([visualizer](<visualizer.md>)) [search engine](<search engine.md>) concept for finding local/cloud documents/files/texts/photos etc
+- [questions](<questions.md>) Is there a database of data visualization and arrangement  techniques, and the data properties they require of the entities they're visualizing?
+- [questions](<questions.md>) Will [Roam Research](<Roam Research.md>) eventually allow writing [queries](<queries.md>) in natural language, and maybe give me suggestions as I'm writing them?
+    - e.g. predict `[Company Project](<Company Project.md>)` as I write `[TODO](<TODO.md>)`?
+- [ ] Research [Remnote](<Remnote.md>) and its new relationship system
+- [questions](<questions.md>) How should an [Free Hierarchy](<Free Hierarchy.md>) evolve over time?
+- [ ] [questions](<questions.md>) What should relationships look like in a [Free Hierarchy](<Free Hierarchy.md>)? Can we quantify or describe relationships between nodes? 
+    - Can we predict them by analyzing the free hierarchies we know of?
+- [questions](<questions.md>) How should [Roam Research](<Roam Research.md>)'s graph view evolve to be more useful?
+    - Right now, it does basically nothing except show relationships between pages/keywords
+- [x] Improve UI/UX of this graph so it looks better and isn't overwhelming [meta](<meta.md>)
+    - Use [Lexend](<Lexend.md>) for body text
+    - Add in some nice theme from https://github.com/theianjones/roam-research-themes/
+- [questions](<questions.md>) Should [privacy](<privacy.md>) in [The Information Platform of The Future](<The Information Platform of The Future.md>) resemble [collapsible parentheticals](<collapsible parentheticals.md>)? i.e. some information, inline, displayed to some users but not others.
+    - Or should it privacy stop at block-level, and use block-versioning instead?
+        - i.e. Some blocks hidden to some users, while other blocks display different versions of themselves
+- [questions](<questions.md>) How do you create more [free hierarchies]([Free Hierarchy](<Free Hierarchy.md>)) in real life, without aggravating the fragmentation of legal systems? 
+- [questions](<questions.md>) Which businesses explicitly enable [free hierarchies]([Free Hierarchy](<Free Hierarchy.md>))? 
+    - Which businesses get rewarded for creating new hierarchies from existing nodes and assigning them entirely new purposes? Maybe [Facebook](<Facebook.md>)?
+    - e.g. [Uber](<Uber.md>) did it for cars, freeing them from time/driver/owner.
+- [ ] [questions](<questions.md>) How does the concept of [convergent vs divergent queries](<convergent vs divergent queries.md>) fit within the theory of [Free Hierarchy](<Free Hierarchy.md>)?
+- [questions](<questions.md>) Is there such a thing as [isomorphic expansions](<isomorphic expansions.md>)? Whereby we have one main idea that we expand upon in different mediums (or hierarchies?)
+    - For example, in movies, where the idea is communicated through:
+        - Dialogue
+        - Framing/Editing
+        - Color Grading
+        - Symbolism
+        - Foreshadowing
+        - Body Language
+- [What does it mean to see?](<What does it mean to see?.md>)
+- ## [[[The Lyceum](<[[The Lyceum.md>) should allow [People Tagging](<People Tagging.md>)]]
+    - I think it'll be crucial in [The Information Platform of The Future](<The Information Platform of The Future.md>) for users to be able to assign meaningful labels and tags to people-- whether those they follow or not, albeit to varying degrees.
+    - ### Why?
+        - A tagging system reflects our mental organization of individuals better. After all, people have different identities in different contexts. 
+        - [Facebook](<Facebook.md>) currently has a folder method of organization (Friends vs Acquaintances etc), which a) is a vanity label and b) assumes there is only one hierarchy.
+            - [Instagram](<Instagram.md>) has a more restricted version of this with its Close Friends feature, similarly useless
+        - [Twitter](<Twitter.md>) is a little better off, with its Lists feature, where one individual can be added to different groups, and then shows posts of just that group. 
+        - All of these methods are still rigid though.
+        - My proposition might look like a blend of [Twitter](<Twitter.md>)'s Lists and [LinkedIn](<LinkedIn.md>)'s skill endorsements.
+        - More properties, at the user-entity level, means better information control, like the following queries:
+            - Show me all coding tweets from java programmers whom I've also tagged professional (skill level) during the past week
+            - Which resources related to cross-fit did my gym buddies consume/like?
+        - By allowing me to add non-vanity tags, I can rearrange my information silos/networks.
+            - It gives me a deeper, multidimensional overview into an individual I follow with just a glance at their profile. 
+                - Maybe I'll have [Conor White-Sullivan](<Conor White-Sullivan.md>) with the following tags:
+                    - #[Roam Research](<Roam Research.md>) [memes](<memes.md>) [chad](<chad.md>) [spiritualism](<spiritualism.md>) [tech](<tech.md>) #[The Information Platform of The Future](<The Information Platform of The Future.md>) #[Knowledge Graphs](<Knowledge Graphs.md>) [programming](<programming.md>) [texas](<texas.md>) [millenial](<millenial.md>) [startup](<startup.md>) [Clojure](<Clojure.md>)
+                - And maybe I can increase or decrease the weight of each tag, and link them to individual content blocks. This increases metadata for both the post and its poster. Example:
+                    - See writing-related post -> click-fb-reaction-like-thing -> hit "related to `coding`" -> increase [Conor White-Sullivan](<Conor White-Sullivan.md>)'s coding tag by 5pts -> then optionally,  hit `show me more/less like this`
+            - Maybe see serendipitous connections between users, like noticing that 
+                - all my good friends are vegan or coders or mormons
+                - my coworkers are all rEpUblIcAn
+        - A few more ideas: 
+        - Maybe we should also allow users to show their own identity/label, but not directly: AI should analyze their profile's content, and leverage crowdsourced labels too, maybe. 
+        - Perhaps lift assigned labels periodically, or request automatic or smart reviews? e.g. Ask to me to review the `Java programmer` tag I assigned John since AI noticed that he's been posting mostly __writing__ content in the past year.
+- #[Free Hierarchy](<Free Hierarchy.md>) In language, each word can have multiple meanings, but when used in a sentence, it'll serve to represent one specific meaning/purpose. 
+    - But here's where it gets interesting: Thanks to the word's other meanings outside this context, we can create amazing [isomorphic expansions](<isomorphic expansions.md>) and enrich the arrangement.
+    - For example: wordplay, puns, double-entendres, rap. 
+- [questions](<questions.md>) Can we use [Free Hierarchy](<Free Hierarchy.md>) to criticize/explain consumerism and malls?

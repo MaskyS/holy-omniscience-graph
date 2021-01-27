@@ -1,0 +1,2 @@
+- #Quotes
+    - A speech is like a love affair. Any fool can start it, but to end it requires considerable skill. 

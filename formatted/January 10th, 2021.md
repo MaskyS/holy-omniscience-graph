@@ -1,0 +1,19 @@
+- https://twitter.com/azlenelza/status/1269696510611959808 #[Azlen Elza](<Azlen Elza.md>) #[Max Kriegers](<Max Kriegers.md>) #[Chatting With Glue](<Chatting With Glue.md>) #[Information distillation](<Information distillation.md>) [transclusion](<transclusion.md>) [visualizer](<visualizer.md>) 
+- [ ] index and tag https://jon.bo/posts/digital-tools/ [article](<article.md>) #[Jonathan Borichevskiy](<Jonathan Borichevskiy.md>)
+- [ ] tag https://twitter.com/vgr/status/1200101161128185856
+- [Wikigraph](<Wikigraph.md>) is a [Wikipedia](<Wikipedia.md>) [visualizer](<visualizer.md>)/[search engine](<search engine.md>) built by [Drew Tada](<Drew Tada.md>). "Link: giantgra.ph" #[Maps and Exploratory Tools](<Maps and Exploratory Tools.md>)
+- [ ] An [article](<article.md>) on how [Wikigraph](<Wikigraph.md>) was built: https://kcollective.substack.com/p/exploration-engines [Articles](<Articles.md>) [visualizer](<visualizer.md>) #[Maps and Exploratory Tools](<Maps and Exploratory Tools.md>)
+- [ ] Read and categorize http://artifacts.fyi/
+- https://twitter.com/balajis/status/1244422902826426370 #[Balaji Srinivasan](<Balaji Srinivasan.md>) #[Decentralized Technologies](<Decentralized Technologies.md>) #[Free Hierarchy](<Free Hierarchy.md>)
+- https://twitter.com/naval/status/445940612160688129 #[Naval Ravikant](<Naval Ravikant.md>) #[Partial Centralization](<Partial Centralization.md>) #[Free Hierarchy](<Free Hierarchy.md>) [consumption](<consumption.md>) [production](<production.md>)
+- https://twitter.com/ankitkr0/status/1200049404893265920 #[People Search](<People Search.md>) [Twitter](<Twitter.md>) #[Programmable Oracles](<Programmable Oracles.md>)#[Social Search](<Social Search.md>) #[search engine](<search engine.md>)
+- https://twitter.com/visakanv/status/1348212104159875072?s=20 #[curation engine](<curation engine.md>) #[search engine](<search engine.md>) [Twitter](<Twitter.md>)
+- the concept of "adapting buildings" from [How Buildings Learn](<How Buildings Learn.md>), as illustrated here by [Geoffrey Litt](<Geoffrey Litt.md>): https://twitter.com/geoffreylitt/status/1272542423001022467 #[Decentralized Technologies](<Decentralized Technologies.md>) [abstraction](<abstraction.md>)
+    - [ ] Mentioned in the replies was a recommendation for [A Pattern Language](<A Pattern Language.md>) [goodreads](https://www.goodreads.com/book/show/79766.A_Pattern_Language).  To read.
+- [Preeti Kovvali](<Preeti Kovvali.md>) shows how she pulls tweets (manually downloading archive, copy individual tweet, add NER) https://twitter.com/preetiblogs/status/1260335606695178241 #[[[Twitter](<[[Twitter.md>) x [Roam Research](<Roam Research.md>)]] 
+- https://www.geoffreylitt.com/2019/07/29/browser-extensions.html by [Geoffrey Litt](<Geoffrey Litt.md>) #[Browser Extension](<Browser Extension.md>) [article](<article.md>)
+- [Beaker Browser](<Beaker Browser.md>) [Browser](<Browser.md>) #[Decentralized Technologies](<Decentralized Technologies.md>)
+    - {{iframe: https://beakerbrowser.com/}}
+- https://twitter.com/rmeinl/status/1319720393624739840?s=20
+- https://twitter.com/maskys_/status/1348189083185471490?s=20
+- 

@@ -1,0 +1,1 @@
+- is a transformation from which the original is fully recoverable

@@ -1,0 +1,2 @@
+- Weird guy with weird ideas with weird website 😄
+- [Twitter](https://twitter.com/worrydream)

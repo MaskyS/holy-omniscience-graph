@@ -1,0 +1,4 @@
+- Our [[search engine]] must be capable of understanding the difference between convergent and divergent queries.
+- What do I mean by [[convergent vs divergent queries]]?
+    - A **divergent** query would be: `Thailand`; I entered a single word— tell me everything about it, Wikipedia style, from every angle;  I want to know everything that's related to this topic and more.
+    - A **convergent** query, on the other hand, would be cheapest hotels & restaurants in Thailand; I want you to go through various information sources and give me a convergent result – which in this case is just **a list of hotels**.

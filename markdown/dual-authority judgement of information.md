@@ -1,0 +1,2 @@
+- __judging what is said__,—the __information as it is__—by creating an average/summary that dissolves the individual nuances, but also **__judging information by who conveys it__**, either individually or by circle (psychologists, virologists, lawyers, libertarians...).
+- Enables a [[Free Hierarchy]]

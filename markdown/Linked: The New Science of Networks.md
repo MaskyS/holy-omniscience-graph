@@ -1,0 +1,11 @@
+- **metadata**
+    - type: [[Book]]
+    - by: [[Albert-László Barabási]]
+    - tags: #[[network theory]] #[[Free Hierarchy]]
+- ## Notes
+    - The existence of hubs make it easier for other nodes to find a specific node
+        - In the random model, you try to follow your hunch about immediate nodes, and with each step, your next move becomes vaguer
+        - Asking the hub however has greater probability of leading you to the right path.
+    - The web is unnatural for a complex network, because it isn't quite as small-world as the rest of them-- the network diameter is ~19, which is the highest observed iirc.
+    - One side-effect of introducing bidirectional links to the web at large is that the network diameter will be reduced, and balance somewhat restored.
+    - Truly central positions in networks are reserved for nodes that are simultaneously part of many large clusters.

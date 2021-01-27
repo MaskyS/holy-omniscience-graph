@@ -1,0 +1,2 @@
+- [[Start Here]]
+- https://twitter.com/nattyover/status/1282674617623154689 #[[Information distillation]] #podcasts #[[Unstructured Information]] 

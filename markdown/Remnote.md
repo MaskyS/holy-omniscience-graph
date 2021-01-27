@@ -1,0 +1,4 @@
+- Website:
+    - {{iframe: https://remnote.io}}
+- Initial 5-minute impression: Messy UI/UX, more so than [[Roam Research]] back in [[2019]]
+- However, must be researched. 

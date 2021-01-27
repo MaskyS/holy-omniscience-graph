@@ -1,0 +1,2 @@
+- {{[[TODO]]}} https://twitter.com/Conaw/status/1163244483749613568 This is exactly why I started the [[holy omniscience]] graph. I want to accelerate intellectual progress for those focused on its acceleration, regardless of whether they're building a note-taking app.
+- {{[[TODO]]}} Import all of [[Conor White-Sullivan]]'s tweets into this graph, especially circa 2019-early 2020. He's saved me the task of articulating my ideas /s

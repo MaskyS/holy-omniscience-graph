@@ -1,0 +1,15 @@
+-  Here's what AI enables:
+    - ## The [summarization and expansion of information](<summarization and expansion of information.md>)
+        - {{[query](<query.md>): {and: [[[GPT-3](<[[GPT-3.md>) and its funny-talking AI friends]] [summarization and expansion of information](<summarization and expansion of information.md>)}}}
+    - ## Parse the byproducts of [The Lyceum](<The Lyceum.md>) and [Kiraman Katibin](<Kiraman Katibin.md>)]]
+        - Understand which ideas are memeable
+            - https://twitter.com/seanlinehan/status/1267482265602232320
+        - Use the [Kushoujin](<Kushoujin.md>) to understand the user's expertise from the consumption log
+        - Distill huge amounts of reviews and critiques into main features or points made
+        - Allow accurate retracing of truth
+            - https://twitter.com/balajis/status/1266180931435417600
+            - https://twitter.com/balajis/status/1266187008390529025
+        - Improve through reproduction
+            - Because edits to textual outlines aren't atomic, as [Chatting With Glue](<Chatting With Glue.md>) mentions.
+                - Unlike code, text isn't edited one character at a time, and there are a million ways to say the same thing
+            - https://twitter.com/asherthoughts/status/1267578143574863872

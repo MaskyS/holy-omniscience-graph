@@ -1,0 +1,18 @@
+- ### Naming
+    - The Lyceum was a temple dedicated to Apollo Lyceus... [It] had been used for philosophical debate long before Aristotle. In addition to military training and educational pursuits... Cult practices of various groups were also held at the Lyceum.
+        - Philosophers such as Prodicus of Ceos, Protagoras, and numerous rhapsodes had spoken there...
+        - The Lyceum was named for the Greek god Apollo Lyceus. Initially a sanctuary made for worshiping Lyceus, it later became a public exercise area, with a gymnasium being constructed later on. It is unknown when this worship was introduced to Athens or when the Lyceum became the sanctuary.
+
+        - Within the Lyceum were many areas serving different purposes. A few were the apodyterion, dromoi, peripatetic, palastra, and gymnasium. The apodyterion was a changing room that was either part of the gymnasium or the palmistry. The dromoi and peripatoi were roads that ran from the east to the west through the modern-day Syntagma square and Parliament building. The palaistra was a wrestling school that was used as the scene for Plato's Euthydemus. It served three functions: a training area, an area for cult activity, and a meeting place for philosophical discussion.[7] The gymnasium was repaired in the 330s BC, but it is thought to have been originally built by Pericles in the fifth century or Pisistratus in the sixth century
+    - [[Lyceum (Classical) - Wikipedia]]
+        - url:: https://en.wikipedia.org/wiki/Lyceum_(Classical)
+- This is a less of a pillar and more of a __layer__. The social skin that holds the flesh of knowledge together. The venue where the event takes place. Humans are social. Society brings accountability and [[skin in the game]].
+- Some prompts:
+    - -  Finding __people__ who share your ideas
+    - - Finding people who think differently about your ideas
+    - - Curation
+        - Exposing curation. [[Everybody is a curator]].
+    - - [[Scenius]]
+    - - Learning from experts
+    - Social learning
+    - - Discussing an idea with others.

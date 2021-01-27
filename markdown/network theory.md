@@ -1,0 +1,4 @@
+- a.k.a [[network science]].
+- ## Terminologies
+    - [[network diameter]]
+    - [[small-world]]

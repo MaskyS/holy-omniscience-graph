@@ -1,0 +1,2 @@
+- The [[Idea Market]] is a concept brought forward by [[Mike Elias]], which he expands upon in his [[2019]] piece, [[Decentralizing the search for truth using idea markets]]
+- {{iframe: https://ideamarket.io/}}

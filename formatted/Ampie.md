@@ -1,0 +1,5 @@
+- A [Gossip Aggregator](<Gossip Aggregator.md>) [Browser Extension](<Browser Extension.md>) by [Gleb Posobin](<Gleb Posobin.md>)
+- scans [Twitter](<Twitter.md>) and [Hacker News](<Hacker News.md>) for discussions about the page/domain you're on. 
+- Also [Democratize curation](<Democratize curation.md>) by "amplifying" a page to your followers
+- Website
+    - {{iframe: https://ampie.app}}

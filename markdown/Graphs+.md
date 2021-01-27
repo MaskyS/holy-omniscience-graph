@@ -1,0 +1,3 @@
+- is an inter-[graph]([[Knowledge Graphs]]) [[visualizer]] by [[Marko Arezina]]
+- Website:
+    - {{iframe: https://graphs.plus}}

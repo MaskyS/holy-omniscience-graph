@@ -1,0 +1,58 @@
+- https://twitter.com/jordanmoore/status/1352381177278164993/photo/3 [[Atlas Recall]]: a [visual]([[visualizer]]) [[search engine]] concept for finding local/cloud documents/files/texts/photos etc
+- #questions Is there a database of data visualization and arrangement  techniques, and the data properties they require of the entities they're visualizing?
+- #questions Will [[Roam Research]] eventually allow writing [[queries]] in natural language, and maybe give me suggestions as I'm writing them?
+    - e.g. predict `[[Company Project]]` as I write `[[TODO]]`?
+- {{[[TODO]]}} Research [[Remnote]] and its new relationship system
+- #questions How should an [[Free Hierarchy]] evolve over time?
+- {{[[TODO]]}} #questions What should relationships look like in a [[Free Hierarchy]]? Can we quantify or describe relationships between nodes? 
+    - Can we predict them by analyzing the free hierarchies we know of?
+- #questions How should [[Roam Research]]'s graph view evolve to be more useful?
+    - Right now, it does basically nothing except show relationships between pages/keywords
+- {{[[DONE]]}} Improve UI/UX of this graph so it looks better and isn't overwhelming #meta
+    - Use #Lexend for body text
+    - Add in some nice theme from https://github.com/theianjones/roam-research-themes/
+- #questions Should [[privacy]] in [[The Information Platform of The Future]] resemble [[collapsible parentheticals]]? i.e. some information, inline, displayed to some users but not others.
+    - Or should it privacy stop at block-level, and use block-versioning instead?
+        - i.e. Some blocks hidden to some users, while other blocks display different versions of themselves
+- #questions How do you create more [free hierarchies]([[Free Hierarchy]]) in real life, without aggravating the fragmentation of legal systems? 
+- #questions Which businesses explicitly enable [free hierarchies]([[Free Hierarchy]])? 
+    - Which businesses get rewarded for creating new hierarchies from existing nodes and assigning them entirely new purposes? Maybe [[Facebook]]?
+    - e.g. [[Uber]] did it for cars, freeing them from time/driver/owner.
+- {{[[TODO]]}} #questions How does the concept of [[convergent vs divergent queries]] fit within the theory of [[Free Hierarchy]]?
+- #questions Is there such a thing as [[isomorphic expansions]]? Whereby we have one main idea that we expand upon in different mediums (or hierarchies?)
+    - For example, in movies, where the idea is communicated through:
+        - Dialogue
+        - Framing/Editing
+        - Color Grading
+        - Symbolism
+        - Foreshadowing
+        - Body Language
+- [[What does it mean to see?]]
+- ## [[[[The Lyceum]] should allow [[People Tagging]]]]
+    - I think it'll be crucial in [[The Information Platform of The Future]] for users to be able to assign meaningful labels and tags to people-- whether those they follow or not, albeit to varying degrees.
+    - ### Why?
+        - A tagging system reflects our mental organization of individuals better. After all, people have different identities in different contexts. 
+        - [[Facebook]] currently has a folder method of organization (Friends vs Acquaintances etc), which a) is a vanity label and b) assumes there is only one hierarchy.
+            - [[Instagram]] has a more restricted version of this with its Close Friends feature, similarly useless
+        - [[Twitter]] is a little better off, with its Lists feature, where one individual can be added to different groups, and then shows posts of just that group. 
+        - All of these methods are still rigid though.
+        - My proposition might look like a blend of [[Twitter]]'s Lists and [[LinkedIn]]'s skill endorsements.
+        - More properties, at the user-entity level, means better information control, like the following queries:
+            - Show me all coding tweets from java programmers whom I've also tagged professional (skill level) during the past week
+            - Which resources related to cross-fit did my gym buddies consume/like?
+        - By allowing me to add non-vanity tags, I can rearrange my information silos/networks.
+            - It gives me a deeper, multidimensional overview into an individual I follow with just a glance at their profile. 
+                - Maybe I'll have [[Conor White-Sullivan]] with the following tags:
+                    - #[[Roam Research]] #memes #chad #spiritualism #tech #[[The Information Platform of The Future]] #[[Knowledge Graphs]] #programming #texas #millenial #startup #Clojure
+                - And maybe I can increase or decrease the weight of each tag, and link them to individual content blocks. This increases metadata for both the post and its poster. Example:
+                    - See writing-related post -> click-fb-reaction-like-thing -> hit "related to `coding`" -> increase [[Conor White-Sullivan]]'s coding tag by 5pts -> then optionally,  hit `show me more/less like this`
+            - Maybe see serendipitous connections between users, like noticing that 
+                - all my good friends are vegan or coders or mormons
+                - my coworkers are all rEpUblIcAn
+        - A few more ideas: 
+        - Maybe we should also allow users to show their own identity/label, but not directly: AI should analyze their profile's content, and leverage crowdsourced labels too, maybe. 
+        - Perhaps lift assigned labels periodically, or request automatic or smart reviews? e.g. Ask to me to review the `Java programmer` tag I assigned John since AI noticed that he's been posting mostly __writing__ content in the past year.
+- #[[Free Hierarchy]] In language, each word can have multiple meanings, but when used in a sentence, it'll serve to represent one specific meaning/purpose. 
+    - But here's where it gets interesting: Thanks to the word's other meanings outside this context, we can create amazing [[isomorphic expansions]] and enrich the arrangement.
+    - For example: wordplay, puns, double-entendres, rap. 
+- #questions Can we use [[Free Hierarchy]] to criticize/explain consumerism and malls?

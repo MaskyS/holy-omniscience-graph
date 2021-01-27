@@ -1,0 +1,113 @@
+- **metadata**
+    - [[type]]: #article
+    - [[author]]: [[Mike Elias]]
+    - [url](https://medium.com/@harmonylion1/decentralizing-the-search-for-truth-using-financial-markets-648bf4408b5c) 
+- Centralized media institutions create “fiat narratives” by forcing self-serving interpretations of reality on the public. In the same way that fiat currencies are valuable only because governments say they are, **fiat narratives are true only because media corporations say they are.**
+- Media corporations have near-limitless power to enforce fiat narratives using tactics like these:
+    - Limiting the scope of discussion (“Democrat vs. Republican”)
+    - [Astroturfing]([[astroturf]]) (paying people to imitate a grassroots movement) 
+    - Distributing airtime ($4B of free airtime to Donald Trump in 2016) 
+    - Sponsoring entertainment and media ([CIA involvement in media](http://www.carlbernstein.com/magazine_cia_and_media.php)) 
+    - Great firewalls (China) 
+    - Banning media outlets ([Facebook ](https://www.theguardian.com/technology/2018/oct/16/facebook-political-activism-pages-inauthentic-behavior-censorship)and Twitter) 
+    - Interrupting members of US Congress to cover Justin Bieber ([Video](https://www.youtube.com/watch?v=GH68bSJXGE8)) 
+    - Scripting local news on a national scale ([Video](https://youtu.be/hWLjYJ4BzvI))
+    - many more
+- No amount of public outcry or reasoned dissent can change fiat narratives if doing so would threaten the power of their issuers.
+    - > In the same way that fiat currencies are valuable only because governments say they are, fiat narratives are true only because media corporations say they are.
+- In the same way that Bitcoin allows people to transact without trusting banks and governments to manage fiat currency, a **decentralized market that measures the perceived value of ideas** allows people to define reality without trusting fiat narratives created by centralized media and other reality-defining institutions.
+- # Ideological risk management
+    - [[Pascal’s Wager]] is one of the most famous examples of **beliefs **being regarded as **bets**.
+    - "![Illustration of Pascal's Wager](https://miro.medium.com/max/2415/1*LTkICqVskVQa0SPQCKu38A.jpeg)"
+    - Pascal argues in favor of a belief in God due to its high reward and low risk, and to the high risk and low reward of its alternative.
+    - In one way or another, all beliefs work this way — when we “bet on” a belief, we expect to be rewarded more for holding that belief than we would for betting on an alternative.
+    - Typically, the risks involved in betting on a belief are primarily personal and social:
+        - “Will my community still accept me if I contradict their beliefs?”
+
+        - “I’ve been saying x on social media, how embarrassing would it be if I started saying y?”
+        - “If I believed something else, who would I even be?”
+    - Research on [numeracy](https://www.motherjones.com/politics/2013/09/new-study-politics-makes-you-innumerate/), [cult behavior](https://en.wikipedia.org/wiki/When_Prophecy_Fails), [science denial](https://www.motherjones.com/politics/2011/04/denial-science-chris-mooney/), and [scientific suppression](https://www.bmartin.cc/pubs/16hai/Delborne.html) shows people tend to be far more concerned with issues like the above than with whether they are actually right or wrong.
+    - This is normal and natural, but it’s no secret that humans are lousy belief-investors. We do not manage “ideological risk” well at all.
+        - > “Rationality is risk management; nothing more.”
+   — [[Nassim Nicholas Taleb]]
+    - To achieve collective “rationality,” therefore, **__we need a mechanism for collective ideological risk management__** — an **idea market** that uses financial structures to assign value to ideas, propositions, and narratives about how the world works.
+    - Introducing financial risks and rewards to “belief betting” alters the risk management landscape for decision-making about beliefs. Not only do financial markets codify what “deciding what to believe” means in the first place (i.e., making a bet), they **reward better thinking and punish worse thinking.**
+- # What is an idea market?
+    - Idea markets use investment to establish credibility for ideas and narratives without trusting a centralized third party.
+    - Fundamentally, idea markets use price discovery to advance discovery. 
+    - ### A protocol for ideological risk management
+        - While hopefully idea markets make intuitive sense, one metaphor may resonate more than another. So here are a bunch to choose from:
+            - A protocol for the battlefield of ideas
+            - A protocol for [[trustless credibility]]
+            - A protocol for defining reality without media corporations
+            - A protocol for harnessing greed to empower curiosity
+            - A protocol for capturing the value of obscure genius
+            - A protocol for perpetual scientific and cultural revolution
+            - A protocol for killing bad ideas
+            - A protocol for rendering propaganda powerless
+            - A protocol for making credibility harder to achieve by force than by merit
+            - A protocol for using price discovery to advance discovery
+            - A protocol for creating high-quality common knowledge
+            - A perpetual global dashboard for sincere belief
+            - An authority without authorities
+            - An intellectual gold mine
+        - Idea markets allow investors to profit by identifying and popularizing under-appreciated ideas. (I call this venture philosophy.)
+        - Since anyone can participate, an “intellectual gold rush” will occur, as millions of people comb the internet to find obscure geniuses and usher them into the spotlight.
+    - ### A scientific and cultural revolution engine
+        - Kuhn’s Structure of Scientific Revolutions argues that scientific progress is incremental most of the time — only occasionally do we participate in revolutionary science, in which discoveries are made that change our fundamental assumptions about the world.
+        - Idea markets crowdsource a continuous renewal of our fundamental assumptions about the world, enabling an environment of perpetual scientific and cultural revolution.
+        - [[William Gibson]] wrote, "“The future is here; it just isn’t evenly distributed yet.”" Idea markets are future-distributors.
+    - ### Humanity’s ideological immune system
+        - By making it profitable to identify under-appreciated ideas, idea markets in turn make it expensive to promote ideas that can’t stand on their own merits — propaganda and false narratives.
+        - Corporate and governmental interests will need to continually spend money to artificially inflate the value of a false narrative, and with each passing day the reward to venture philosophers who convincingly replace or refute it will increase. Thus, weak narratives are doomed to crumble and propaganda is doomed to fail. 
+- # The first idea market — [ideamarket.io](ideamarket.io)
+    - ![Image for post](https://miro.medium.com/max/3850/1*eCOitsBbfuU1hFd5sOvFYA.png)
+    - ## How it works:
+        - ### **The market ranks primary domains only.**
+            -  This way, listed websites have their brand on the line, not just single articles. The domain/brand acts as an “ETF” or moving average of the attentionworthiness of their articles. 
+        - ### **Submit new publications and buy upvotes. **
+            - Votes are managed by a bonding curve, and increase in cost in proportion to circulating supply. This way, there is always liquidity and a fixed correlation between supply and demand. 
+        - ### **Interest on deposits used to buy votes, goes to the owner of the listed domain. **
+            - When you buy votes, the money you spend doesn’t just go into some company’s pocket — it’s deposited into [compound.finance](compound.finance), a decentralized lending platform that performs the functions of a bank using only software, without human involvement. Deposits on all votes earn interest via compound. This interest is given to the owner of the listed domain — the journalist.
+    - **A journalist who inspires just $10,000 in deposits can earn $100-$1,000 per year without ads, subscriptions, or donations**. $1 million in deposits is a sustainable living: $10,000-$100,000 in annual interest.
+    - (**August 5, 2020: 4.58%, or $45,800 annually**. See historical lending rates for DAI on Compound here: https://loanscan.io/earn/historical) 
+- # FAQ
+    - ### What do idea markets measure, exactly?
+        - Idea markets measure
+            - current
+            - perceived 
+            - usefulness
+        - **Current**: That the Earth moves ‘round the sun would have been very exciting and disruptive 400 years ago, not so much today.
+        - **Perceived**: Idea markets operate on the assumption that discovering important “truths” with any kind of finality is impossible. Idea markets, like science, share the principle that all discovery is tentative, pending improvements.
+        - **Usefulness**: An idea market investment asserts that an idea is worthy of increased attention. Profitability is proportionate to how many others come to agree with you over time. 
+    - ### What’s the value of measuring “perceived” truth?
+        - > What gets measured gets managed. — [[Peter F. Drucker]]
+        - ^^Measuring perceived truths allows us to collectively manage the zeitgeist, rather than have it managed for us by centralized interests.^^
+        - The purpose of idea markets is not to fully eradicate falsehoods or forcefully prevent them from achieving prominence. It’s to create a game that over time rewards billions of people for managing truth responsibly instead of dozens of people for managing it poorly.
+        - (Replace “truth” with “money” in that last sentence and you get the purpose of Bitcoin.) 
+    - ### Is this like a prediction market?
+        - The intent is entirely different. Prediction markets reward people who predict the outcomes of events. They close at a specific moment, and require an oracle to testify to the outcome.
+        - Idea markets reward people who identify useful information. They operate in perpetuity, and on the assumption that determining important “truths” with finality is impossible. They therefore need no oracle to decide who is “right.” The market decides over time.
+        - The purpose of an idea market is to make quality a requirement for popularity instead of an obstacle to it.
+        - Image for post 
+    - ### What’s to prevent pump-and-dumps?
+        - Two conditions allow pump-and-dumps to succeed. Idea markets allow neither:
+            - **1. Low liquidity**
+                - Since idea markets use bonding curves, people buy and sell directly from the platform rather than with each other. The platform provides constant liquidity.
+            - **2. Information asymmetry**
+                - The fundamental value of an ICO token is often based on “partnerships” and other big announcements that are difficult to verify (especially before being made public). PnD group leaders exploit this by making up unverifiable rumors about partnerships and tempting people to buy in.
+                - **The fundamental value of an idea token is fully contained in the idea it represents**. There is no secret partnership to concoct, and no information asymmetry between some insider and the public. All possible signals of value are contained in the publicly-traded idea itself, and investors should not buy an idea for any reason other than sincere conviction. 
+        - ### Won’t this allow people to manipulate narratives directly?
+            - 1. **Direct manipulation is far better**. Today, links between information manipulation and vested interests are obfuscated. In idea markets, they’re explicit. 
+            - 2. Over time, this only transfers money from propagandists to disruptors:
+                - Image for post 
+- # Conclusion
+    - ### **The “fiat narrative” model is dead. Public thirst for a new reality-definition protocol is urgent.**
+    - Nobody knows what to do about loss of faith in the fiat narrative.
+    - Global content distributors like Facebook and Twitter respond by banning “illegitimate” ideas one at a time. Their approach reflects the mentality — and the futility — of America’s approach to fighting terrorism. The pattern is clear: Ideas can’t be killed by force.
+    - Ideas can be killed by disinterest — by comparison to an alternative so superior in every way that the original loses its luster.
+    - Idea markets are a protocol for killing bad ideas. They are are therefore the only solution to the “fake news” crisis and the crisis of credibility befalling journalism in general.
+        - > The important thing is to establish a political climate of opinion which will make it politically profitable for the wrong people to do the right thing.” ― Milton Friedman
+    - Sign up for updates: ideamarket.io
+    - Still have questions? Check out our interviews, here: https://twitter.com/harmonylion1/status/1283811401295900674?s=20
+    - If you got at least 0.00000001 Bitcoin worth of value from this post, please “Clap” below so others will see it. Thanks so much!

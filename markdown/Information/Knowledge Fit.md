@@ -1,0 +1,7 @@
+- Simply put, [[Information/Knowledge Fit]] is
+    - putting things into context— __your__ context.
+    - about telling you **only what you don't know** using __as little of what you know__ as possible while ensuring that you understand it sufficiently to make effective use of the information.
+- Let's take a programming tutorial for instance. When the material is too  shallow, the verbosity can be overwhelming and boring ("just get to the point already! Which part do I copy-paste?!!"); but when the author assumes you know too much, it can feel like you're reading Latin.
+- [[Information/Knowledge Fit]] is about filtering someone's work down to only what interests you
+- When you have to look up every other term, the connection between the strings of words is severed, thus their meaning is lost (on you).
+    - https://twitter.com/DavidSHolz/status/1320966840710025217 #context #[[Information/Knowledge Fit]]

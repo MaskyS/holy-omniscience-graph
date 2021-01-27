@@ -1,0 +1,2 @@
+- [[Chatting With Glue]] is a phenomenal comic by [[Max Kriegers]] written in [[2020]]. Read it [here](https://a9.io/glue-comic/):
+    - {{iframe: https://a9.io/glue-comic/}}

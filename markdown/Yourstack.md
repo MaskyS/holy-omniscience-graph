@@ -1,0 +1,4 @@
+- [Website](https://yourstack.com/)
+- "YourStack is the place to share and discover your favorite products... Stack your favorite apps, books, games, gadgets, camping gear, headphones, fashion brands, and more."
+- In other words, a website to track what you consume/use enable social curation.
+- #[[Kiraman Katibin]] #curation #[[The Lyceum]]

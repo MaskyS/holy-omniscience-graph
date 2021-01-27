@@ -1,0 +1,26 @@
+- # Core Tenets
+    - [[[[Athens Research]] Vision Mindmap v2]] is an excellent resource:
+        - {{iframe: https://whimsical.com/embed/TCeXP1dpRkdT8rpMvYci2P  }}
+    - But beyond that, in terms of **principles**, I think tools for thoughts should have:
+        - drastically reduce effort to capture thoughts and ideas
+        - allow personal  definitions of truths and subjects to arise
+        - Modularize thoughts even as you embed them into deeper and more intricate webs of knowledge
+        - reduce redundancy
+        - allow thought indenting in order to enable zooming in and out of details
+        - effortless organization and finding of specific information
+        - Integrate seamlessly with tools for production, generation, and consumption. 
+            - Have no trouble creating pointers to knowledge outside the tool for example Twitter or Quotebacks
+            - [[Mercury]] by [[Andy Gao]] allows us to tweet blocks directly from [[Roam Research]]
+                - https://twitter.com/andyga0/status/1342533586726113283
+- In Development
+    - [[Roam Research]]
+        - Roam comes with the following features that make it absolutely amazing
+            - Reusable thought blocks/transclusion
+            - Collapsible parentheticals ((that work like this!))
+            - Different versions of the same blocks
+            - Back links and references as well as queries
+            - block embeds. Write once, edit anywhere.
+    - [[Codex Editor]]
+    - [[Athens Research]]'s list of 
+        - tools: https://www.notion.so/db13644f08144495ad9877f217a161a1?v=ff6777802811416ba08dc114e0b11837
+        - tools that are __planning__ to support backlinks: https://www.notion.so/4452365eac2c4963a21d2a66421a3e9b?v=3aee7aeca7c34baa82825fa4958aa303

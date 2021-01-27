@@ -1,0 +1,3 @@
+- the study of quantitative aspects of information. This includes the production, dissemination, and use of all forms of information, regardless of its form or origin.
+- Wikipedia entry:
+    - {{iframe: https://en.wikipedia.org/wiki/Informetrics}}

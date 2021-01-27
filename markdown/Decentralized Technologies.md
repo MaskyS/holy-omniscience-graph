@@ -1,0 +1,8 @@
+- [[Kifah Meeran]] knows this tech will be important, but his knowledge of blockchains is lacking, and simply doesn't understand how yet. There's at least two aspects: 
+    - The rewards system, which will be important for signaling the value of resources, actions, and individuals
+    - The capability for decentralized, immutable truth. Anyone should be able to provide their perspective. 
+    - Anyone should be able to choose whose truth they want to hear.
+- Regardless, here's an attempt at collecting relevant resources.
+- [[Idea Market]]
+    - "The [[Idea Market]] is a concept brought forward by [[Mike Elias]], which he expands upon in his [[2019]] piece, [[Decentralizing the search for truth using idea markets]]"
+    - "{{iframe: https://ideamarket.io/}}"

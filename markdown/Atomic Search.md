@@ -1,0 +1,4 @@
+- [[Atomic Search]] enables [[Semantic information]], transforming [[Unstructured Information]] into [[Knowledge Graphs]], that I assume their [[search engine]] runs on.
+- Founded by [[Igor Lenterman]] and [[Harvey Pratt]]
+- Website:
+    - {{iframe: https://atomicsearchinc.com}}

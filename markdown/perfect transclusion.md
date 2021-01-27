@@ -1,0 +1,5 @@
+- At the moment, transclusion is neither complete nor searchable. Redundancy abounds.
+- For instance, I can't index (search, refer) embedded tweets in [[Roam Research]]; doing so requires me to manually copy the data.
+- Perfect transclusion means having the ability to pull in data from somewhere else and apply any [[Isomorphism]]s on it, like a search, quote, etc.  
+- Example tools for transclusion
+    - [[Quotebacks]]

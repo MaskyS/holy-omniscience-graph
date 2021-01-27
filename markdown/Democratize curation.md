@@ -1,0 +1,17 @@
+- [[Everybody is a curator]], but most of it goes wasted
+- No platform truly takes into account who the curator is and who the follower is. i.e. no skin in the game, no [[dual-authority judgement of information]] and little interest+social personalisation
+- Exposing curation is hard and scattered.
+    - Books: twitter threads, goodreads, blogposts, newsletters, instagram
+    - [[Articles]]: social media, newsletters, blogs 
+    - Why? Because no platform seamlessly integrates __consumption__, __personalisation__, judgement and "block-level" sharing. 
+- Big Tech has a monopoly on algorithms:
+    - - [[Spotify]] playlists
+    - [[Facebook]], [[Instagram]] - basically untweakable beyond follows and muting
+    - [[Twitter]] - follow, muting, retweet controls. There's lists but that's not the feed.
+- Curation is largely ephemereal and one-dimensional due to a lack of [[Information distillation]] mechanisms
+    - "best books I read in 2019"
+    - "best threads from X"
+    - value judged using vanity and unaligned metrics, i.e. likes and shares
+- " [[The rise of community-curated knowledge networks]] by [[Sari Azout]], ((or as I like to call her, the woman who stole my brain,)) excellently showcases the intersection between [[Tools for Thoughts]] and social [[curation]]. #[[Knowledge Graphs]] #[[curation engine]]"
+- Generate and expose taste profiles / filter bubbles
+    - 

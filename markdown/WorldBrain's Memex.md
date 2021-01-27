@@ -1,0 +1,5 @@
+- An open source [[Browser Extension]]
+    - allows you to save snippets on the web, annotate websites, [search]([[search engine]]) through your bookmarks/notes (and previously, your browser history) while googling, and more. #[[Kiraman Katibin]]
+    - quite similar to [[Hypothes.is]], the main difference being that it's trying to integrate the [social aspect](https://www.notion.so/BETA-Sharing-collections-annotated-pages-and-highlights-6ce87a6c88c24bb393818ecc64505ce4) as well. #[[The Lyceum]]
+- Website
+    - {{iframe: https://getmemex.com/}}
