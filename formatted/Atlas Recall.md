@@ -18,6 +18,9 @@ It’s even **worse at things like Microsoft Office documents, which it can find
         - - unescapable privacy concerns every time its mentioned, a sentiment that has grown way stronger today. People are not okay with a centralized info-silo.
         - -storing every move of user = crapload of user data = unrealistic costs
         - - bottlenecked by internet connection, not good given graphic-heavy content and nature of query (search, which already is resource-intensive)
+- https://spencerleejames.wordpress.com/portfolio/atlas-recall-user-research/
+- https://medium.com/@richkolasa/why-notion-so-c8ead733dc64
+- 
 
 # Backlinks
 ## [January 22nd, 2021](<January 22nd, 2021.md>)

@@ -18513,6 +18513,38 @@
         ],
         "string": "[My]([[Kifah Meeran]]) Personal Postmortem",
         "uid": "CGmpoT7Pq"
+      },
+      {
+        "create-email": "khalifatinrawdiya@gmail.com",
+        "create-time": 1611843292491,
+        "edit-email": "khalifatinrawdiya@gmail.com",
+        "edit-time": 1611843293982,
+        "string": "https://spencerleejames.wordpress.com/portfolio/atlas-recall-user-research/",
+        "uid": "rIKiF1nM2"
+      },
+      {
+        "create-email": "khalifatinrawdiya@gmail.com",
+        "create-time": 1611843786608,
+        "edit-email": "khalifatinrawdiya@gmail.com",
+        "edit-time": 1611843787535,
+        "string": "https://medium.com/@richkolasa/why-notion-so-c8ead733dc64",
+        "uid": "l_IdNToFv"
+      },
+      {
+        "create-email": "khalifatinrawdiya@gmail.com",
+        "create-time": 1611843793939,
+        "edit-email": "khalifatinrawdiya@gmail.com",
+        "edit-time": 1611843795469,
+        "string": "https://www.jackvinson.com/blog/2016/11/23/search-or-find-or-recall",
+        "uid": "uqmkzLEb0"
+      },
+      {
+        "create-email": "khalifatinrawdiya@gmail.com",
+        "create-time": 1611843795766,
+        "edit-email": "khalifatinrawdiya@gmail.com",
+        "edit-time": 1611843795766,
+        "string": "",
+        "uid": "sB-hs1ZP8"
       }
     ],
     "create-email": "khalifatinrawdiya@gmail.com",
@@ -22416,30 +22448,30 @@
         "create-email": "khalifatinrawdiya@gmail.com",
         "create-time": 1611827716610,
         "edit-email": "khalifatinrawdiya@gmail.com",
-        "edit-time": 1611827743864,
+        "edit-time": 1611843043734,
         "refs": [
           {
             "uid": "LIwlyCy3r"
           }
         ],
-        "string": "Meta is [[Atlas Recall]] 2.0.",
+        "string": "Meta is [[Atlas Recall]] 2.0",
         "uid": "9hbFIYsDM"
       },
       {
         "create-email": "khalifatinrawdiya@gmail.com",
-        "create-time": 1611827743858,
+        "create-time": 1611843657955,
         "edit-email": "khalifatinrawdiya@gmail.com",
-        "edit-time": 1611827743858,
-        "string": "",
-        "uid": "7cND2H9O0"
+        "edit-time": 1611843746368,
+        "string": "Interestingly, their [firefox](https://addons.mozilla.org/en-US/firefox/addon/meta-extension/) extension page listing is in chinese + listed as experimental.",
+        "uid": "QsvnpIVaw"
       },
       {
         "create-email": "khalifatinrawdiya@gmail.com",
-        "create-time": 1611827727645,
+        "create-time": 1611843679693,
         "edit-email": "khalifatinrawdiya@gmail.com",
-        "edit-time": 1611827727645,
-        "string": "",
-        "uid": "0IcnWfHhh"
+        "edit-time": 1611843733044,
+        "string": "In total, ~400 [installs](https://chrome.google.com/webstore/detail/meta-browser-extension-re/ofojdnfeldgockahabacmeehlgkclmpl?hl=en) on browsers, so can estimate max of 1000 beta testers.",
+        "uid": "ZwEj4p_xK"
       }
     ],
     "create-email": "khalifatinrawdiya@gmail.com",
