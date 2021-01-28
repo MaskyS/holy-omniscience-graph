@@ -1,0 +1,1 @@
+- "screenome"s are just the pop-science term for memex. It was coined by Stanford social scientists. https://screenomics.stanford.edu/

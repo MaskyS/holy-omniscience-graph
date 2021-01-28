@@ -22369,6 +22369,44 @@
     "uid": "01-27-2021"
   },
   {
+    "children": [
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "LIwlyCy3r"
+          },
+          {
+            ":block/uid": "JYI20UrCu"
+          },
+          {
+            ":block/uid": "zdM9mCJQ-"
+          },
+          {
+            ":block/uid": "orGH4KOnT"
+          }
+        ],
+        "create-email": "khalifatinrawdiya@gmail.com",
+        "create-time": 1611853290748,
+        "edit-email": "khalifatinrawdiya@gmail.com",
+        "edit-time": 1611853321156,
+        "refs": [
+          {
+            "uid": "LIwlyCy3r"
+          },
+          {
+            "uid": "JYI20UrCu"
+          },
+          {
+            "uid": "zdM9mCJQ-"
+          },
+          {
+            "uid": "orGH4KOnT"
+          }
+        ],
+        "string": "Updates made to [[Atlas Recall]], [[move37]], [[Meta]], [[screenomex]]",
+        "uid": "1PXPj_Js0"
+      }
+    ],
     "create-email": "khalifatinrawdiya@gmail.com",
     "create-time": 1611817432718,
     "edit-email": "khalifatinrawdiya@gmail.com",
@@ -22666,18 +22704,30 @@
             ":block/refs": [
               {
                 ":block/uid": "LIwlyCy3r"
+              },
+              {
+                ":block/uid": "Y5imGASdc"
+              },
+              {
+                ":block/uid": "YxjEQX7zy"
               }
             ],
             "create-email": "khalifatinrawdiya@gmail.com",
             "create-time": 1611846684388,
             "edit-email": "khalifatinrawdiya@gmail.com",
-            "edit-time": 1611851843709,
+            "edit-time": 1611852471244,
             "refs": [
               {
                 "uid": "LIwlyCy3r"
+              },
+              {
+                "uid": "Y5imGASdc"
+              },
+              {
+                "uid": "YxjEQX7zy"
               }
             ],
-            "string": "By the way, [[Atlas Recall]] was acquired by ",
+            "string": "By the way, [[Atlas Recall]]'s company, [[Atlas Informatics]], was acquired by [[Xinova]], which has quite a few west-asian [connections](https://www.linkedin.com/search/results/people/?currentCompany=[\"12901573\"]).",
             "uid": "mEfbETqk_"
           }
         ],
@@ -22705,6 +22755,34 @@
     "uid": "zdM9mCJQ-"
   },
   {
+    "children": [
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "xQ1iQifc9"
+          }
+        ],
+        "create-email": "khalifatinrawdiya@gmail.com",
+        "create-time": 1611852174504,
+        "edit-email": "khalifatinrawdiya@gmail.com",
+        "edit-time": 1611852204505,
+        "refs": [
+          {
+            "uid": "xQ1iQifc9"
+          }
+        ],
+        "string": "screenomex is a \"visual data platform\" that aims to provide [[screenome]]s for all.",
+        "uid": "21h9wa8bZ"
+      },
+      {
+        "create-email": "khalifatinrawdiya@gmail.com",
+        "create-time": 1611852151606,
+        "edit-email": "khalifatinrawdiya@gmail.com",
+        "edit-time": 1611852248301,
+        "string": "Website http://screenomex.com",
+        "uid": "65DjrzR5T"
+      }
+    ],
     "create-email": "khalifatinrawdiya@gmail.com",
     "create-time": 1611827626820,
     "edit-email": "khalifatinrawdiya@gmail.com",
@@ -22901,5 +22979,39 @@
     "edit-time": 1611847924640,
     "title": "Product Hunt",
     "uid": "OywEMp2Go"
+  },
+  {
+    "children": [
+      {
+        "create-email": "khalifatinrawdiya@gmail.com",
+        "create-time": 1611852209729,
+        "edit-email": "khalifatinrawdiya@gmail.com",
+        "edit-time": 1611852305380,
+        "string": "\"screenome\"s are just the pop-science term for memex. It was coined by Stanford social scientists. https://screenomics.stanford.edu/",
+        "uid": "oha85HNEa"
+      }
+    ],
+    "create-email": "khalifatinrawdiya@gmail.com",
+    "create-time": 1611852202571,
+    "edit-email": "khalifatinrawdiya@gmail.com",
+    "edit-time": 1611852202573,
+    "title": "screenome",
+    "uid": "xQ1iQifc9"
+  },
+  {
+    "create-email": "khalifatinrawdiya@gmail.com",
+    "create-time": 1611852328573,
+    "edit-email": "khalifatinrawdiya@gmail.com",
+    "edit-time": 1611852328577,
+    "title": "Xinova",
+    "uid": "Y5imGASdc"
+  },
+  {
+    "create-email": "khalifatinrawdiya@gmail.com",
+    "create-time": 1611852348110,
+    "edit-email": "khalifatinrawdiya@gmail.com",
+    "edit-time": 1611852348112,
+    "title": "Atlas Informatics",
+    "uid": "YxjEQX7zy"
   }
 ]
