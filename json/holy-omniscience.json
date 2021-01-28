@@ -9965,18 +9965,24 @@
             ":block/refs": [
               {
                 ":block/uid": "viRVE90Ry"
+              },
+              {
+                ":block/uid": "hvNLeANVs"
               }
             ],
             "create-email": "khalifatinrawdiya@gmail.com",
             "create-time": 1610194636543,
             "edit-email": "khalifatinrawdiya@gmail.com",
-            "edit-time": 1611485335769,
+            "edit-time": 1611817956928,
             "refs": [
               {
                 "uid": "viRVE90Ry"
+              },
+              {
+                "uid": "hvNLeANVs"
               }
             ],
-            "string": "See one possible implementation in action in 's [[Abstraction Slider]] and Content Augmentation sections.",
+            "string": "See one possible implementation in action in [[The Future of Information]]'s [[Abstraction Slider]] and Content Augmentation sections.",
             "uid": "7kZ9-ZML7"
           },
           {
@@ -17329,31 +17335,25 @@
       {
         ":block/refs": [
           {
-            ":block/uid": "wegvHfzc4"
-          },
-          {
-            ":block/uid": "m2AcgC927"
-          },
-          {
             ":block/uid": "LIwlyCy3r"
+          },
+          {
+            ":block/uid": "cnJ_gZ428"
           }
         ],
         "create-email": "khalifatinrawdiya@gmail.com",
         "create-time": 1611301211730,
         "edit-email": "khalifatinrawdiya@gmail.com",
-        "edit-time": 1611301335092,
+        "edit-time": 1611816513374,
         "refs": [
           {
-            "uid": "wegvHfzc4"
-          },
-          {
-            "uid": "m2AcgC927"
-          },
-          {
             "uid": "LIwlyCy3r"
+          },
+          {
+            "uid": "cnJ_gZ428"
           }
         ],
-        "string": "https://twitter.com/jordanmoore/status/1352381177278164993/photo/3 [[Atlas Recall]]: a [visual]([[visualizer]]) [[search engine]] concept for finding local/cloud documents/files/texts/photos etc",
+        "string": "https://twitter.com/jordanmoore/status/1352381177278164993/photo/3 [[Atlas Recall]]: ((cnJ_gZ428))",
         "uid": "Tly1MeA54"
       },
       {
@@ -18333,6 +18333,122 @@
     "uid": "01-22-2021"
   },
   {
+    "children": [
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "wegvHfzc4"
+          },
+          {
+            ":block/uid": "m2AcgC927"
+          },
+          {
+            ":block/uid": "lSvF-t9NL"
+          },
+          {
+            ":block/uid": "NKYsVi_RJ"
+          }
+        ],
+        "create-email": "khalifatinrawdiya@gmail.com",
+        "create-time": 1611816507609,
+        "edit-email": "khalifatinrawdiya@gmail.com",
+        "edit-time": 1611816538889,
+        "refs": [
+          {
+            "uid": "wegvHfzc4"
+          },
+          {
+            "uid": "m2AcgC927"
+          },
+          {
+            "uid": "lSvF-t9NL"
+          },
+          {
+            "uid": "NKYsVi_RJ"
+          }
+        ],
+        "string": "a [visual]([[visualizer]]) [[search engine]] for finding local/cloud documents/files/texts/photos etc, started in [[2016]] and shut down in [[2017]]",
+        "uid": "cnJ_gZ428"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "iiKmKQr1K"
+          }
+        ],
+        "children": [
+          {
+            "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "bpKc9Ie1A"
+                  },
+                  {
+                    ":block/uid": "07sU6M4SP"
+                  }
+                ],
+                "create-email": "khalifatinrawdiya@gmail.com",
+                "create-time": 1611817073120,
+                "edit-email": "khalifatinrawdiya@gmail.com",
+                "edit-time": 1611818674127,
+                "refs": [
+                  {
+                    "uid": "bpKc9Ie1A"
+                  },
+                  {
+                    "uid": "07sU6M4SP"
+                  }
+                ],
+                "string": "- Started off with a freemium model, and based off this [interview](https://www.youtube.com/watch?v=JHDQLDYnfaU&list=ULZFL7xpKjYsQ&index=893) between the [CEO]([[Jordan Ritter]]) and [[Jason Calacanis]], they hadn't made up their mind on how to charge their customers, so they actually didn't implement the paid features part.",
+                "uid": "BCXsaDxQJ"
+              },
+              {
+                "create-email": "khalifatinrawdiya@gmail.com",
+                "create-time": 1611818644811,
+                "edit-email": "khalifatinrawdiya@gmail.com",
+                "edit-time": 1611818750308,
+                "string": "- From what I understand Atlas captures screenshots for *every* window/screen/visited page, and sends them to their cloud. I imagine that entailed exponential server costs",
+                "uid": "p15_P9wH7"
+              },
+              {
+                "create-email": "khalifatinrawdiya@gmail.com",
+                "create-time": 1611818750302,
+                "edit-email": "khalifatinrawdiya@gmail.com",
+                "edit-time": 1611818775770,
+                "string": "- They never seemed to have a defined target market. Sure, they mention enterprises a bunch of time ",
+                "uid": "hkIsC-cHL"
+              }
+            ],
+            "create-email": "khalifatinrawdiya@gmail.com",
+            "create-time": 1611816903496,
+            "edit-email": "khalifatinrawdiya@gmail.com",
+            "edit-time": 1611817073129,
+            "string": "Cost of business far exceeded value captured. Why?",
+            "uid": "JBv0DmHGi"
+          },
+          {
+            "create-email": "khalifatinrawdiya@gmail.com",
+            "create-time": 1611819303397,
+            "edit-email": "khalifatinrawdiya@gmail.com",
+            "edit-time": 1611821019932,
+            "string": "But this really doesn't make sense to me. If money was the issue, wouldn't it make more sense to wrap up the public beta asap and start gathering paying users, rather than abruptly shutting down the service? Especially given the fact that this was a project in the works [since **2013**](https://cards.producthunt.com/cards/comments/383094?v=1). Something's wrong if you don't consider your software product worth paying for after 3-4 years of development.   ",
+            "uid": "L-4aBQCq7"
+          }
+        ],
+        "create-email": "khalifatinrawdiya@gmail.com",
+        "create-time": 1611816515912,
+        "edit-email": "khalifatinrawdiya@gmail.com",
+        "edit-time": 1611816903508,
+        "refs": [
+          {
+            "uid": "iiKmKQr1K"
+          }
+        ],
+        "string": "[My]([[Kifah Meeran]]) Personal Postmortem",
+        "uid": "CGmpoT7Pq"
+      }
+    ],
     "create-email": "khalifatinrawdiya@gmail.com",
     "create-time": 1611301273756,
     "edit-email": "khalifatinrawdiya@gmail.com",
@@ -22034,9 +22150,43 @@
     "uid": "01-27-2021"
   },
   {
-    "create-time": 1611795412625,
-    "edit-time": 1611795412626,
+    "create-email": "khalifatinrawdiya@gmail.com",
+    "create-time": 1611817432718,
+    "edit-email": "khalifatinrawdiya@gmail.com",
+    "edit-time": 1611817432719,
     "title": "January 28th, 2021",
     "uid": "01-28-2021"
+  },
+  {
+    "create-email": "khalifatinrawdiya@gmail.com",
+    "create-time": 1611816533158,
+    "edit-email": "khalifatinrawdiya@gmail.com",
+    "edit-time": 1611816533161,
+    "title": "2016",
+    "uid": "lSvF-t9NL"
+  },
+  {
+    "create-email": "khalifatinrawdiya@gmail.com",
+    "create-time": 1611816538890,
+    "edit-email": "khalifatinrawdiya@gmail.com",
+    "edit-time": 1611816538891,
+    "title": "2017",
+    "uid": "NKYsVi_RJ"
+  },
+  {
+    "create-email": "khalifatinrawdiya@gmail.com",
+    "create-time": 1611818514318,
+    "edit-email": "khalifatinrawdiya@gmail.com",
+    "edit-time": 1611818514342,
+    "title": "Jordan Ritter",
+    "uid": "bpKc9Ie1A"
+  },
+  {
+    "create-email": "khalifatinrawdiya@gmail.com",
+    "create-time": 1611818514318,
+    "edit-email": "khalifatinrawdiya@gmail.com",
+    "edit-time": 1611818514343,
+    "title": "Jason Calacanis",
+    "uid": "07sU6M4SP"
   }
 ]

@@ -1,7 +1,7 @@
 - **What It Is**
     - It's the process we use to turn a book into a book summary into a blurb. It's the process [Jacob Collier](<Jacob Collier.md>) uses to [explain a musical concept in five levels of difficulty](https://www.youtube.com/watch?v=eRkgK4jfi6M&list=PL_ssQmxKjCrT7muPsy7NiOJq1I5VyaiYl&index=165).
     - In [The Information Platform of The Future](<The Information Platform of The Future.md>), this occurs automatically and universally, without a human having to reword the content.
-    - See one possible implementation in action in 's [Abstraction Slider](<Abstraction Slider.md>) and Content Augmentation sections.
+    - See one possible implementation in action in [The Future of Information](<The Future of Information.md>)'s [Abstraction Slider](<Abstraction Slider.md>) and Content Augmentation sections.
     - Here's an inline version imagined by [Matthew Siu](<Matthew Siu.md>) (click to see entire thread):
         - https://twitter.com/MatthewWSiu/status/1329993019177791488 [GPT-3](<GPT-3.md>)  #[summarization and expansion of information](<summarization and expansion of information.md>) #[abstractive summarisation](<abstractive summarisation.md>)
 - **Why is it important?**

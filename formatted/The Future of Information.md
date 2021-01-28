@@ -70,5 +70,7 @@ we are not sure what to spend our precious time on. The Abstraction Slider enabl
 
 # Backlinks
 ## [summarization and expansion of information](<summarization and expansion of information.md>)
+- See one possible implementation in action in [The Future of Information](<The Future of Information.md>)'
+
 - [The Future of Information](<The Future of Information.md>)
 

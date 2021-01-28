@@ -4,6 +4,9 @@
     - "https://twitter.com/CultRoam/status/1273827332554240001 #[Roam Research](<Roam Research.md>) #[search engine](<search engine.md>) [Google](<Google.md>)"
 
 # Backlinks
+## [Atlas Recall](<Atlas Recall.md>)
+- a [visual]([visualizer](<visualizer.md>)) [search engine](<search engine.md>)
+
 ## [Atomic Search](<Atomic Search.md>)
 - [Atomic Search](<Atomic Search.md>) enables [Semantic information](<Semantic information.md>), transforming [Unstructured Information](<Unstructured Information.md>) into [Knowledge Graphs](<Knowledge Graphs.md>), that I assume their [search engine](<search engine.md>)
 
@@ -15,7 +18,7 @@
 - https://twitter.com/visakanv/status/1348212104159875072?s=20 #[curation engine](<curation engine.md>) #[search engine](<search engine.md>)
 
 ## [January 22nd, 2021](<January 22nd, 2021.md>)
-- https://twitter.com/jordanmoore/status/1352381177278164993/photo/3 [Atlas Recall](<Atlas Recall.md>): a [visual]([visualizer](<visualizer.md>)) [search engine](<search engine.md>)
+- https://twitter.com/jordanmoore/status/1352381177278164993/photo/3 [Atlas Recall](<Atlas Recall.md>): "a [visual]([visualizer](<visualizer.md>)) [search engine](<search engine.md>)
 
 ## [January 24th, 2021](<January 24th, 2021.md>)
 - https://twitter.com/debarghya_das/status/1291978175619031040 #[Debarghya Das](<Debarghya Das.md>) #[Programmable Oracles](<Programmable Oracles.md>) #[Free Hierarchy](<Free Hierarchy.md>) #[search engine](<search engine.md>)
