@@ -14,4 +14,7 @@ Unfortunately, Recall isn’t as impressive at other kinds of documents. It does
 It’s even **worse at things like Microsoft Office documents, which it can find only by their titles**. It can’t seek inside of them, which is very odd—the Mac’s built-in Spotlight command can do that!
 
 **Recall can’t find text in the Mac’s Notes app, Calendar, or Stickies. It can’t find text in Tweetbot**, my Twitter (TWTR) program. **It’s blind to what’s in page-layout files like Adobe (ADBE) InDesign.**
-    -  
+    - Being cloud-based had several drawbacks:
+        - - unescapable privacy concerns every time its mentioned, a sentiment that has grown way stronger today. People are not okay with a centralized info-silo.
+        - -storing every move of user = crapload of user data = unrealistic costs
+        - - bottlenecked by internet connection, not good given graphic-heavy content and nature of query (search, which already is resource-intensive)

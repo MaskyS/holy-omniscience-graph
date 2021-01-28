@@ -18468,11 +18468,37 @@
             "uid": "v4rg6Poxb"
           },
           {
+            "children": [
+              {
+                "create-email": "khalifatinrawdiya@gmail.com",
+                "create-time": 1611826078522,
+                "edit-email": "khalifatinrawdiya@gmail.com",
+                "edit-time": 1611826135294,
+                "string": "- unescapable privacy concerns every time its mentioned, a sentiment that has grown way stronger today. People are not okay with a centralized info-silo.",
+                "uid": "kckc93P0I"
+              },
+              {
+                "create-email": "khalifatinrawdiya@gmail.com",
+                "create-time": 1611826135285,
+                "edit-email": "khalifatinrawdiya@gmail.com",
+                "edit-time": 1611826205998,
+                "string": "-storing every move of user = crapload of user data = unrealistic costs",
+                "uid": "8BC5vWnZV"
+              },
+              {
+                "create-email": "khalifatinrawdiya@gmail.com",
+                "create-time": 1611826162038,
+                "edit-email": "khalifatinrawdiya@gmail.com",
+                "edit-time": 1611826265992,
+                "string": "- bottlenecked by internet connection, not good given graphic-heavy content and nature of query (search, which already is resource-intensive)",
+                "uid": "TruzYzvVb"
+              }
+            ],
             "create-email": "khalifatinrawdiya@gmail.com",
             "create-time": 1611819303397,
             "edit-email": "khalifatinrawdiya@gmail.com",
-            "edit-time": 1611822408480,
-            "string": " ",
+            "edit-time": 1611826078529,
+            "string": "Being cloud-based had several drawbacks:",
             "uid": "L-4aBQCq7"
           }
         ],
