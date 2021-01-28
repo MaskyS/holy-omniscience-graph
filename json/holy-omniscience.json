@@ -22254,5 +22254,207 @@
     "edit-time": 1611818514343,
     "title": "Jason Calacanis",
     "uid": "07sU6M4SP"
+  },
+  {
+    "children": [
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "zdM9mCJQ-"
+          },
+          {
+            ":block/uid": "orGH4KOnT"
+          }
+        ],
+        "create-email": "khalifatinrawdiya@gmail.com",
+        "create-time": 1611827590037,
+        "edit-email": "khalifatinrawdiya@gmail.com",
+        "edit-time": 1611827626817,
+        "refs": [
+          {
+            "uid": "zdM9mCJQ-"
+          },
+          {
+            "uid": "orGH4KOnT"
+          }
+        ],
+        "string": "Parent company for [[Meta]] and [[screenomex]]",
+        "uid": "c_A6y3JiN"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "p4qEC0JTY"
+          },
+          {
+            ":block/uid": "sGCivXauq"
+          },
+          {
+            ":block/uid": "aTWqdikNA"
+          }
+        ],
+        "create-email": "khalifatinrawdiya@gmail.com",
+        "create-time": 1611827396614,
+        "edit-email": "khalifatinrawdiya@gmail.com",
+        "edit-time": 1611827754347,
+        "refs": [
+          {
+            "uid": "p4qEC0JTY"
+          },
+          {
+            "uid": "sGCivXauq"
+          },
+          {
+            "uid": "aTWqdikNA"
+          }
+        ],
+        "string": "Cofounded by: [[Ali Jelveh]], [[Marco Buhlmann]], [[Thies Arntzen]]",
+        "uid": "qM-vh5kSI"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "v-_1p5EWx"
+          }
+        ],
+        "create-email": "khalifatinrawdiya@gmail.com",
+        "create-time": 1611827468243,
+        "edit-email": "khalifatinrawdiya@gmail.com",
+        "edit-time": 1611827754347,
+        "refs": [
+          {
+            "uid": "v-_1p5EWx"
+          }
+        ],
+        "string": "funded by: [[Tim Draper]]",
+        "uid": "mh8evaYik"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "bpKc9Ie1A"
+          }
+        ],
+        "create-email": "khalifatinrawdiya@gmail.com",
+        "create-time": 1611827556684,
+        "edit-email": "khalifatinrawdiya@gmail.com",
+        "edit-time": 1611827754347,
+        "refs": [
+          {
+            "uid": "bpKc9Ie1A"
+          }
+        ],
+        "string": "\"Advisor\" a.k.a mastermind: [[Jordan Ritter]]",
+        "uid": "KK-0bHKgf"
+      },
+      {
+        "children": [
+          {
+            "create-email": "khalifatinrawdiya@gmail.com",
+            "create-time": 1611827380326,
+            "edit-email": "khalifatinrawdiya@gmail.com",
+            "edit-time": 1611827384112,
+            "string": "{{iframe: https://move37.com/}}",
+            "uid": "HIomj19mG"
+          }
+        ],
+        "create-email": "khalifatinrawdiya@gmail.com",
+        "create-time": 1611827391019,
+        "edit-email": "khalifatinrawdiya@gmail.com",
+        "edit-time": 1611827393121,
+        "string": "Website",
+        "uid": "MMqs7XN48"
+      }
+    ],
+    "create-email": "khalifatinrawdiya@gmail.com",
+    "create-time": 1611827368575,
+    "edit-email": "khalifatinrawdiya@gmail.com",
+    "edit-time": 1611827368576,
+    "title": "move37",
+    "uid": "JYI20UrCu"
+  },
+  {
+    "create-email": "khalifatinrawdiya@gmail.com",
+    "create-time": 1611827455345,
+    "edit-email": "khalifatinrawdiya@gmail.com",
+    "edit-time": 1611827455349,
+    "title": "Ali Jelveh",
+    "uid": "p4qEC0JTY"
+  },
+  {
+    "create-email": "khalifatinrawdiya@gmail.com",
+    "create-time": 1611827455345,
+    "edit-email": "khalifatinrawdiya@gmail.com",
+    "edit-time": 1611827455349,
+    "title": "Marco Buhlmann",
+    "uid": "sGCivXauq"
+  },
+  {
+    "create-email": "khalifatinrawdiya@gmail.com",
+    "create-time": 1611827455345,
+    "edit-email": "khalifatinrawdiya@gmail.com",
+    "edit-time": 1611827455349,
+    "title": "Thies Arntzen",
+    "uid": "aTWqdikNA"
+  },
+  {
+    "create-email": "khalifatinrawdiya@gmail.com",
+    "create-time": 1611827556694,
+    "edit-email": "khalifatinrawdiya@gmail.com",
+    "edit-time": 1611827556695,
+    "title": "Tim Draper",
+    "uid": "v-_1p5EWx"
+  },
+  {
+    "children": [
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "LIwlyCy3r"
+          }
+        ],
+        "create-email": "khalifatinrawdiya@gmail.com",
+        "create-time": 1611827716610,
+        "edit-email": "khalifatinrawdiya@gmail.com",
+        "edit-time": 1611827743864,
+        "refs": [
+          {
+            "uid": "LIwlyCy3r"
+          }
+        ],
+        "string": "Meta is [[Atlas Recall]] 2.0.",
+        "uid": "9hbFIYsDM"
+      },
+      {
+        "create-email": "khalifatinrawdiya@gmail.com",
+        "create-time": 1611827743858,
+        "edit-email": "khalifatinrawdiya@gmail.com",
+        "edit-time": 1611827743858,
+        "string": "",
+        "uid": "7cND2H9O0"
+      },
+      {
+        "create-email": "khalifatinrawdiya@gmail.com",
+        "create-time": 1611827727645,
+        "edit-email": "khalifatinrawdiya@gmail.com",
+        "edit-time": 1611827727645,
+        "string": "",
+        "uid": "0IcnWfHhh"
+      }
+    ],
+    "create-email": "khalifatinrawdiya@gmail.com",
+    "create-time": 1611827616821,
+    "edit-email": "khalifatinrawdiya@gmail.com",
+    "edit-time": 1611827616845,
+    "title": "Meta",
+    "uid": "zdM9mCJQ-"
+  },
+  {
+    "create-email": "khalifatinrawdiya@gmail.com",
+    "create-time": 1611827626820,
+    "edit-email": "khalifatinrawdiya@gmail.com",
+    "edit-time": 1611827626824,
+    "title": "screenomex",
+    "uid": "orGH4KOnT"
   }
 ]

@@ -23,3 +23,6 @@ It’s even **worse at things like Microsoft Office documents, which it can find
 ## [January 22nd, 2021](<January 22nd, 2021.md>)
 - https://twitter.com/jordanmoore/status/1352381177278164993/photo/3 [Atlas Recall](<Atlas Recall.md>):
 
+## [Meta](<Meta.md>)
+- Meta is [Atlas Recall](<Atlas Recall.md>)
+

@@ -1,0 +1,6 @@
+- Parent company for [[Meta]] and [[screenomex]]
+- Cofounded by: [[Ali Jelveh]], [[Marco Buhlmann]], [[Thies Arntzen]]
+- funded by: [[Tim Draper]]
+- "Advisor" a.k.a mastermind: [[Jordan Ritter]]
+- Website
+    - {{iframe: https://move37.com/}}
