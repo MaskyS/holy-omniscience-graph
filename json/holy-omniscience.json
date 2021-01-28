@@ -18343,6 +18343,9 @@
             ":block/uid": "m2AcgC927"
           },
           {
+            ":block/uid": "YUqpLMIgL"
+          },
+          {
             ":block/uid": "lSvF-t9NL"
           },
           {
@@ -18352,7 +18355,7 @@
         "create-email": "khalifatinrawdiya@gmail.com",
         "create-time": 1611816507609,
         "edit-email": "khalifatinrawdiya@gmail.com",
-        "edit-time": 1611816538889,
+        "edit-time": 1611821811532,
         "refs": [
           {
             "uid": "wegvHfzc4"
@@ -18361,13 +18364,16 @@
             "uid": "m2AcgC927"
           },
           {
+            "uid": "YUqpLMIgL"
+          },
+          {
             "uid": "lSvF-t9NL"
           },
           {
             "uid": "NKYsVi_RJ"
           }
         ],
-        "string": "a [visual]([[visualizer]]) [[search engine]] for finding local/cloud documents/files/texts/photos etc, started in [[2016]] and shut down in [[2017]]",
+        "string": "a [visual]([[visualizer]]) [[search engine]] for finding local/cloud documents/files/texts/photos etc from your [usage history]([[Perfect memory]]), started in [[2016]] and shut down in [[2017]]",
         "uid": "cnJ_gZ428"
       },
       {
@@ -18429,10 +18435,44 @@
           },
           {
             "create-email": "khalifatinrawdiya@gmail.com",
+            "create-time": 1611822408460,
+            "edit-email": "khalifatinrawdiya@gmail.com",
+            "edit-time": 1611822408460,
+            "string": "But this really doesn't make sense to me. If money was the issue, wouldn't it make more sense to wrap up the public beta asap and start gathering paying users, rather than abruptly shutting down the service? Especially given the fact that this was a project in the works [since **2013**](https://cards.producthunt.com/cards/comments/383094?v=1). Something's wrong if you don't consider your software product worth paying for after 3-4 years of development.  ",
+            "uid": "YIVcJeXUS"
+          },
+          {
+            "create-email": "khalifatinrawdiya@gmail.com",
+            "create-time": 1611822408568,
+            "edit-email": "khalifatinrawdiya@gmail.com",
+            "edit-time": 1611822419827,
+            "string": "- searches only titles of documents",
+            "uid": "3iLvvpjKR"
+          },
+          {
+            "children": [
+              {
+                "create-email": "khalifatinrawdiya@gmail.com",
+                "create-time": 1611822538289,
+                "edit-email": "khalifatinrawdiya@gmail.com",
+                "edit-time": 1611822593014,
+                "string": "> Recall is rather spectacular when it comes to finding web pages you\u2019ve seen, email you\u2019ve read, PDF documents you\u2019ve opened, and people you\u2019ve opened in Contacts. It can call them up again instantaneously, and when you click Open, you\u2019re returned to the actual web page (in your browser) or email (in your mail program).\n\nUnfortunately, Recall isn\u2019t as impressive at other kinds of documents. It does a great job of finding words you\u2019ve had in chats\u2014but when you click Open, **it opens up a screenshot of the relevant screenful of chat**, rather than opening the chat program and scrolling to the right place. It **does the same thing if you search for an Evernote page, or for an email that no longer exists**.\n\nIt\u2019s even **worse at things like Microsoft Office documents, which it can find only by their titles**. It can\u2019t seek inside of them, which is very odd\u2014the Mac\u2019s built-in Spotlight command can do that!\n\n**Recall can\u2019t find text in the Mac\u2019s Notes app, Calendar, or Stickies. It can\u2019t find text in Tweetbot**, my Twitter (TWTR) program. **It\u2019s blind to what\u2019s in page-layout files like Adobe (ADBE) InDesign.**",
+                "uid": "fYLhwwyoh"
+              }
+            ],
+            "create-email": "khalifatinrawdiya@gmail.com",
+            "create-time": 1611822419799,
+            "edit-email": "khalifatinrawdiya@gmail.com",
+            "edit-time": 1611822448732,
+            "string": "cant search notes or calendar content - despite mac being able to.",
+            "uid": "v4rg6Poxb"
+          },
+          {
+            "create-email": "khalifatinrawdiya@gmail.com",
             "create-time": 1611819303397,
             "edit-email": "khalifatinrawdiya@gmail.com",
-            "edit-time": 1611821019932,
-            "string": "But this really doesn't make sense to me. If money was the issue, wouldn't it make more sense to wrap up the public beta asap and start gathering paying users, rather than abruptly shutting down the service? Especially given the fact that this was a project in the works [since **2013**](https://cards.producthunt.com/cards/comments/383094?v=1). Something's wrong if you don't consider your software product worth paying for after 3-4 years of development.   ",
+            "edit-time": 1611822408480,
+            "string": " ",
             "uid": "L-4aBQCq7"
           }
         ],

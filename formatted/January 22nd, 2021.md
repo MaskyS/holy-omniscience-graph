@@ -1,4 +1,4 @@
-- https://twitter.com/jordanmoore/status/1352381177278164993/photo/3 [Atlas Recall](<Atlas Recall.md>): "a [visual]([visualizer](<visualizer.md>)) [search engine](<search engine.md>) for finding local/cloud documents/files/texts/photos etc, started in [2016](<2016.md>) and shut down in [2017](<2017.md>)"
+- https://twitter.com/jordanmoore/status/1352381177278164993/photo/3 [Atlas Recall](<Atlas Recall.md>): "a [visual]([visualizer](<visualizer.md>)) [search engine](<search engine.md>) for finding local/cloud documents/files/texts/photos etc from your [usage history]([Perfect memory](<Perfect memory.md>)), started in [2016](<2016.md>) and shut down in [2017](<2017.md>)"
 - [questions](<questions.md>) Is there a database of data visualization and arrangement  techniques, and the data properties they require of the entities they're visualizing?
 - [questions](<questions.md>) Will [Roam Research](<Roam Research.md>) eventually allow writing [queries](<queries.md>) in natural language, and maybe give me suggestions as I'm writing them?
     - e.g. predict `[Company Project](<Company Project.md>)` as I write `[TODO](<TODO.md>)`?

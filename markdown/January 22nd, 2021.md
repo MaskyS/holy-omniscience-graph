@@ -1,4 +1,4 @@
-- https://twitter.com/jordanmoore/status/1352381177278164993/photo/3 [[Atlas Recall]]: "a [visual]([[visualizer]]) [[search engine]] for finding local/cloud documents/files/texts/photos etc, started in [[2016]] and shut down in [[2017]]"
+- https://twitter.com/jordanmoore/status/1352381177278164993/photo/3 [[Atlas Recall]]: "a [visual]([[visualizer]]) [[search engine]] for finding local/cloud documents/files/texts/photos etc from your [usage history]([[Perfect memory]]), started in [[2016]] and shut down in [[2017]]"
 - #questions Is there a database of data visualization and arrangement  techniques, and the data properties they require of the entities they're visualizing?
 - #questions Will [[Roam Research]] eventually allow writing [[queries]] in natural language, and maybe give me suggestions as I'm writing them?
     - e.g. predict `[[Company Project]]` as I write `[[TODO]]`?
