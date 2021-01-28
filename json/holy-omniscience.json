@@ -9965,24 +9965,18 @@
             ":block/refs": [
               {
                 ":block/uid": "viRVE90Ry"
-              },
-              {
-                ":block/uid": "hvNLeANVs"
               }
             ],
             "create-email": "khalifatinrawdiya@gmail.com",
             "create-time": 1610194636543,
             "edit-email": "khalifatinrawdiya@gmail.com",
-            "edit-time": 1611817956928,
+            "edit-time": 1611485335769,
             "refs": [
               {
                 "uid": "viRVE90Ry"
-              },
-              {
-                "uid": "hvNLeANVs"
               }
             ],
-            "string": "See one possible implementation in action in [[The Future of Information]]'s [[Abstraction Slider]] and Content Augmentation sections.",
+            "string": "See one possible implementation in action in 's [[Abstraction Slider]] and Content Augmentation sections.",
             "uid": "7kZ9-ZML7"
           },
           {
@@ -18355,7 +18349,7 @@
         "create-email": "khalifatinrawdiya@gmail.com",
         "create-time": 1611816507609,
         "edit-email": "khalifatinrawdiya@gmail.com",
-        "edit-time": 1611821811532,
+        "edit-time": 1611845047203,
         "refs": [
           {
             "uid": "wegvHfzc4"
@@ -18373,8 +18367,65 @@
             "uid": "NKYsVi_RJ"
           }
         ],
-        "string": "a [visual]([[visualizer]]) [[search engine]] for finding local/cloud documents/files/texts/photos etc from your [usage history]([[Perfect memory]]), started in [[2016]] and shut down in [[2017]]",
+        "string": "a [visual]([[visualizer]]) [[search engine]] for finding local/cloud documents/files/texts/photos etc from your [usage history]([[Perfect memory]]), started in [[2016]] and shut down in [[2017]].",
         "uid": "cnJ_gZ428"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "9WXYUCBK3"
+          },
+          {
+            ":block/uid": "eGBpZ1npV"
+          },
+          {
+            ":block/uid": "X-WON6Nlv"
+          }
+        ],
+        "create-email": "khalifatinrawdiya@gmail.com",
+        "create-time": 1611845047190,
+        "edit-email": "khalifatinrawdiya@gmail.com",
+        "edit-time": 1611845072985,
+        "refs": [
+          {
+            "uid": "9WXYUCBK3"
+          },
+          {
+            "uid": "eGBpZ1npV"
+          },
+          {
+            "uid": "X-WON6Nlv"
+          }
+        ],
+        "string": "It was available as a desktop app on [[MacOS]] only and had an [[iOS]] companion app on the [[iPhone]].",
+        "uid": "D9a5zHEOp"
+      },
+      {
+        "children": [
+          {
+            "create-email": "khalifatinrawdiya@gmail.com",
+            "create-time": 1611846047070,
+            "edit-email": "khalifatinrawdiya@gmail.com",
+            "edit-time": 1611846048250,
+            "string": "https://www.geekwire.com/2017/atlas-informatics-shut-pulling-plug-encrypted-personal-search-engine/",
+            "uid": "pSPO63WxZ"
+          },
+          {
+            "create-email": "khalifatinrawdiya@gmail.com",
+            "create-time": 1611846053045,
+            "edit-email": "khalifatinrawdiya@gmail.com",
+            "edit-time": 1611846054326,
+            "string": "https://techcrunch.com/2017/10/18/atlas-informatics-calls-it-quits-after-less-than-a-year/",
+            "uid": "lNcOoBrso"
+          }
+        ],
+        "create-email": "khalifatinrawdiya@gmail.com",
+        "create-time": 1611846041180,
+        "edit-email": "khalifatinrawdiya@gmail.com",
+        "edit-time": 1611846047080,
+        "heading": 3,
+        "string": "Shutdown Resources",
+        "uid": "TKc_7PUKz"
       },
       {
         ":block/refs": [
@@ -18515,6 +18566,16 @@
         "uid": "CGmpoT7Pq"
       },
       {
+        "children": [
+          {
+            "create-email": "khalifatinrawdiya@gmail.com",
+            "create-time": 1611845098934,
+            "edit-email": "khalifatinrawdiya@gmail.com",
+            "edit-time": 1611845100825,
+            "string": "> At the beginning of this project, we met with our sponsor at Atlas Informatics to get a sense of Recall and our sponsor\u2019s goals and expectations for the study. It was determined in this initial meeting that the scope of the study would be limited to testing Recall\u2019s onboarding flow. During this meeting we also discussed the company\u2019s concept of the potential user base and learned that they saw users as being:\n\n    Windows users\n    Ages 25-55\n    Uses of multiple devices\n    Comfortable with sharing digital information via social media and cloud storage services\n    Early and late tech adopters\n",
+            "uid": "0KbnS4lyw"
+          }
+        ],
         "create-email": "khalifatinrawdiya@gmail.com",
         "create-time": 1611843292491,
         "edit-email": "khalifatinrawdiya@gmail.com",
@@ -18542,9 +18603,69 @@
         "create-email": "khalifatinrawdiya@gmail.com",
         "create-time": 1611843795766,
         "edit-email": "khalifatinrawdiya@gmail.com",
-        "edit-time": 1611843795766,
-        "string": "",
+        "edit-time": 1611843802552,
+        "string": "https://finance.yahoo.com/news/david-pogue-review-of-atlas-recall-160114345.html",
         "uid": "sB-hs1ZP8"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "We1HdU4Fr"
+          }
+        ],
+        "create-email": "khalifatinrawdiya@gmail.com",
+        "create-time": 1611844325191,
+        "edit-email": "khalifatinrawdiya@gmail.com",
+        "edit-time": 1611844354309,
+        "refs": [
+          {
+            "uid": "We1HdU4Fr"
+          }
+        ],
+        "string": "https://fluxn.com/atlas-recall fun breakdown of design by.[[Justin Martin]]",
+        "uid": "7nIfzQVRF"
+      },
+      {
+        "create-email": "khalifatinrawdiya@gmail.com",
+        "create-time": 1611844627898,
+        "edit-email": "khalifatinrawdiya@gmail.com",
+        "edit-time": 1611844628236,
+        "string": "https://appleinsider.com/articles/17/08/12/hands-on-find-anything-fast-on-your-mac-with-the-atlas-recall-app-and-service",
+        "uid": "S6qC-BzOB"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "g9OaHNyRQ"
+          }
+        ],
+        "create-email": "khalifatinrawdiya@gmail.com",
+        "create-time": 1611845926176,
+        "edit-email": "khalifatinrawdiya@gmail.com",
+        "edit-time": 1611845947497,
+        "refs": [
+          {
+            "uid": "g9OaHNyRQ"
+          }
+        ],
+        "string": "http://www.justinmarxdesign.com/atlas-product-design-brand-identity by [[Justin Marx]], who seems to have been the main guy on the design team.",
+        "uid": "ruX7kk1d8"
+      },
+      {
+        "create-email": "khalifatinrawdiya@gmail.com",
+        "create-time": 1611846060671,
+        "edit-email": "khalifatinrawdiya@gmail.com",
+        "edit-time": 1611846061279,
+        "string": "https://beta.techcrunch.com/2016/11/02/atlas-recall-a-search-engine-for-your-entire-digital-life-gets-an-open-beta-and-20m-in-backing/",
+        "uid": "KFjmGz2-Y"
+      },
+      {
+        "create-email": "khalifatinrawdiya@gmail.com",
+        "create-time": 1611846169704,
+        "edit-email": "khalifatinrawdiya@gmail.com",
+        "edit-time": 1611846173606,
+        "string": "landing page archive: https://web.archive.org/web/20170520172804/https://www.atlas.co/",
+        "uid": "EJfdtm41U"
       }
     ],
     "create-email": "khalifatinrawdiya@gmail.com",
@@ -22458,11 +22579,39 @@
         "uid": "9hbFIYsDM"
       },
       {
+        "children": [
+          {
+            "create-email": "khalifatinrawdiya@gmail.com",
+            "create-time": 1611846623780,
+            "edit-email": "khalifatinrawdiya@gmail.com",
+            "edit-time": 1611846672553,
+            "string": "https://www.gometa.com/privacy-information The number of typos in this document and way of wording strongly suggest that they were done by a non-native person.",
+            "uid": "_3oariBwr"
+          },
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "LIwlyCy3r"
+              }
+            ],
+            "create-email": "khalifatinrawdiya@gmail.com",
+            "create-time": 1611846684388,
+            "edit-email": "khalifatinrawdiya@gmail.com",
+            "edit-time": 1611846699907,
+            "refs": [
+              {
+                "uid": "LIwlyCy3r"
+              }
+            ],
+            "string": "By the way, [[Atlas Recall]] was acquired by ",
+            "uid": "mEfbETqk_"
+          }
+        ],
         "create-email": "khalifatinrawdiya@gmail.com",
         "create-time": 1611843657955,
         "edit-email": "khalifatinrawdiya@gmail.com",
-        "edit-time": 1611843746368,
-        "string": "Interestingly, their [firefox](https://addons.mozilla.org/en-US/firefox/addon/meta-extension/) extension page listing is in chinese + listed as experimental.",
+        "edit-time": 1611846623788,
+        "string": "Interestingly, their [firefox](https://addons.mozilla.org/en-US/firefox/addon/meta-extension/) extension page listing is in chinese + listed as experimental. ",
         "uid": "QsvnpIVaw"
       },
       {
@@ -22472,6 +22621,88 @@
         "edit-time": 1611843733044,
         "string": "In total, ~400 [installs](https://chrome.google.com/webstore/detail/meta-browser-extension-re/ofojdnfeldgockahabacmeehlgkclmpl?hl=en) on browsers, so can estimate max of 1000 beta testers.",
         "uid": "ZwEj4p_xK"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "LIwlyCy3r"
+          }
+        ],
+        "children": [
+          {
+            "create-email": "khalifatinrawdiya@gmail.com",
+            "create-time": 1611844816844,
+            "edit-email": "khalifatinrawdiya@gmail.com",
+            "edit-time": 1611844873494,
+            "string": "- Its focus on allowing users to define RELATIONSHIPS/properties of the entity we were looking for, i.e. type, time, etc, even if it was quite limited.",
+            "uid": "4Ws7_SYJl"
+          },
+          {
+            "create-email": "khalifatinrawdiya@gmail.com",
+            "create-time": 1611844981919,
+            "edit-email": "khalifatinrawdiya@gmail.com",
+            "edit-time": 1611844981919,
+            "string": "- It made use of VISUAL+SPATIAL arrangement. You could quickly transverse *multiple* results, and they were arranged in a 2d, associative manner, with all the text messages clustered in one corner, for instance. ",
+            "uid": "3hAwZjEA0"
+          },
+          {
+            "create-email": "khalifatinrawdiya@gmail.com",
+            "create-time": 1611844873482,
+            "edit-email": "khalifatinrawdiya@gmail.com",
+            "edit-time": 1611845024738,
+            "string": "On the other hand, Meta is linear, whether in its search bar or its replay feature. ",
+            "uid": "md2MwMi2I"
+          }
+        ],
+        "create-email": "khalifatinrawdiya@gmail.com",
+        "create-time": 1611844049054,
+        "edit-email": "khalifatinrawdiya@gmail.com",
+        "edit-time": 1611844901173,
+        "refs": [
+          {
+            "uid": "LIwlyCy3r"
+          }
+        ],
+        "string": "UX is quite confusing though. But confusing is vague. I think there's a couple things Meta's makers fail to understand. In my ignorant opinion, what allowed [[Atlas Recall]] to be such a success was:",
+        "uid": "xkxqd3lHh"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "LIwlyCy3r"
+          },
+          {
+            ":block/uid": "8o4rsEbWJ"
+          },
+          {
+            ":block/uid": "q5PA41eD5"
+          }
+        ],
+        "create-email": "khalifatinrawdiya@gmail.com",
+        "create-time": 1611846611817,
+        "edit-email": "khalifatinrawdiya@gmail.com",
+        "edit-time": 1611847084492,
+        "refs": [
+          {
+            "uid": "LIwlyCy3r"
+          },
+          {
+            "uid": "8o4rsEbWJ"
+          },
+          {
+            "uid": "q5PA41eD5"
+          }
+        ],
+        "string": "The more I look at Meta, the more it seems like a complete ripoff of [[Savant Recall]], of which [[Atlas Recall]] was once accused of. I mean, the rewinding feature is there, the copy-text-from-frame feature is there, search too, although in Meta it is somewhat decoupled and is instead a [[Spotlight Search]] clone. ",
+        "uid": "WQcNQv4mN"
+      },
+      {
+        "create-email": "khalifatinrawdiya@gmail.com",
+        "create-time": 1611846611259,
+        "edit-email": "khalifatinrawdiya@gmail.com",
+        "edit-time": 1611846611258,
+        "string": "",
+        "uid": "DAxGMSFJf"
       }
     ],
     "create-email": "khalifatinrawdiya@gmail.com",
@@ -22488,5 +22719,117 @@
     "edit-time": 1611827626824,
     "title": "screenomex",
     "uid": "orGH4KOnT"
+  },
+  {
+    "create-email": "khalifatinrawdiya@gmail.com",
+    "create-time": 1611844354312,
+    "edit-email": "khalifatinrawdiya@gmail.com",
+    "edit-time": 1611844354314,
+    "title": "Justin Martin",
+    "uid": "We1HdU4Fr"
+  },
+  {
+    "create-email": "khalifatinrawdiya@gmail.com",
+    "create-time": 1611845059207,
+    "edit-email": "khalifatinrawdiya@gmail.com",
+    "edit-time": 1611845059230,
+    "title": "MacOS",
+    "uid": "9WXYUCBK3"
+  },
+  {
+    "create-email": "khalifatinrawdiya@gmail.com",
+    "create-time": 1611845065417,
+    "edit-email": "khalifatinrawdiya@gmail.com",
+    "edit-time": 1611845065418,
+    "title": "iOS",
+    "uid": "eGBpZ1npV"
+  },
+  {
+    "create-email": "khalifatinrawdiya@gmail.com",
+    "create-time": 1611845072639,
+    "edit-email": "khalifatinrawdiya@gmail.com",
+    "edit-time": 1611845072641,
+    "title": "iPhone",
+    "uid": "X-WON6Nlv"
+  },
+  {
+    "create-email": "khalifatinrawdiya@gmail.com",
+    "create-time": 1611845939009,
+    "edit-email": "khalifatinrawdiya@gmail.com",
+    "edit-time": 1611845939014,
+    "title": "Justin Marx",
+    "uid": "g9OaHNyRQ"
+  },
+  {
+    "children": [
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "YDs_oDFlZ"
+          },
+          {
+            ":block/uid": "zVEelFn83"
+          },
+          {
+            ":block/uid": "h8iRDnN6n"
+          }
+        ],
+        "create-email": "khalifatinrawdiya@gmail.com",
+        "create-time": 1611847098375,
+        "edit-email": "khalifatinrawdiya@gmail.com",
+        "edit-time": 1611847153873,
+        "refs": [
+          {
+            "uid": "YDs_oDFlZ"
+          },
+          {
+            "uid": "zVEelFn83"
+          },
+          {
+            "uid": "h8iRDnN6n"
+          }
+        ],
+        "string": "founded by [[Paul Musgrave]], [[Mark Wang]], [[Kasey Robinson]]",
+        "uid": "3IJJJrDlG"
+      }
+    ],
+    "create-email": "khalifatinrawdiya@gmail.com",
+    "create-time": 1611846967882,
+    "edit-email": "khalifatinrawdiya@gmail.com",
+    "edit-time": 1611846967884,
+    "title": "Savant Recall",
+    "uid": "8o4rsEbWJ"
+  },
+  {
+    "create-email": "khalifatinrawdiya@gmail.com",
+    "create-time": 1611847041655,
+    "edit-email": "khalifatinrawdiya@gmail.com",
+    "edit-time": 1611847041659,
+    "title": "Spotlight Search",
+    "uid": "q5PA41eD5"
+  },
+  {
+    "create-email": "khalifatinrawdiya@gmail.com",
+    "create-time": 1611847135085,
+    "edit-email": "khalifatinrawdiya@gmail.com",
+    "edit-time": 1611847135086,
+    "title": "Paul Musgrave",
+    "uid": "YDs_oDFlZ"
+  },
+  {
+    "create-email": "khalifatinrawdiya@gmail.com",
+    "create-time": 1611847147982,
+    "edit-email": "khalifatinrawdiya@gmail.com",
+    "edit-time": 1611847147984,
+    "title": "Mark Wang",
+    "uid": "zVEelFn83"
+  },
+  {
+    "create-email": "khalifatinrawdiya@gmail.com",
+    "create-time": 1611847153876,
+    "edit-email": "khalifatinrawdiya@gmail.com",
+    "edit-time": 1611847153877,
+    "title": "Kasey Robinson",
+    "uid": "h8iRDnN6n"
   }
 ]

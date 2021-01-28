@@ -1,7 +1,7 @@
 - **What It Is**
     - It's the process we use to turn a book into a book summary into a blurb. It's the process [[Jacob Collier]] uses to [explain a musical concept in five levels of difficulty](https://www.youtube.com/watch?v=eRkgK4jfi6M&list=PL_ssQmxKjCrT7muPsy7NiOJq1I5VyaiYl&index=165).
     - In [[The Information Platform of The Future]], this occurs automatically and universally, without a human having to reword the content.
-    - See one possible implementation in action in [[The Future of Information]]'s [[Abstraction Slider]] and Content Augmentation sections.
+    - See one possible implementation in action in 's [[Abstraction Slider]] and Content Augmentation sections.
     - Here's an inline version imagined by [[Matthew Siu]] (click to see entire thread):
         - https://twitter.com/MatthewWSiu/status/1329993019177791488 #GPT-3  #[[summarization and expansion of information]] #[[abstractive summarisation]]
 - **Why is it important?**

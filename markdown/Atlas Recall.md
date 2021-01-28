@@ -1,4 +1,8 @@
-- a [visual]([[visualizer]]) [[search engine]] for finding local/cloud documents/files/texts/photos etc from your [usage history]([[Perfect memory]]), started in [[2016]] and shut down in [[2017]]
+- a [visual]([[visualizer]]) [[search engine]] for finding local/cloud documents/files/texts/photos etc from your [usage history]([[Perfect memory]]), started in [[2016]] and shut down in [[2017]].
+- It was available as a desktop app on [[MacOS]] only and had an [[iOS]] companion app on the [[iPhone]].
+- ### Shutdown Resources
+    - https://www.geekwire.com/2017/atlas-informatics-shut-pulling-plug-encrypted-personal-search-engine/
+    - https://techcrunch.com/2017/10/18/atlas-informatics-calls-it-quits-after-less-than-a-year/
 - [My]([[Kifah Meeran]]) Personal Postmortem
     - Cost of business far exceeded value captured. Why?
         - - Started off with a freemium model, and based off this [interview](https://www.youtube.com/watch?v=JHDQLDYnfaU&list=ULZFL7xpKjYsQ&index=893) between the [CEO]([[Jordan Ritter]]) and [[Jason Calacanis]], they hadn't made up their mind on how to charge their customers, so they actually didn't implement the paid features part.
@@ -19,5 +23,19 @@ It’s even **worse at things like Microsoft Office documents, which it can find
         - -storing every move of user = crapload of user data = unrealistic costs
         - - bottlenecked by internet connection, not good given graphic-heavy content and nature of query (search, which already is resource-intensive)
 - https://spencerleejames.wordpress.com/portfolio/atlas-recall-user-research/
+    - > At the beginning of this project, we met with our sponsor at Atlas Informatics to get a sense of Recall and our sponsor’s goals and expectations for the study. It was determined in this initial meeting that the scope of the study would be limited to testing Recall’s onboarding flow. During this meeting we also discussed the company’s concept of the potential user base and learned that they saw users as being:
+
+    Windows users
+    Ages 25-55
+    Uses of multiple devices
+    Comfortable with sharing digital information via social media and cloud storage services
+    Early and late tech adopters
+
 - https://medium.com/@richkolasa/why-notion-so-c8ead733dc64
-- 
+- https://www.jackvinson.com/blog/2016/11/23/search-or-find-or-recall
+- https://finance.yahoo.com/news/david-pogue-review-of-atlas-recall-160114345.html
+- https://fluxn.com/atlas-recall fun breakdown of design by.[[Justin Martin]]
+- https://appleinsider.com/articles/17/08/12/hands-on-find-anything-fast-on-your-mac-with-the-atlas-recall-app-and-service
+- http://www.justinmarxdesign.com/atlas-product-design-brand-identity by [[Justin Marx]], who seems to have been the main guy on the design team.
+- https://beta.techcrunch.com/2016/11/02/atlas-recall-a-search-engine-for-your-entire-digital-life-gets-an-open-beta-and-20m-in-backing/
+- landing page archive: https://web.archive.org/web/20170520172804/https://www.atlas.co/
