@@ -47,9 +47,9 @@ It’s even **worse at things like Microsoft Office documents, which it can find
 ## [Meta](<Meta.md>)
 - Meta is [Atlas Recall](<Atlas Recall.md>)
 
-- By the way, [Atlas Recall](<Atlas Recall.md>)
-
 - UX is quite confusing though. But confusing is vague. I think there's a couple things Meta's makers fail to understand. In my ignorant opinion, what allowed [Atlas Recall](<Atlas Recall.md>)
 
 - The more I look at Meta, the more it seems like a complete ripoff of [Savant Recall](<Savant Recall.md>), of which [Atlas Recall](<Atlas Recall.md>)
+
+- By the way, [Atlas Recall](<Atlas Recall.md>)
 

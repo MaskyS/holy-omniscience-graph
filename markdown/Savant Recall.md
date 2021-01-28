@@ -1,1 +1,7 @@
 - founded by [[Paul Musgrave]], [[Mark Wang]], [[Kasey Robinson]]
+- An open source [[Memex]] prototype that records your computer screen and allows you to play it back.
+- It seems it was created with the goal of re-remembering your latest actions after a break/distraction:
+    - > Savant helps get users back into the flow after an interruption. It is definitely no fun feeling lost. Knowing your way around your own workflow would give you the confidence to stay on a winning trajectory.
+- Demo: http://savantrecall.weebly.com
+- [[Product Hunt]]  https://www.producthunt.com/posts/savant
+- open-source:  https://bitpixi.livejournal.com/6486.html

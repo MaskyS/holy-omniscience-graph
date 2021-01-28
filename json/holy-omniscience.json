@@ -22579,50 +22579,6 @@
         "uid": "9hbFIYsDM"
       },
       {
-        "children": [
-          {
-            "create-email": "khalifatinrawdiya@gmail.com",
-            "create-time": 1611846623780,
-            "edit-email": "khalifatinrawdiya@gmail.com",
-            "edit-time": 1611846672553,
-            "string": "https://www.gometa.com/privacy-information The number of typos in this document and way of wording strongly suggest that they were done by a non-native person.",
-            "uid": "_3oariBwr"
-          },
-          {
-            ":block/refs": [
-              {
-                ":block/uid": "LIwlyCy3r"
-              }
-            ],
-            "create-email": "khalifatinrawdiya@gmail.com",
-            "create-time": 1611846684388,
-            "edit-email": "khalifatinrawdiya@gmail.com",
-            "edit-time": 1611846699907,
-            "refs": [
-              {
-                "uid": "LIwlyCy3r"
-              }
-            ],
-            "string": "By the way, [[Atlas Recall]] was acquired by ",
-            "uid": "mEfbETqk_"
-          }
-        ],
-        "create-email": "khalifatinrawdiya@gmail.com",
-        "create-time": 1611843657955,
-        "edit-email": "khalifatinrawdiya@gmail.com",
-        "edit-time": 1611846623788,
-        "string": "Interestingly, their [firefox](https://addons.mozilla.org/en-US/firefox/addon/meta-extension/) extension page listing is in chinese + listed as experimental. ",
-        "uid": "QsvnpIVaw"
-      },
-      {
-        "create-email": "khalifatinrawdiya@gmail.com",
-        "create-time": 1611843679693,
-        "edit-email": "khalifatinrawdiya@gmail.com",
-        "edit-time": 1611843733044,
-        "string": "In total, ~400 [installs](https://chrome.google.com/webstore/detail/meta-browser-extension-re/ofojdnfeldgockahabacmeehlgkclmpl?hl=en) on browsers, so can estimate max of 1000 beta testers.",
-        "uid": "ZwEj4p_xK"
-      },
-      {
         ":block/refs": [
           {
             ":block/uid": "LIwlyCy3r"
@@ -22697,12 +22653,48 @@
         "uid": "WQcNQv4mN"
       },
       {
+        "children": [
+          {
+            "create-email": "khalifatinrawdiya@gmail.com",
+            "create-time": 1611846623780,
+            "edit-email": "khalifatinrawdiya@gmail.com",
+            "edit-time": 1611851843709,
+            "string": "https://www.gometa.com/privacy-information The number of typos in this document and way of wording strongly suggest that they were done by a non-native person.",
+            "uid": "_3oariBwr"
+          },
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "LIwlyCy3r"
+              }
+            ],
+            "create-email": "khalifatinrawdiya@gmail.com",
+            "create-time": 1611846684388,
+            "edit-email": "khalifatinrawdiya@gmail.com",
+            "edit-time": 1611851843709,
+            "refs": [
+              {
+                "uid": "LIwlyCy3r"
+              }
+            ],
+            "string": "By the way, [[Atlas Recall]] was acquired by ",
+            "uid": "mEfbETqk_"
+          }
+        ],
         "create-email": "khalifatinrawdiya@gmail.com",
-        "create-time": 1611846611259,
+        "create-time": 1611843657955,
         "edit-email": "khalifatinrawdiya@gmail.com",
-        "edit-time": 1611846611258,
-        "string": "",
-        "uid": "DAxGMSFJf"
+        "edit-time": 1611851843709,
+        "string": "Interestingly, their [firefox](https://addons.mozilla.org/en-US/firefox/addon/meta-extension/) extension page listing is in chinese + listed as experimental. ",
+        "uid": "QsvnpIVaw"
+      },
+      {
+        "create-email": "khalifatinrawdiya@gmail.com",
+        "create-time": 1611843679693,
+        "edit-email": "khalifatinrawdiya@gmail.com",
+        "edit-time": 1611851843708,
+        "string": "In total, ~400 [installs](https://chrome.google.com/webstore/detail/meta-browser-extension-re/ofojdnfeldgockahabacmeehlgkclmpl?hl=en) on browsers, so can estimate max of 1000 beta testers.",
+        "uid": "ZwEj4p_xK"
       }
     ],
     "create-email": "khalifatinrawdiya@gmail.com",
@@ -22791,6 +22783,76 @@
         ],
         "string": "founded by [[Paul Musgrave]], [[Mark Wang]], [[Kasey Robinson]]",
         "uid": "3IJJJrDlG"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "2ZlltA2us"
+          }
+        ],
+        "create-email": "khalifatinrawdiya@gmail.com",
+        "create-time": 1611847811745,
+        "edit-email": "khalifatinrawdiya@gmail.com",
+        "edit-time": 1611847875673,
+        "refs": [
+          {
+            "uid": "2ZlltA2us"
+          }
+        ],
+        "string": "An open source [[Memex]] prototype that records your computer screen and allows you to play it back.",
+        "uid": "HL9PH9mwH"
+      },
+      {
+        "children": [
+          {
+            "create-email": "khalifatinrawdiya@gmail.com",
+            "create-time": 1611847966976,
+            "edit-email": "khalifatinrawdiya@gmail.com",
+            "edit-time": 1611848021925,
+            "string": "> Savant helps get users back into the flow after an interruption. It is definitely no fun feeling lost. Knowing your way around your own workflow would give you the confidence to stay on a winning trajectory.",
+            "uid": "7MlwNQKZM"
+          }
+        ],
+        "create-email": "khalifatinrawdiya@gmail.com",
+        "create-time": 1611848014088,
+        "edit-email": "khalifatinrawdiya@gmail.com",
+        "edit-time": 1611848025851,
+        "string": "It seems it was created with the goal of re-remembering your latest actions after a break/distraction:",
+        "uid": "nxbpc_ay1"
+      },
+      {
+        "create-email": "khalifatinrawdiya@gmail.com",
+        "create-time": 1611847838509,
+        "edit-email": "khalifatinrawdiya@gmail.com",
+        "edit-time": 1611847915238,
+        "string": "Demo: http://savantrecall.weebly.com",
+        "uid": "km_jcdr0S"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "OywEMp2Go"
+          }
+        ],
+        "create-email": "khalifatinrawdiya@gmail.com",
+        "create-time": 1611847917232,
+        "edit-email": "khalifatinrawdiya@gmail.com",
+        "edit-time": 1611847924635,
+        "refs": [
+          {
+            "uid": "OywEMp2Go"
+          }
+        ],
+        "string": "[[Product Hunt]]  https://www.producthunt.com/posts/savant",
+        "uid": "O9G8AzSUG"
+      },
+      {
+        "create-email": "khalifatinrawdiya@gmail.com",
+        "create-time": 1611847804387,
+        "edit-email": "khalifatinrawdiya@gmail.com",
+        "edit-time": 1611847935798,
+        "string": "open-source:  https://bitpixi.livejournal.com/6486.html",
+        "uid": "l73MZzE-J"
       }
     ],
     "create-email": "khalifatinrawdiya@gmail.com",
@@ -22831,5 +22893,13 @@
     "edit-time": 1611847153877,
     "title": "Kasey Robinson",
     "uid": "h8iRDnN6n"
+  },
+  {
+    "create-email": "khalifatinrawdiya@gmail.com",
+    "create-time": 1611847924638,
+    "edit-email": "khalifatinrawdiya@gmail.com",
+    "edit-time": 1611847924640,
+    "title": "Product Hunt",
+    "uid": "OywEMp2Go"
   }
 ]
