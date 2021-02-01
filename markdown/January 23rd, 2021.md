@@ -1,7 +1,7 @@
 - {{[[TODO]]}} https://twitter.com/Conaw/status/1352824113019056129?s=20 to index this challenge #[[Roam Research]]
 - {{[[TODO]]}} https://twitter.com/SamCorcos/status/1332852656021274624?s=20 index this #[[Free Hierarchy]] #questions
 - {{[[TODO]]}} To read http://worrydream.com/MagicInk/ by [[Bret Victor]] as recommended by [[Conor White-Sullivan]]
-- {{[[TODO]]}} Complete reading the [book](#Books) [[Why Information Grows]] by [[Cesar Hidalgo]] and add in relevant notes here. 
+- {{[[TODO]]}} Complete reading the [book]([[Books]]) [[Why Information Grows]] by [[Cesar Hidalgo]] and add in relevant notes here. 
 - https://twitter.com/normonics/status/1352616515288379393 #[[Free Hierarchy]]
 - a #feed is just a recurring real-time #search that prioritizes fresh content and social feedback. #[[Social Search]]
 - {{[[TODO]]}} https://twitter.com/SP1NS1R will be interested in this graph as I see a lot of tweets sharing green thoughts in this space.

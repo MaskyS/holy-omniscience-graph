@@ -63,7 +63,7 @@ Ideas like freedom, human rights, gods, laws, and capitalism exist in our imagin
             - Ideas, myths and other imagined organization methods can be tested extremely quickly, which is why cultural evolution has surpassed biological evolution. Moreover, when an ideological group stops being efficient or doesn't look out for everyone, we can switch to another overnight, like when Einstein didn't fancy Nazi-Germany so he went to Switzerland.
         - **Using imagined labels multiplies the number of possible ways to organize the same members within a hierarchy, as well as the number of hierarchies themselves**. To illustrate this, let's jump to the next question: Why is [Roam Research](<Roam Research.md>) better than [Evernote](<Evernote.md>)?
 ## Accelerating Intellectual Progress by Building a Note-Taking App
-    - Let's start at the beginning, focusing on why [Conor White-Sullivan](<Conor White-Sullivan.md>) founded Roam before going into what it is.
+    - Let's start at the beginning, focusing on why [Conor White-Sullivan](<Conor White-Sullivan.md>) founded Roam.
         - Here Conor [explains](https://twitter.com/Conaw/status/1099181050045952006) the glaring inefficiencies of previous note-taking apps:
             - > The problem with existing notes systems is that they're locked into metaphors from when everything was analog. Files go in folders, and can get tags. At best, they add in the capacity for links to other files—since links are now something everyone will be familiar with.
             - > Our thoughts—particularly the sort of thoughts we have when we're trying to work through complex problems, don't fit neatly (or at all) into those sorts of metaphors
@@ -121,7 +121,7 @@ It indexes your text.
             - **Seeing the connections. **
                 - Through backlinks, you can easily see where each block was tagged or referred
                 - When using block references, you can follow a thought/block back, and see all the places it was used.
-                - This way, Unity identifiers/backlinks to let hierarchies rise organically
+                - This way, identifiers/backlinks let hierarchies rise organically
                 - Through the graph view, you can see how page relate to each other
             - **Identable & Expandable thought = Programmable Context**
                 - In Roam, you can indent a block under another one to show it's related to it, or expands upon the details to the parent block.
@@ -171,7 +171,7 @@ Now, how does Roam/Zettelkasten and humans' use of imagination to organize socie
             - Should I leave or should I stay? etc.
         - [ ] b. To sustain the growth of a free hierarchy, it is critical that it has a mission bigger than itself; an endgame. 
             - > ""A speech is like a love affair. Any fool can start it, but to end it requires considerable skill. " —[Lord Mancroft](<Lord Mancroft.md>) #[Free Hierarchy](<Free Hierarchy.md>)"
-            - If this is not true, and redundancy increases, i.e. nodes keep multiplying despite there being no new roles to fulfill, violence inevitably will inevitably occur. **And this we call** '[cancer](<cancer.md>)'. 
+            - If this is not true, and redundancy increases, i.e. nodes keep multiplying despite there being no new roles to fulfill, violence inevitably will inevitably occur. **And this we call** '[cancer](https://twitter.com/maskys_/status/1339763293775282181?s=20)'. 
                 - As [Rene Girard](<Rene Girard.md>) ((the french historian whose Mimetic Theory greatly influenced Peter Thiel)) and [Shakespeare](<Shakespeare.md>) noted, 
                     - We do not fight because we’re different; we fight because we are the same; and want (to be) the same things.
             - "But Kifah, you can't keep making hierarchies out of hierarchies! Surely there has to be a limit?"
@@ -263,7 +263,7 @@ Now, how does Roam/Zettelkasten and humans' use of imagination to organize socie
     - Free hierarchies offer a fresh perspective of what context actually means
         - Maybe instead of using the story of the blind men and the elephant to illustrate context's importance, we should have used the story of the gamers and Minecraft instead. 
     - The Universal Label
-        - The one real "property" or "identity" that every entity in the universe shares is age. It is The Universal Label; Anything and everything has a precise timestamp when it came to existence. However, will age remain unalterable, as anti-aging research progresses, reversing our biological clocks?
+        - The one real "property" or "identity" that every entity in the universe shares is age. It is The Universal Label; Anything and everything has a precise timestamp of when it came to existence. However, will age remain unalterable, as anti-aging research progresses, reversing our biological clocks?
     - Rethinking intelligence
         - Could we define intelligence as the ability to construct the biggest free hierarchies, in terms of both entity count and configuration space (no of possible arrangements)?
     - Energy, Frequency and Vibration.
@@ -368,6 +368,9 @@ Now, how does Roam/Zettelkasten and humans' use of imagination to organize socie
 
 - [ ] https://twitter.com/maskys_/status/1353703842848751622  thread to index #[Kifah Meeran](<Kifah Meeran.md>) #[Roam Research](<Roam Research.md>) [Zettelkasten](<Zettelkasten.md>) #[Free Hierarchy](<Free Hierarchy.md>)
 
+## [January 29th, 2021](<January 29th, 2021.md>)
+- [Palantir](<Palantir.md>) [video](<video.md>) on "Dynamic Ontology", that relates quite a bit to the advantages of [Free Hierarchy](<Free Hierarchy.md>)
+
 ## [Kifah Meeran](<Kifah Meeran.md>)
 - 19 y/o from Mauritius currently on a gap year. I am an [information nerd](((8rgZnistc))), which basically means I nerd out about so many things that I've had to invent a new category for myself. Hoping to forgo the "another cog in the system" life and to build my own [free hierarchies]([Free Hierarchy](<Free Hierarchy.md>))
 
@@ -379,6 +382,9 @@ Now, how does Roam/Zettelkasten and humans' use of imagination to organize socie
 
 ## [Missing Links](<Missing Links.md>)
 - [ ] What is most unclear about [Free Hierarchy](<Free Hierarchy.md>)?
+
+## [Palantir](<Palantir.md>)
+- [ ] Need to look deeper into Palantir. If my intuition is correct, they have done __significant__ work in the space of [Knowledge Graphs](<Knowledge Graphs.md>), and might have some clues about [Free Hierarchy](<Free Hierarchy.md>).
 
 ## [The Information Platform of The Future](<The Information Platform of The Future.md>)
 - **The conceptual backbone of this platform is the theory of** [free hierarchies]([Free Hierarchy](<Free Hierarchy.md>))

@@ -1,5 +1,8 @@
 
 # Backlinks
+## [January 29th, 2021](<January 29th, 2021.md>)
+- http://ceasarbautista.com/posts/memex_meetup_2.html [2019](<2019.md>) [Memex](<Memex.md>)
+
 ## [January 9th, 2021](<January 9th, 2021.md>)
 - [Athens Research](<Athens Research.md>) vision touches [Knowledge Graphs](<Knowledge Graphs.md>), [Idea Market](<Idea Market.md>), the [[[Vannevar Bush](<[[Vannevar Bush.md>)'s [Memex](<Memex.md>)]
 

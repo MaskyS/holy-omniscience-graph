@@ -11,5 +11,5 @@
 How? [GPT-3](<GPT-3.md>)
 
 ## [Start Here](<Start Here.md>)
-- **2. 'Topic Pages'**, like [GPT-3](<GPT-3.md>),
+- 2. There you'll find **'Topic Pages'**, like [GPT-3](<GPT-3.md>),
 

@@ -1,5 +1,5 @@
-- https://twitter.com/MoritzW42/status/1344297665379635203 #[[Remnote]] #[[Free Hierarchy]] #[[Knowledge Graphs]] #Books
+- https://twitter.com/MoritzW42/status/1344297665379635203 #[[Remnote]] #[[Free Hierarchy]] #[[Knowledge Graphs]] #[[Linked: The New Science of Networks]]
 - {{[[TODO]]}} https://twitter.com/maskys_/status/1353703842848751622  thread to index #[[Kifah Meeran]] #[[Roam Research]] #Zettelkasten #[[Free Hierarchy]] #[[Fractal Brains: Fractal Thoughts]]
 - https://www.zsolt.blog/2021/01/Roam-Data-Structure-Query.html seems like an interesting [[article]] to learn to use [[Roam Research]]'s #[[[[Roam Research]] API Resources]]
 - {{[[TODO]]}} Try [Hook](https://hookproductivity.com) for easier linking to [[Wikipedia]] pages #[[Holy Omniscience Graph]]
-- {{[[TODO]]}} Read [[Linked: The New Science of Networks]]
+- {{[[DONE]]}} Read [[Linked: The New Science of Networks]]

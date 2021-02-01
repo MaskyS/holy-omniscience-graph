@@ -1,8 +1,9 @@
-- I think currently that putting these things together will unlock a bigger perspective: [questions](<questions.md>)
+- I think that putting these things together will unlock a bigger perspective: [questions](<questions.md>)
     - [ ] How can we apply [category theory](<category theory.md>) to [informetrics](<informetrics.md>)? What are the most important concepts from the former to understand?
     - [ ] What are the most important works in [graph theory](<graph theory.md>) or [network theory](<network theory.md>)? Which insights can we extract?
-        - "[ ] Read [Linked: The New Science of Networks](<Linked: The New Science of Networks.md>)"
+        - "[x] Read [Linked: The New Science of Networks](<Linked: The New Science of Networks.md>)"
     - [ ] What is most unclear about [Free Hierarchy](<Free Hierarchy.md>)?
+        - At what point does a hierarchy act as a node?
     - [ ] Is it possible to represent information fractally?
     - [ ] How can we facilitate creating free hierarchies of information from existing nodes? i.e. no-code for visualization engines, or feeds, or curation algorithms? Augmented curation and a marketplace of hierarchies/algos.
     - [ ] What works can we dive into to understand the [nature of information](<nature of information.md>)? 

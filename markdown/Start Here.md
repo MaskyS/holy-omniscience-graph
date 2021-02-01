@@ -9,48 +9,65 @@
         - "How to use this graph"
         - "Who this graph is for"
         - "How you can play a part"
+        - 
+        - 
         - "Who made this?"
         - "How did this start?"
         - ":hiccup [:hr]"
     - ## Why We Need This Graph
         - 
-        - We are on the cusp of a virtual revolution- a revolution led by map-builders and innovators. But our bright minds are few in number, their efforts disorganized and redundant; and their work obscure.
-        - It is easy to understand why: such high-level abstract thinking is extremely rare; and we like to think of our unique ideas as part of ourselves; that they define us. And due to that uniqueness, we try to "protect" them, restricting our most important work to the lonely confines of our minds.
-        - We are afraid to share this part of ourselves, lest they attract plagiarism, or worse, criticism, or worse, indifference. 
+        - We are on the cusp of a virtual revolution led by map-builders and innovators. But our bright minds are few in number, their efforts disorganized and redundant; and their work obscure.
+        - It is easy to understand why.
+            - First, such high-level abstract thinking is extremely rare.
+            - Second, we like to think of our unique ideas as part of ourselves; that they define us, So we try to "protect" them, restricting our most important work to the lonely confines of our minds. We are afraid to share this part of ourselves, lest they attract plagiarism, or worse, criticism, or worse, indifference. 
+            - We are afraid to share this part of ourselves, lest they attract plagiarism, or worse, criticism, or worse, indifference. 
         - But we may stall no longer. Our capability to produce information is overwhelming our abilities to meaningfully use it. Censorship and misinformation abound. To regain control over our information means to regain control over our lives, and for that we must immediately overcome our fears.
         - ":hiccup [:hr]"
     - ## TLDR Of What This Graph Is
         - 
         - Here, therefore, we are building a blueprint for **accelerators of intellectual progress**. We map ideas, tools, and resources for creating [[The Information Platform of The Future]]. 
-        - Perhaps by discerning the current situation, we can stop thinking the same thoughts and instead start materializing them. Our work can let us find each other. People will dare to explore terrains when maps for them exist, no matter how inaccurate. Some will find those flaws. And the best will __create__ flaws by reshaping the world it models.
+        - The goal is to allow anyone to get a strong grasp of current progress in this space, and to let our work to find each other. People will dare to explore the terrains for which maps exist, no matter how inaccurate. Some will find the flaws. And the best will __create__ flaws by reshaping the world it models. So let's stop thinking the same thoughts and start materializing them instead. 
+        - So let's stop thinking the same thoughts and instead start materializing them. 
     - :hiccup [:hr]
 ## What is [[The Information Platform of The Future]]?
     - 
     - "[[The Information Platform of The Future]] is the medium and set of tools we will use to deal with information, as we do with the internet today. " 
-    - "It is **not** a literal, centralized platform, but rather a fusion of modern solutions to perennial problems, one that will revolutionize how we discover, consume, and produce information— and that's only the beginning."
-    - Some like to call it [[Web 3.0]], but we believe its fundamental differences warrant a new name. A name that includes the word 'platform'-- because after all, its literal meaning is "__a raised level surface on which people or things can stand__", and not "__evil big tech company__".
+    - "It is **not** a literal, centralized platform, but rather a fusion of modern solutions to perennial problems. It will revolutionize how we discover, consume, and produce information."
+    - Some like to call it [[Web 3.0]], but we believe its fundamental differences warrant a new name. And this name includes the word 'platform'-- which literally means "__a raised level surface on which people or things can stand__", not "__big evil tech company__".
     - ":hiccup [:hr]"
 ## How to use this graph
     - 
-    - **1. Every idea/tweet/resource** we come across **is inserted ((dumped)) into the Daily Notes and immediately linked to relevant topics and pages at the block-level. **
-        - Here's an example:
+    - 1. Everything is (or will be) rounded up on [[The Information Platform of The Future]] page, so that's where you want to start digging.
+    - 
+    - 
+    - 2. There you'll find **'Topic Pages'**, like [[GPT-3]], which **are periodically updated with new content/context.** 
+    - 
+    - 
+    - 
+    - **every idea/tweet/resource** we come across **is inserted ((dumped)) into the Daily Notes and immediately linked to relevant topics and pages at the block-level. **
+        - Here's an example entry:
             - > " [[The rise of community-curated knowledge networks]] by [[Sari Azout]], ((or as I like to call her, the woman who stole my brain,)) excellently showcases the intersection between [[Tools for Thoughts]] and social [[curation]]. #[[Knowledge Graphs]] #[[curation engine]]"
-    - **2. 'Topic Pages'**, like [[GPT-3]], **will periodically be updated to gather/embed new content and put it into context.**
-        - ^^((thmoaIZdX)) to receive these updates as this scene/graph evolves.^^
+    - ^^((thmoaIZdX)) to receive updates as the scene/graph evolves.^^
+        - 
+        - __Note: All these topics are highly interconnected and non-linear, so I suggest making frequently opening topics in the sidebar ((using Shift+Click)). __
+    - 3. The new content comes from the Daily Notes, which is where **ideas/tweets/resources is inserted ((dumped)) into.** Each item is linked to relevant topics and pages at the block-level. 
     - 
-    - 3. Finally, those **pages are rounded up on** [[The Information Platform of The Future]]. **That's where you want to start digging.**
     - 
-    - {{[[TODO]]}} All these topics are highly interconnected and non-linear, so I suggest making frequently opening topics in the sidebar ((using Shift+Click)). 
-        - I will soon set up a Roam Spatial Graph view config, but until then, please bear with me.
+    - 
+    - 
+    - 
     - **If you've never used** [[Roam Research]] **before**
         - and this whole thing is utterly confusing, hit the question mark icon in the bottom right and see the help videos first.
     - 
+    - 
+    -  All these topics are highly interconnected and non-linear, so I suggest making frequently opening topics in the sidebar ((using Shift+Click)). 
+        - {{[[TODO]]}} I will soon set up a Roam Spatial Graph view config, but until then, please bear with me.
     - ":hiccup [:hr]"
 ## Who this graph is for
     - Earlier we mentioned that this is a blueprint for "accelerators of intellectual progress".  Meaning, this graph will interest one specific group the most: **information nerds**.
         - Information nerds have a [disinterested obsession](http://paulgraham.com/genius.html) with information— its consumption, production, curation, distillation, organization, application... the list goes on.
         - Some things bug/interest us more than the average person:
-            - **We strive to eliminate** [[Information Overload]].
+            - **We strive to eliminate** [[Information Overflow]].
                 - The dose makes the poison, and information is no exception. We're constantly trying to solve the problem of distilling insights from ephemeral communication. 
             - **We want complete freedom over our use of information.**
                 - We are tired of SEO bullshit, what Google is today, and Big Tech's monopoly on algorithms and our data. We want to provide our own definition of 'best' while searching for information; because one man's shitposts on the web can be the bible of another. The user is king, and WE __will__ control the Algorithm.
@@ -72,7 +89,7 @@
             - - becoming a "[Patreon](https://patreon.com/maskys)"
             - - following us on [Twitter](https://twitter.com/TechPrescience)
     - **Become a patron**
-        - Support or invest in this project financially to get exclusive content updates before everyone else:
+        - Support/invest in this project financially to get exclusive content updates before everyone else:
             - [Patreon](https://patreon.com/maskys)
             - [Buy Me A Coffee](https://www.buymeacoffee.com/7eqkIcK)
     - **Become a builder**
@@ -82,27 +99,36 @@
         - Give the gift of feedback
             - People expressing their thoughts, gratitude, and criticism are huge motivators. You can share your thoughts by "[E-mail](mailto:contact@maskys.com)" and on "[Twitter](https://twitter.com/maskys_)"
         - Spread the word
-            - By letting people know this graph exists, you'll help your passionate friends get up to speed about the scene __much__ faster. Twitter, newsletters, blogs, email— you choose how to let them know. Just send them this link:
+            - Let people know this graph exists and your passionate friends will get up to speed about the scene __much__ faster. Twitter, newsletters, blogs, email— you choose how to let them know. Just send them this link:
                 - https://roamresearch.com/#/app/holy-omniscience/page/c3Z8Q3cb_
     - ":hiccup [:hr]"
+    - ## What is [[holy omniscience]]?
+        - The graph's name is an homage: "Holy Omniscience is ((a concept by Oscar Ichazo and is)) the fifth [[Holy Idea]] in The [[Enneagram]]."
+        - "Holy Omniscience, as we refer to it here, means to be aware of all the different fields and pockets of information that exist."
+        - "It means possessing a map of maps and the ability to virtually teleport to any point or idea on it, and to be able to understand any of the perspectives provided by countless individuals."
+        - For more, see the [[holy omniscience]] page.
+        - ":hiccup [:hr]"
+    - 
 ## Who made this?
     - > "If I have seen further than others, it is by standing upon the shoulders of giants." 
   —[[Isaac Newton]]
     - Credit goes to an infinite number of contributors. 
-    - I ([Kifah Meeran](https://twitter.com/maskys_)) merely started the graph. Most of these ideas I was guided to by strangers on the internet. Some ideas I came up on my own, but often I'll find someone else having illustrated them years before me. But these ideas will never have any value if we don't realize them.
+    - I ([Kifah Meeran](https://twitter.com/maskys_)) merely started the graph. 
+    - Most ideas here I was guided to by internet strangers. Some ideas I came up on my own, only to discover later that someone else had illustrated them years before me. But let's not let these ideas remain ideas. Unrealized ideas are worthless.
+        - Most idea I was guided to by strangers on the internet. Some ideas I came up on my own, but often I'll find someone else having illustrated them years before me. But these ideas will never have any value if we don't realize them.
     - If you have already contributed something mentioned here but I missed your name, please send me an "[email](mailto:contact@maskys.com) ".
     - ":hiccup [:hr]"
 ## How did this start?
     - Well...it's complicated, and of interest/use to few. Let's start from the 'beginning'... and maybe one day I'll get to writing this till the end.
-    - Since I started to use the internet full-time in 2010s, some problems would recurrently show up.
-        - The first one happened every time I'd get obsessed with something, since I'd want to get my hands on humanity's best resources on the subject. It started with badminton, then electronics, then games, then productivity, then code, and so on.
-            - Every time, I'd ask myself:
-            - > **How can I find the most relevant, high-quality resources for what I want to learn/do quickly? **
-        - Usually the answer would be scouring every corner of the web. Then, once I had pillaged the internet down to the most obscure BBforum and collected hundreds of bookmarks, I had to make sense of all this precious data. So the next question was: 
-            - > How can I organize my information collection? 
-        - As I would be clean up I'd simultaneously I'd go through each resource and learn. Now what would happen often was that
-    - I concluded not so long ago that:
-        - > The fastest way to [[holy omniscience]] is to illuminate the paths and tools for the very harbingers of  [[holy omniscience]]. Documenting and exploring this scene as it unravels is the highest-leverage activity I can take part in at the moment.
-    - The scene is minuscule, but as a result it moves incredibly fast. It has the highest leverage of them all, but if we don't create alignment, much time will be spent reinventing the wheel and wondering if we're the only ones thinking these ideas.
-    - I knew that I really enjoy exploring ideas and documenting and organizing them, so it was a no-brainer to start this.
+        - Since I started to use the internet full-time in 2010s, some problems would recurrently show up.
+            - The first one happened every time I'd get obsessed with something, since I'd want to get my hands on humanity's best resources on the subject. It started with badminton, then electronics, then games, then productivity, then code, and so on.
+                - Every time, I'd ask myself:
+                - > **How can I find the most relevant, high-quality resources for what I want to learn/do quickly? **
+            - Usually the answer would be scouring every corner of the web. Then, once I had pillaged the internet down to the most obscure BBforum and collected hundreds of bookmarks, I had to make sense of all this precious data. So the next question was: 
+                - > How can I organize my information collection? 
+            - As I would be clean up I'd simultaneously I'd go through each resource and learn. Now what would happen often was that
+        - I concluded not so long ago that:
+            - > The fastest way to [[holy omniscience]] is to illuminate the paths and tools for the very harbingers of  [[holy omniscience]]. Documenting and exploring this scene as it unravels is the highest-leverage activity I can take part in at the moment.
+        - The scene is minuscule, but as a result it moves incredibly fast. It has the highest leverage of them all, but if we don't create alignment, much time will be spent reinventing the wheel and wondering if we're the only ones thinking these ideas.
+        - I knew that I really enjoy exploring ideas and documenting and organizing them, so it was a no-brainer to start this.
     - {{[[TODO]]}} add origin story 

@@ -24,6 +24,9 @@
 
 #[Knowledge Graphs](<Knowledge Graphs.md>)
 
+## [Palantir](<Palantir.md>)
+- [ ] Need to look deeper into Palantir. If my intuition is correct, they have done __significant__ work in the space of [Knowledge Graphs](<Knowledge Graphs.md>),
+
 ## [Start Here](<Start Here.md>)
 - > " [The rise of community-curated knowledge networks](<The rise of community-curated knowledge networks.md>) by [Sari Azout](<Sari Azout.md>), ((or as I like to call her, the woman who stole my brain,)) excellently showcases the intersection between [Tools for Thoughts](<Tools for Thoughts.md>) and social [curation](<curation.md>). #[Knowledge Graphs](<Knowledge Graphs.md>)
 

@@ -1,4 +1,4 @@
-- https://twitter.com/JamesClear/status/1208945148996079618 #[James Clear](<James Clear.md>) #[Information Overload](<Information Overload.md>)
+- https://twitter.com/JamesClear/status/1208945148996079618 #[James Clear](<James Clear.md>) #[Information Overflow](<Information Overflow.md>)
 - These will identify connections between seemingly disparate fields and allow us to know where to look without getting overwhelmed.
 - Through [Free Hierarchy](<Free Hierarchy.md>) we know that at their core, feeds, search engines, exploratory tools are actually the same thing- they retrieve information nodes based off certain properties, and then arrange them in different hierarchies that are (so far) usually linear.
     - So a feed is, in the end, is just a permanently recurring search from the info-emitting entities that have the "followed by X" property that arranges these nodes a linear hierarchy, usually prioritizing two properties- age (in reverse) and some vanity social signal like likes.

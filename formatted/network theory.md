@@ -2,6 +2,7 @@
 - ## Terminologies
     - [network diameter](<network diameter.md>)
     - [small-world](<small-world.md>)
+    - [assortative mixing](<assortative mixing.md>) vs [disassortative mixing](<disassortative mixing.md>)
 
 # Backlinks
 ## [Linked: The New Science of Networks](<Linked: The New Science of Networks.md>)

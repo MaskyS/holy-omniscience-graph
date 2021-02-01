@@ -1,5 +1,5 @@
-- https://twitter.com/MoritzW42/status/1344297665379635203 #[Remnote](<Remnote.md>) #[Free Hierarchy](<Free Hierarchy.md>) #[Knowledge Graphs](<Knowledge Graphs.md>) [Books](<Books.md>)
+- https://twitter.com/MoritzW42/status/1344297665379635203 #[Remnote](<Remnote.md>) #[Free Hierarchy](<Free Hierarchy.md>) #[Knowledge Graphs](<Knowledge Graphs.md>) #[Linked: The New Science of Networks](<Linked: The New Science of Networks.md>)
 - [ ] https://twitter.com/maskys_/status/1353703842848751622  thread to index #[Kifah Meeran](<Kifah Meeran.md>) #[Roam Research](<Roam Research.md>) [Zettelkasten](<Zettelkasten.md>) #[Free Hierarchy](<Free Hierarchy.md>) #[Fractal Brains: Fractal Thoughts](<Fractal Brains: Fractal Thoughts.md>)
 - https://www.zsolt.blog/2021/01/Roam-Data-Structure-Query.html seems like an interesting [article](<article.md>) to learn to use [Roam Research](<Roam Research.md>)'s #[[[Roam Research](<[[Roam Research.md>) API Resources]]
 - [ ] Try [Hook](https://hookproductivity.com) for easier linking to [Wikipedia](<Wikipedia.md>) pages #[Holy Omniscience Graph](<Holy Omniscience Graph.md>)
-- [ ] Read [Linked: The New Science of Networks](<Linked: The New Science of Networks.md>)
+- [x] Read [Linked: The New Science of Networks](<Linked: The New Science of Networks.md>)

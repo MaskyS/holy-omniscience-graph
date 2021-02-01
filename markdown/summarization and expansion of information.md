@@ -1,23 +1,24 @@
-- **What It Is**
+- **Why it's important**
+    - The goal of [[summarization and expansion of information]] is 
+        - to make it easier to find information related to what you are currently looking at, without being overwhelmed. In other words, it reduces [[Information Overflow]].
+        - to make sure the information is transmitted in a language you understand- no jargon or ideas building upon concepts you don't know. In other words, it helps achieve [[Information/Knowledge Fit]].
+            - "https://twitter.com/Kpaxs/status/947516464025821184 #context #[[Information/Knowledge Fit]]"
+- **What it is**
+    - [[summarization and expansion of information]] is about putting things into context, your context.
     - It's the process we use to turn a book into a book summary into a blurb. It's the process [[Jacob Collier]] uses to [explain a musical concept in five levels of difficulty](https://www.youtube.com/watch?v=eRkgK4jfi6M&list=PL_ssQmxKjCrT7muPsy7NiOJq1I5VyaiYl&index=165).
     - In [[The Information Platform of The Future]], this occurs automatically and universally, without a human having to reword the content.
-    - See one possible implementation in action in 's [[Abstraction Slider]] and Content Augmentation sections.
+    - To visualize how this would work, see [[The Future of Information]]'s [[Abstraction Slider]] and Content Augmentation sections.
     - Here's an inline version imagined by [[Matthew Siu]] (click to see entire thread):
         - https://twitter.com/MatthewWSiu/status/1329993019177791488 #GPT-3  #[[summarization and expansion of information]] #[[abstractive summarisation]]
-- **Why is it important?**
-    - It helps reduce [[Information Overflow]],
-        - which "is when finding information related to what you are currently looking at is really hard", "as defined by ".
-    - It helps achieve [[Information/Knowledge Fit]]
-        - https://twitter.com/Kpaxs/status/947516464025821184 #context #[[Information/Knowledge Fit]]
-- **What other ideas does it require/interact with? Are there example implementations?**
-    - [[[[GPT-3]] and its funny-talking AI friends]] will be doing the brunt of the work. You can see a demo here:
+- **Related/required ideas and example implementations**
+    - [[[[GPT-3]] and its funny-talking AI friends]] will be doing most of the rewording. You can see a demo here:
         - "https://twitter.com/Plinz/status/1283211048145711104 #[[[[GPT-3]] and its funny-talking AI friends]] #[[summarization and expansion of information]] #[[Joscha Bach]]"
     - Achieving [[Information/Knowledge Fit]] requires knowing what you know (and don't know) through [[Kiraman Katibin]]]].
     - It'll work best when paired with [[The Lyceum]] as well, since then it can more effectively guess what you want to know.
     - [[Roam Research]] has its [[collapsible parentheticals]], ((which I have been using throughout this graph,)) as you can see by clicking the Roam glyph.
-- **What are the hardest problems or roadblocks?**
+- **Hardest problems/roadblocks to overcome**
     - [[abstractive summarisation]] is hard.
-- **What are the dangers or limitations of implementing this principle alone/hastily?**
+- **Dangers and limitations of a hasty implementation**
     - [[The Future of Information]] poses some excellent questions:
         - "How can we make sure [[Individual Media]] won’t be abused?"
         - "Will [[Individual Media]] grow or pop the Filter Bubbles of today’s world?"

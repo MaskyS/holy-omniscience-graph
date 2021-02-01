@@ -7,6 +7,9 @@
 - open-source:  https://bitpixi.livejournal.com/6486.html
 
 # Backlinks
+## [Atlas Recall](<Atlas Recall.md>)
+- - From what I understand Atlas captures screenshots for *every* window/screen/visited page, and sends them to their cloud. I imagine that entailed exponential server costs. UPDATE: It might not, if they did image differentials like [Savant Recall](<Savant Recall.md>).
+
 ## [Meta](<Meta.md>)
-- The more I look at Meta, the more it seems like a complete ripoff of [Savant Recall](<Savant Recall.md>),
+- But why isn't Meta building on Atlas? Well...the more I look at Meta, the more it seems like a ripoff of [Savant Recall](<Savant Recall.md>),
 

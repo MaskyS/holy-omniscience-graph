@@ -2,3 +2,4 @@
 - ## Terminologies
     - [[network diameter]]
     - [[small-world]]
+    - [[assortative mixing]] vs [[disassortative mixing]]

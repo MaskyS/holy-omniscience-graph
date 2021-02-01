@@ -6,6 +6,9 @@
 
 - **Using imagined labels multiplies the number of possible ways to organize the same members within a hierarchy, as well as the number of hierarchies themselves**. To illustrate this, let's jump to the next question: Why is [Roam Research](<Roam Research.md>)
 
+## [Ideaflow](<Ideaflow.md>)
+- If I had to make a judgement from the demo, Ideaflow's [Tools for Thoughts](<Tools for Thoughts.md>) is actually better than [Roam Research](<Roam Research.md>)
+
 ## [January 10th, 2021](<January 10th, 2021.md>)
 - [Preeti Kovvali](<Preeti Kovvali.md>) shows how she pulls tweets (manually downloading archive, copy individual tweet, add NER) https://twitter.com/preetiblogs/status/1260335606695178241 #[[[Twitter](<[[Twitter.md>) x [Roam Research](<Roam Research.md>)]
 

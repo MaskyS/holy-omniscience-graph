@@ -69,6 +69,11 @@ we are not sure what to spend our precious time on. The Abstraction Slider enabl
     - 01/2017
 
 # Backlinks
+## [Information Overflow](<Information Overflow.md>)
+- as defined by [The Future of Information](<The Future of Information.md>)
+
 ## [summarization and expansion of information](<summarization and expansion of information.md>)
+- To visualize how this would work, see [The Future of Information](<The Future of Information.md>)'
+
 - [The Future of Information](<The Future of Information.md>)
 

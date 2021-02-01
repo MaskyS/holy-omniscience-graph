@@ -1,0 +1,1 @@
+- a bias in favor of connections between network nodes with similar characteristics

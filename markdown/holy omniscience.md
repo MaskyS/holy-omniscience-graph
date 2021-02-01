@@ -1,6 +1,6 @@
-- Holy Omniscience, as we refer to it here, means to be aware of—but not necessarily __know__— all the different fields and pockets of information that exist. 
+- Holy Omniscience, as we refer to it here, means to be aware of all the different fields and pockets of information that exist.
 - It means possessing a map of maps and the ability to virtually teleport to any point or idea on it, and to be able to understand any of the perspectives provided by countless individuals.
-- Holy Omniscience is originally ((a concept by Oscar Ichazo and is)) the fifth [[Holy Idea]] in The [[Enneagram]].
+- Holy Omniscience is ((a concept by Oscar Ichazo and is)) the fifth [[Holy Idea]] in The [[Enneagram]].
 - Here are some #Quotes from "[[Facets of Unity]] by [[A.H Almaas]]":
     - Holy Omniscience is the Universal Mind, which is the multiplicity of existence within the unity described by Holy Truth. Universal Mind includes all that exists in its various manifestations, with all the various colors, the richness, and the continuous transformations of reality. It could also be called God’s Knowledge, since what God “knows” is the whole universe in all its multiplicity. 
     - With Holy Omniscience, the emphasis is on the differentiations and discriminations within that unity [of the universe]. So the focus here is on the various parts, in all their variety and multiplicity, that together comprise the unitive whole. To perceive reality through the facet of Holy Omniscience is like looking at a whole Persian rug, but focusing on the different designs contained within it.

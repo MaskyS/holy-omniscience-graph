@@ -81,6 +81,7 @@
 
 - {{[TODO](<TODO.md>)}
 
+## [January 29th, 2021](<January 29th, 2021.md>)
 - {{[TODO](<TODO.md>)}
 
 ## [January 9th, 2021](<January 9th, 2021.md>)
@@ -88,13 +89,14 @@
 
 - {{[TODO](<TODO.md>)}
 
+## [Linked: The New Science of Networks](<Linked: The New Science of Networks.md>)
+- ## {{[TODO](<TODO.md>)}
+
 ## [Missing Links](<Missing Links.md>)
 - {{[TODO](<TODO.md>)}
 
 - {{[TODO](<TODO.md>)}
 
-- "{{[TODO](<TODO.md>)}
-
 - {{[TODO](<TODO.md>)}
 
 - {{[TODO](<TODO.md>)}
@@ -103,6 +105,9 @@
 
 - {{[TODO](<TODO.md>)}
 
+- {{[TODO](<TODO.md>)}
+
+## [Palantir](<Palantir.md>)
 - {{[TODO](<TODO.md>)}
 
 ## [Scenius](<Scenius.md>)
