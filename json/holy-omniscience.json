@@ -25261,6 +25261,9 @@
       {
         ":block/refs": [
           {
+            ":block/uid": "MQbNwIZ2Y"
+          },
+          {
             ":block/uid": "L9JQdxjuL"
           }
         ],
@@ -25280,13 +25283,18 @@
             },
             "create-time": 1611306641249,
             "edit-time": 1611306696226,
+            "heading": 2,
             "string": "```css\n@import url(\"https://linuz90.github.io/better-roam-research/light.css\");```",
+            "text-align": "center",
             "uid": "ujSgpQa9L"
           }
         ],
         "create-time": 1611306631357,
         "edit-time": 1611306636694,
         "refs": [
+          {
+            "uid": "MQbNwIZ2Y"
+          },
           {
             "uid": "L9JQdxjuL"
           }
