@@ -441,16 +441,16 @@
                 "uid": "DDVtWJu3c"
               },
               {
+                ":create/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                ":edit/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
                 "create-time": 1611934333028,
                 "edit-time": 1611934333027,
                 "string": "",
                 "uid": "aq2YQyL5I"
-              },
-              {
-                "create-time": 1611934336261,
-                "edit-time": 1611934430600,
-                "string": "",
-                "uid": "HmINmFOj5"
               },
               {
                 ":block/refs": [
@@ -559,8 +559,20 @@
                 "uid": "6CX4Fv4Np"
               },
               {
+                ":create/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                ":edit/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
                 "children": [
                   {
+                    ":create/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
                     "create-time": 1611934947814,
                     "edit-time": 1611934960885,
                     "string": "First, such high-level abstract thinking is extremely rare.",
@@ -681,10 +693,16 @@
                 "uid": "lo9jJX6j0"
               },
               {
-                "create-time": 1611935636524,
-                "edit-time": 1612078989585,
-                "string": "The goal is to allow anyone to get a strong grasp of current progress in this space, and to let our work to find each other. People will dare to explore the terrains for which maps exist, no matter how inaccurate. Some will find the flaws. And the best will __create__ flaws by reshaping the world it models. So let's stop thinking the same thoughts and start materializing them instead. ",
-                "uid": "f-ov3q2o8"
+                ":create/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                ":edit/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                "create-time": 1612815853614,
+                "edit-time": 1612815853614,
+                "string": "The goal is to allow anyone to get a strong grasp of current progress in this space, and to let our work to find each other. People will dare to explore the terrains for which maps exist, no matter how inaccurate. Some will find the flaws. And the best will __create__ flaws by reshaping the world it models.",
+                "uid": "NgmcJA0Zr"
               },
               {
                 ":create/user": {
@@ -693,10 +711,10 @@
                 ":edit/user": {
                   ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
                 },
-                "create-time": 1611473974887,
-                "edit-time": 1611935638646,
-                "string": "So let's stop thinking the same thoughts and instead start materializing them. ",
-                "uid": "-ja8vArOX"
+                "create-time": 1611935636524,
+                "edit-time": 1612815861009,
+                "string": "So let's stop thinking the same thoughts and start materializing them instead. ",
+                "uid": "f-ov3q2o8"
               }
             ],
             "create-time": 1611476209283,
@@ -883,6 +901,12 @@
                 ":block/uid": "pabXR_8JW"
               }
             ],
+            ":create/user": {
+              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+            },
+            ":edit/user": {
+              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+            },
             "create-time": 1611935074064,
             "edit-time": 1611935177776,
             "refs": [
@@ -894,12 +918,24 @@
             "uid": "IDczqv48v"
           },
           {
+            ":create/user": {
+              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+            },
+            ":edit/user": {
+              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+            },
             "create-time": 1611935115755,
             "edit-time": 1611935115755,
             "string": "",
             "uid": "f58_TzPvJ"
           },
           {
+            ":create/user": {
+              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+            },
+            ":edit/user": {
+              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+            },
             "create-time": 1611935126195,
             "edit-time": 1611935126195,
             "string": "",
@@ -911,6 +947,12 @@
                 ":block/uid": "_vC1e605g"
               }
             ],
+            ":create/user": {
+              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+            },
+            ":edit/user": {
+              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+            },
             "create-time": 1611935137453,
             "edit-time": 1611935333659,
             "refs": [
@@ -922,6 +964,12 @@
             "uid": "HmIw0zUEj"
           },
           {
+            ":create/user": {
+              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+            },
+            ":edit/user": {
+              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+            },
             "create-time": 1611935440938,
             "edit-time": 1611935440938,
             "string": "",
@@ -941,6 +989,12 @@
             },
             "children": [
               {
+                ":create/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                ":edit/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
                 "create-time": 1611935549918,
                 "edit-time": 1611935549918,
                 "string": "",
@@ -1021,30 +1075,60 @@
             "uid": "d4T2oxg3t"
           },
           {
+            ":create/user": {
+              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+            },
+            ":edit/user": {
+              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+            },
             "create-time": 1611935468912,
             "edit-time": 1611935468912,
             "string": "",
             "uid": "WU30mkG8z"
           },
           {
+            ":create/user": {
+              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+            },
+            ":edit/user": {
+              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+            },
             "create-time": 1611935534215,
             "edit-time": 1611935534215,
             "string": "",
             "uid": "7f1ZgYC2B"
           },
           {
+            ":create/user": {
+              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+            },
+            ":edit/user": {
+              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+            },
             "create-time": 1611935198453,
             "edit-time": 1611935478255,
             "string": "3. The new content comes from the Daily Notes, which is where **ideas/tweets/resources is inserted ((dumped)) into.** Each item is linked to relevant topics and pages at the block-level. ",
             "uid": "xqzQgKWNd"
           },
           {
+            ":create/user": {
+              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+            },
+            ":edit/user": {
+              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+            },
             "create-time": 1611935423190,
             "edit-time": 1611935423190,
             "string": "",
             "uid": "3OKnJpp9H"
           },
           {
+            ":create/user": {
+              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+            },
+            ":edit/user": {
+              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+            },
             "create-time": 1611935510349,
             "edit-time": 1611935510349,
             "string": "",
@@ -1075,6 +1159,12 @@
             "uid": "rjVaTH38R"
           },
           {
+            ":create/user": {
+              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+            },
+            ":edit/user": {
+              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+            },
             "create-time": 1611935515705,
             "edit-time": 1611935515705,
             "string": "",
@@ -1822,6 +1912,12 @@
                 ":block/uid": "_cWdh0yQB"
               }
             ],
+            ":create/user": {
+              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+            },
+            ":edit/user": {
+              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+            },
             "children": [
               {
                 ":block/refs": [
@@ -1829,6 +1925,12 @@
                     ":block/uid": "qrrYhXPUB"
                   }
                 ],
+                ":create/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                ":edit/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
                 "create-time": 1611934657472,
                 "edit-time": 1611936295162,
                 "refs": [
@@ -1845,6 +1947,12 @@
                     ":block/uid": "EfoMpoHeL"
                   }
                 ],
+                ":create/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                ":edit/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
                 "create-time": 1611934623818,
                 "edit-time": 1611934623818,
                 "refs": [
@@ -1861,6 +1969,12 @@
                     ":block/uid": "q2Lx92rqk"
                   }
                 ],
+                ":create/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                ":edit/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
                 "create-time": 1611934623818,
                 "edit-time": 1611934623818,
                 "refs": [
@@ -1877,6 +1991,12 @@
                     ":block/uid": "_cWdh0yQB"
                   }
                 ],
+                ":create/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                ":edit/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
                 "create-time": 1611934772806,
                 "edit-time": 1611934799511,
                 "refs": [
@@ -1893,6 +2013,12 @@
                     ":block/uid": "iR4hDt78u"
                   }
                 ],
+                ":create/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                ":edit/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
                 "create-time": 1611934801337,
                 "edit-time": 1611934811468,
                 "refs": [
@@ -1917,6 +2043,12 @@
             "uid": "Zx4dmZ-0L"
           },
           {
+            ":create/user": {
+              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+            },
+            ":edit/user": {
+              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+            },
             "create-time": 1611934449475,
             "edit-time": 1611934455098,
             "string": "",
@@ -1979,12 +2111,24 @@
             "uid": "cwR1GDGLa"
           },
           {
+            ":create/user": {
+              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+            },
+            ":edit/user": {
+              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+            },
             "create-time": 1611936365024,
             "edit-time": 1611936365024,
             "string": "I ([Kifah Meeran](https://twitter.com/maskys_)) merely started the graph. ",
             "uid": "YoCzg51oU"
           },
           {
+            ":create/user": {
+              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+            },
+            ":edit/user": {
+              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+            },
             "children": [
               {
                 ":create/user": {
@@ -2452,6 +2596,12 @@
             "uid": "j5j1j4ThI"
           },
           {
+            ":create/user": {
+              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+            },
+            ":edit/user": {
+              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+            },
             "create-time": 1611942292609,
             "edit-time": 1611942441262,
             "string": "",
@@ -2475,6 +2625,12 @@
                 ":block/uid": "pabXR_8JW"
               }
             ],
+            ":create/user": {
+              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+            },
+            ":edit/user": {
+              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+            },
             "create-time": 1611942444039,
             "edit-time": 1611942453883,
             "refs": [
@@ -2507,6 +2663,12 @@
                 },
                 "children": [
                   {
+                    ":create/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
                     "create-time": 1611942000768,
                     "edit-time": 1611942000768,
                     "string": "",
@@ -2525,18 +2687,36 @@
                     "uid": "QoEVxNu3n"
                   },
                   {
+                    ":create/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
                     "create-time": 1611941825231,
                     "edit-time": 1611941827407,
                     "string": "- every unit of information should be treated as a node in a network (or hierarchy)",
                     "uid": "mrLml4NAm"
                   },
                   {
+                    ":create/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
                     "create-time": 1611941827389,
                     "edit-time": 1611941903473,
                     "string": "- the __relationships__ between these nodes, and how they behave in various contexts, are more important than their intrinsic properties.",
                     "uid": "mRl5BzOvf"
                   },
                   {
+                    ":create/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
                     "create-time": 1611941822624,
                     "edit-time": 1611941964298,
                     "string": "- users should have complete freedom to build, arrange, and expand these hierarchies, regardless of where the data/information was produced.",
@@ -2560,6 +2740,12 @@
             "uid": "fxRCdAAnw"
           },
           {
+            ":create/user": {
+              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+            },
+            ":edit/user": {
+              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+            },
             "create-time": 1611942498302,
             "edit-time": 1611942848299,
             "string": "Today, we are privy from both our data and the algorithms used to get new information. Tomorrow, data will be detached from the platforms we use, and we'll have a whole marketplace of algorithms and hierarchies to process and arrange our information. ",
@@ -2700,6 +2886,12 @@
             "uid": "u8nTTwhmu"
           },
           {
+            ":create/user": {
+              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+            },
+            ":edit/user": {
+              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+            },
             "create-time": 1611941705566,
             "edit-time": 1611941705566,
             "string": "I've tried to categorize everything into the six pillars below, but as you probably have realized by now, this graph is wildly interconnected. ",
@@ -28636,6 +28828,12 @@
             },
             "children": [
               {
+                ":create/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                ":edit/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
                 "create-time": 1611938638278,
                 "edit-time": 1611938658847,
                 "string": "At what point does a hierarchy act as a node?",
@@ -29454,6 +29652,12 @@
             "uid": "hPfApEd27"
           },
           {
+            ":create/user": {
+              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+            },
+            ":edit/user": {
+              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+            },
             "create-time": 1611942736236,
             "edit-time": 1611942753450,
             "string": "The web is also largely **unidirectional**. ",
@@ -29496,6 +29700,12 @@
             "uid": "s7bibaCiu"
           },
           {
+            ":create/user": {
+              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+            },
+            ":edit/user": {
+              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+            },
             "create-time": 1611942726445,
             "edit-time": 1611942726445,
             "string": "",
@@ -30680,6 +30890,12 @@
             ":block/uid": "iCuZ9KDsy"
           }
         ],
+        ":create/user": {
+          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+        },
+        ":edit/user": {
+          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+        },
         "create-time": 1611944238539,
         "edit-time": 1611944238539,
         "refs": [
@@ -30711,6 +30927,12 @@
             ":block/uid": "8HHL5frNr"
           }
         ],
+        ":create/user": {
+          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+        },
+        ":edit/user": {
+          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+        },
         "create-time": 1611944092076,
         "edit-time": 1611944273654,
         "refs": [
@@ -30850,6 +31072,12 @@
                 ":block/uid": "kjZfTHjXd"
               }
             ],
+            ":create/user": {
+              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+            },
+            ":edit/user": {
+              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+            },
             "create-time": 1611946148334,
             "edit-time": 1611946288483,
             "refs": [
@@ -31176,6 +31404,12 @@
     "uid": "JRETNZldp"
   },
   {
+    ":create/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    },
+    ":edit/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    },
     "children": [
       {
         ":block/refs": [
@@ -31186,6 +31420,12 @@
             ":block/uid": "kjZfTHjXd"
           }
         ],
+        ":create/user": {
+          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+        },
+        ":edit/user": {
+          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+        },
         "create-time": 1611944698075,
         "edit-time": 1611946194244,
         "refs": [
@@ -31200,6 +31440,12 @@
         "uid": "bwEu-0Vel"
       },
       {
+        ":create/user": {
+          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+        },
+        ":edit/user": {
+          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+        },
         "create-time": 1611944705581,
         "edit-time": 1611944705581,
         "string": "",
@@ -31217,6 +31463,12 @@
             ":block/uid": "d5-M3x7wX"
           }
         ],
+        ":create/user": {
+          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+        },
+        ":edit/user": {
+          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+        },
         "create-time": 1611944707511,
         "edit-time": 1611944780287,
         "refs": [
@@ -31234,12 +31486,24 @@
         "uid": "L9cS9G6Cx"
       },
       {
+        ":create/user": {
+          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+        },
+        ":edit/user": {
+          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+        },
         "create-time": 1611944201968,
         "edit-time": 1611944212497,
         "string": "Illustration of Dynamic Ontology",
         "uid": "-bCklXIRr"
       },
       {
+        ":create/user": {
+          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+        },
+        ":edit/user": {
+          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+        },
         "create-time": 1611944187389,
         "edit-time": 1611944200995,
         "string": "![](https://cdn.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_600/https://thistooshallpass.blog/wp-content/uploads/2020/08/Palantir_Ontology.jpg) ",
@@ -31252,14 +31516,32 @@
     "uid": "iCuZ9KDsy"
   },
   {
+    ":create/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    },
+    ":edit/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    },
     "create-time": 1611944273661,
     "edit-time": 1611944273665,
     "title": "Rhys Wallace",
     "uid": "8HHL5frNr"
   },
   {
+    ":create/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    },
+    ":edit/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    },
     "children": [
       {
+        ":create/user": {
+          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+        },
+        ":edit/user": {
+          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+        },
         "create-time": 1611946166428,
         "edit-time": 1611946171517,
         "string": "",

@@ -10,7 +10,6 @@
         - "Who this graph is for"
         - "How you can play a part"
         - 
-        - 
         - "Who made this?"
         - "How did this start?"
         - ":hiccup [:hr]"
@@ -26,8 +25,8 @@
     - ## TLDR Of What This Graph Is
         - 
         - Here, therefore, we are building a blueprint for **accelerators of intellectual progress**. We map ideas, tools, and resources for creating [[The Information Platform of The Future]]. 
-        - The goal is to allow anyone to get a strong grasp of current progress in this space, and to let our work to find each other. People will dare to explore the terrains for which maps exist, no matter how inaccurate. Some will find the flaws. And the best will __create__ flaws by reshaping the world it models. So let's stop thinking the same thoughts and start materializing them instead. 
-        - So let's stop thinking the same thoughts and instead start materializing them. 
+        - The goal is to allow anyone to get a strong grasp of current progress in this space, and to let our work to find each other. People will dare to explore the terrains for which maps exist, no matter how inaccurate. Some will find the flaws. And the best will __create__ flaws by reshaping the world it models.
+        - So let's stop thinking the same thoughts and start materializing them instead. 
     - :hiccup [:hr]
 ## What is [[The Information Platform of The Future]]?
     - 
