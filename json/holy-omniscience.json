@@ -441,18 +441,6 @@
                 "uid": "DDVtWJu3c"
               },
               {
-                ":create/user": {
-                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-                },
-                ":edit/user": {
-                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-                },
-                "create-time": 1611934333028,
-                "edit-time": 1611934333027,
-                "string": "",
-                "uid": "aq2YQyL5I"
-              },
-              {
                 ":block/refs": [
                   {
                     ":block/uid": "Um5xgCS8z"
@@ -924,22 +912,10 @@
             ":edit/user": {
               ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
             },
-            "create-time": 1611935115755,
-            "edit-time": 1611935115755,
+            "create-time": 1611935440938,
+            "edit-time": 1611935440938,
             "string": "",
-            "uid": "f58_TzPvJ"
-          },
-          {
-            ":create/user": {
-              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-            },
-            ":edit/user": {
-              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-            },
-            "create-time": 1611935126195,
-            "edit-time": 1611935126195,
-            "string": "",
-            "uid": "TWqS50kuA"
+            "uid": "2wa7v1MOR"
           },
           {
             ":block/refs": [
@@ -962,18 +938,6 @@
             ],
             "string": "2. There you'll find **'Topic Pages'**, like [[GPT-3]], which **are periodically updated with new content/context.** ",
             "uid": "HmIw0zUEj"
-          },
-          {
-            ":create/user": {
-              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-            },
-            ":edit/user": {
-              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-            },
-            "create-time": 1611935440938,
-            "edit-time": 1611935440938,
-            "string": "",
-            "uid": "2wa7v1MOR"
           },
           {
             ":block/refs": [
@@ -1031,80 +995,6 @@
             ":edit/user": {
               ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
             },
-            "children": [
-              {
-                ":create/user": {
-                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-                },
-                ":edit/user": {
-                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-                },
-                "children": [
-                  {
-                    ":block/refs": [
-                      {
-                        ":block/uid": "Nkfd-61Dk"
-                      }
-                    ],
-                    ":create/user": {
-                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-                    },
-                    "create-time": 1611400713677,
-                    "edit-time": 1611400814789,
-                    "refs": [
-                      {
-                        "uid": "Nkfd-61Dk"
-                      }
-                    ],
-                    "string": "> ((Nkfd-61Dk))",
-                    "uid": "1jgqCHdBh"
-                  }
-                ],
-                "create-time": 1611400705343,
-                "edit-time": 1611935311985,
-                "string": "Here's an example entry:",
-                "uid": "pHNVmQhhv"
-              }
-            ],
-            "create-time": 1611401032211,
-            "edit-time": 1611935219882,
-            "string": "**every idea/tweet/resource** we come across **is inserted ((dumped)) into the Daily Notes and immediately linked to relevant topics and pages at the block-level. **",
-            "uid": "d4T2oxg3t"
-          },
-          {
-            ":create/user": {
-              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-            },
-            ":edit/user": {
-              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-            },
-            "create-time": 1611935468912,
-            "edit-time": 1611935468912,
-            "string": "",
-            "uid": "WU30mkG8z"
-          },
-          {
-            ":create/user": {
-              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-            },
-            ":edit/user": {
-              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-            },
-            "create-time": 1611935534215,
-            "edit-time": 1611935534215,
-            "string": "",
-            "uid": "7f1ZgYC2B"
-          },
-          {
-            ":create/user": {
-              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-            },
-            ":edit/user": {
-              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-            },
             "create-time": 1611935198453,
             "edit-time": 1611935478255,
             "string": "3. The new content comes from the Daily Notes, which is where **ideas/tweets/resources is inserted ((dumped)) into.** Each item is linked to relevant topics and pages at the block-level. ",
@@ -1117,34 +1007,34 @@
             ":edit/user": {
               ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
             },
-            "create-time": 1611935423190,
-            "edit-time": 1611935423190,
-            "string": "",
-            "uid": "3OKnJpp9H"
-          },
-          {
-            ":create/user": {
-              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-            },
-            ":edit/user": {
-              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-            },
-            "create-time": 1611935510349,
-            "edit-time": 1611935510349,
-            "string": "",
-            "uid": "tH2QJ2Xg1"
-          },
-          {
-            ":create/user": {
-              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-            },
-            ":edit/user": {
-              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-            },
-            "create-time": 1611326177033,
-            "edit-time": 1611935390127,
-            "string": "",
-            "uid": "_HCYW7vHU"
+            "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "Nkfd-61Dk"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                ":edit/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                "create-time": 1611400713677,
+                "edit-time": 1612953208196,
+                "refs": [
+                  {
+                    "uid": "Nkfd-61Dk"
+                  }
+                ],
+                "string": "> ((Nkfd-61Dk))",
+                "uid": "1jgqCHdBh"
+              }
+            ],
+            "create-time": 1611400705343,
+            "edit-time": 1612953208196,
+            "string": "Here's an example entry:",
+            "uid": "pHNVmQhhv"
           },
           {
             ":create/user": {
@@ -1157,18 +1047,6 @@
             "edit-time": 1611477031300,
             "string": "",
             "uid": "rjVaTH38R"
-          },
-          {
-            ":create/user": {
-              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-            },
-            ":edit/user": {
-              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-            },
-            "create-time": 1611935515705,
-            "edit-time": 1611935515705,
-            "string": "",
-            "uid": "rpsJVG99y"
           },
           {
             ":block/refs": [
@@ -1213,22 +1091,10 @@
             ":edit/user": {
               ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
             },
-            "create-time": 1611406536202,
-            "edit-time": 1611406536202,
+            "create-time": 1612953227733,
+            "edit-time": 1612953227733,
             "string": "",
-            "uid": "l60EoaHeN"
-          },
-          {
-            ":create/user": {
-              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-            },
-            ":edit/user": {
-              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-            },
-            "create-time": 1610289321057,
-            "edit-time": 1611319179213,
-            "string": "",
-            "uid": "4gVsU8w0r"
+            "uid": "os22jlXgY"
           },
           {
             ":create/user": {
@@ -2662,18 +2528,6 @@
                   ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
                 },
                 "children": [
-                  {
-                    ":create/user": {
-                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-                    },
-                    "create-time": 1611942000768,
-                    "edit-time": 1611942000768,
-                    "string": "",
-                    "uid": "l6SFLEfqA"
-                  },
                   {
                     ":create/user": {
                       ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"

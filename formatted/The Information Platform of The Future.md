@@ -13,7 +13,6 @@
     - 
     - **The conceptual backbone of this platform is the theory of** [free hierarchies]([Free Hierarchy](<Free Hierarchy.md>)). If you read only one thing in this graph, make it free hierarchies.
         - It's a vast theory with many implications; but a very short and incomplete explanation of its application is:
-            - 
             - every unit of information should be treated as a node in a network (or hierarchy)and grant users the complete freedom to build, arrange, and expand these hierarchies.**
             - - every unit of information should be treated as a node in a network (or hierarchy)
             - - the __relationships__ between these nodes, and how they behave in various contexts, are more important than their intrinsic properties.

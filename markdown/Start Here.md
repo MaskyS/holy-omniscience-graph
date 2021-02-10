@@ -9,7 +9,6 @@
         - "How to use this graph"
         - "Who this graph is for"
         - "How you can play a part"
-        - 
         - "Who made this?"
         - "How did this start?"
         - ":hiccup [:hr]"
@@ -38,26 +37,16 @@
     - 
     - 1. Everything is (or will be) rounded up on [[The Information Platform of The Future]] page, so that's where you want to start digging.
     - 
-    - 
     - 2. There you'll find **'Topic Pages'**, like [[GPT-3]], which **are periodically updated with new content/context.** 
-    - 
-    - 
-    - 
-    - **every idea/tweet/resource** we come across **is inserted ((dumped)) into the Daily Notes and immediately linked to relevant topics and pages at the block-level. **
-        - Here's an example entry:
-            - > " [[The rise of community-curated knowledge networks]] by [[Sari Azout]], ((or as I like to call her, the woman who stole my brain,)) excellently showcases the intersection between [[Tools for Thoughts]] and social [[curation]]. #[[Knowledge Graphs]] #[[curation engine]]"
     - ^^((thmoaIZdX)) to receive updates as the scene/graph evolves.^^
         - 
         - __Note: All these topics are highly interconnected and non-linear, so I suggest making frequently opening topics in the sidebar ((using Shift+Click)). __
     - 3. The new content comes from the Daily Notes, which is where **ideas/tweets/resources is inserted ((dumped)) into.** Each item is linked to relevant topics and pages at the block-level. 
-    - 
-    - 
-    - 
-    - 
+    - Here's an example entry:
+        - > " [[The rise of community-curated knowledge networks]] by [[Sari Azout]], ((or as I like to call her, the woman who stole my brain,)) excellently showcases the intersection between [[Tools for Thoughts]] and social [[curation]]. #[[Knowledge Graphs]] #[[curation engine]]"
     - 
     - **If you've never used** [[Roam Research]] **before**
         - and this whole thing is utterly confusing, hit the question mark icon in the bottom right and see the help videos first.
-    - 
     - 
     -  All these topics are highly interconnected and non-linear, so I suggest making frequently opening topics in the sidebar ((using Shift+Click)). 
         - {{[[TODO]]}} I will soon set up a Roam Spatial Graph view config, but until then, please bear with me.
