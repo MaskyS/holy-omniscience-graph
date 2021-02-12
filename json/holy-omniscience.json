@@ -31532,47 +31532,9 @@
         ":edit/user": {
           ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
         },
-        "children": [
-          {
-            ":create/user": {
-              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-            },
-            ":edit/user": {
-              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-            },
-            "create-time": 1613119210728,
-            "edit-time": 1613119213597,
-            "string": "This is a block",
-            "uid": "EoQxFx7MU"
-          },
-          {
-            ":create/user": {
-              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-            },
-            ":edit/user": {
-              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-            },
-            "create-time": 1613119213584,
-            "edit-time": 1613119217530,
-            "string": "And this is also a block. ",
-            "uid": "ytCw43Den"
-          },
-          {
-            ":create/user": {
-              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-            },
-            ":edit/user": {
-              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-            },
-            "create-time": 1613119217518,
-            "edit-time": 1613119217518,
-            "string": "",
-            "uid": "y1yHhUpq5"
-          }
-        ],
         "create-time": 1613119198448,
-        "edit-time": 1613119210738,
-        "string": "This is a block",
+        "edit-time": 1613122355434,
+        "string": "",
         "uid": "kLup-rNSL"
       }
     ],
