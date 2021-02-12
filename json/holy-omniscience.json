@@ -31759,18 +31759,6 @@
                 "edit-time": 1613116039246,
                 "string": "Here's a learning journey I pursued recently:",
                 "uid": "FxzSHcQxn"
-              },
-              {
-                ":create/user": {
-                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-                },
-                ":edit/user": {
-                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-                },
-                "create-time": 1613116132510,
-                "edit-time": 1613116132510,
-                "string": "",
-                "uid": "qjeEeQEBE"
               }
             ],
             "create-time": 1613115685979,
@@ -32130,5 +32118,17 @@
     "edit-time": 1613115092043,
     "title": "Roam App",
     "uid": "uUlvzn0hx"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+    },
+    ":edit/user": {
+      ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+    },
+    "create-time": 1613138438131,
+    "edit-time": 1613138438131,
+    "title": "February 13th, 2021",
+    "uid": "02-13-2021"
   }
 ]

@@ -14,7 +14,6 @@
             - - I pulled up an idea I had written down a while back: a tool that created text summaries of Youtube videos so I could decide whether I should watch them.
             - - I decided I'd build this as a browser extension. So I learnt Typescript, Browser extension APIs, writing Google Cloud Functions in Python, and bundling it together-- through documentation, Youtube videos, blog posts.
             - - And a couple weeks later, YText was ready to use! I sent the demo back to Atomic's team, which they liked :)
-        - 
     - My Roam feature demo
         - Block references{{[[video]]: https://www.loom.com/share/c5145a9eb8e5474a8003f897ee229cc8}}
     - Sample support responses
