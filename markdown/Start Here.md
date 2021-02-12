@@ -29,7 +29,8 @@
     - :hiccup [:hr]
 ## What is [[The Information Platform of The Future]]?
     - 
-    - "[[The Information Platform of The Future]] is the medium and set of tools we will use to deal with information, as we do with the internet today. " 
+    - "[[The Information Platform of The Future]] is the medium and set of tools we will use to deal with information, as we do with the internet today."
+    -  
     - "It is **not** a literal, centralized platform, but rather a fusion of modern solutions to perennial problems. It will revolutionize how we discover, consume, and produce information."
     - Some like to call it [[Web 3.0]], but we believe its fundamental differences warrant a new name. And this name includes the word 'platform'-- which literally means "__a raised level surface on which people or things can stand__", not "__big evil tech company__".
     - ":hiccup [:hr]"

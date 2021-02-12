@@ -6,7 +6,7 @@
     - "PILLARS"
 ":hiccup [:hr]"
 # ABOUT
-    - [[The Information Platform of The Future]] is the medium and set of tools we will use to deal with information, as we do with the internet today. 
+    - [[The Information Platform of The Future]] is the medium and set of tools we will use to deal with information, as we do with the internet today.
     - It is **not** a literal, centralized platform, but rather a fusion of modern solutions to perennial problems. It will revolutionize how we discover, consume, and produce information.
     - 
     - Today, we have a unidirectional web of heavily clustered sites, people, and pages. [[The Information Platform of The Future]] on the other hand, is a network of __blocks of information__ connected **bidirectionally**.

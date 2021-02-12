@@ -1,0 +1,38 @@
+- {{encrypt:U2FsdGVkX1+pRyB1vn8myftAHLbDxOdmEZkSBod54v5KcBElcfuVEVlXzNOkvL1SWSqbd1v/Jn537XJ6lkvHbg==}}
+    - "[LinkedIn](https://www.linkedin.com/in/maskys/)"; "[Notion](https://www.notion.so/Heyo-I-m-Kifah-3307f487b13d4519b226c7c326417a73)" for comprehensive portfolio
+    - Why I want to work at Roam
+        - to accelerate intellectual progress by building mental prosthetics :)
+    - My learning process
+        - I learn best when something surprises me, especially if the surprise promises to help or provide value to others. I enjoy self-directed learning, so I go where my curiosity takes me. But before jumping into something, I like to think: how else might I use this knowledge later? How it could possibly aid me or others in the long run?
+        - Then, when something meets the criteria, I look at the paths others have taken, and try them out until I find something that works for me. When I'm unsure about the best approach to a problem, I consult the opinions of others; and when I'm stuck on a problem for too long, I try to get a pair of fresh eyes on it.
+        - Usually the biggest struggle is holding on till all the jargon makes sense. So I'll figure out more ways to make learning a specific topic more visible in my environment, and to decrease the minimum effort to get involved. The more I learn, the more I can learn- when my repertoire of mental models grows, so does the number of associations I can create between ideas.
+        - Here's a learning journey I pursued recently:
+            - - Late 2020: Grew fascinated by graph-based search engines after discovering Atomic Search
+            - - Had an very interesting discussion with the founders, who suggested to build a background in NLP and machine learning to dive deeper into this space.
+            - - So I spent about a couple of weeks looking at books, video courses, and documentation about NLP and tools like spaCy to get a gist of the basics and the terminology.
+            - - After that, I wanted to do something concrete, since NLP was so vast.
+            - - I pulled up an idea I had written down a while back: a tool that created text summaries of Youtube videos so I could decide whether I should watch them.
+            - - I decided I'd build this as a browser extension. So I learnt Typescript, Browser extension APIs, writing Google Cloud Functions in Python, and bundling it together-- through documentation, Youtube videos, blog posts.
+            - - And a couple weeks later, YText was ready to use! I sent the demo back to Atomic's team, which they liked :)
+        - 
+    - My Roam feature demo
+        - Block references{{[[video]]: https://www.loom.com/share/c5145a9eb8e5474a8003f897ee229cc8}}
+    - Sample support responses
+        - > I can't find my data and I have an important presentation tomorrow, this is bullshit, what do I do?
+            - Hello! Sorry to hear that, let's try to get it back. Can you give me the following details so we can look into it asap? 
+                - - Roam version"[.](inserthowtolinkhere)"
+                - - OS/Browser versions"[.](inserthowtolinkhere)"
+                - - Any error logs in your dev console"[.](inserthowtolinkhere)"
+                - - What color is your sync indicator at the top right? What does it say when you hover over it?
+                - - When did you first notice your data missing, and what you were doing around that time?  Did you use any specific features?
+            - Please also create a backup"[.](inserthowtolinkhere)" of your entire graph meanwhile to save all of your current work.
+        - > How do I apply dark mode to my graph?
+            - Hello, you can easily customize Roam by using custom CSS themes- here's a list of community [themes](https://github.com/theianjones/roam-research-themes). See this [video](https://www.youtube.com/watch?v=UY-sAC2eGyI) to see how to apply them. Hope this helps, and please reach out if you need further assistance.
+        - > I've written in about the inability to change my email 3 times, is any one here?
+            - Hello, sorry to hear you haven't been able to reach us! Let's get you sorted asap. '
+            - We are working hard to add administrative features. Meanwhile, you could create a new Roam account with the right email, and import all your notes to it"[.](inserthowtolinkhere)"
+            - Could you tell us how you reached out before? We want to ensure your message is delivered to the right person.
+        - > How do I do task management in Roam?
+            - Hello, our community has some great resources on the topic. Here's a list of [videos](https://www.youtube.com/results?search_query=roam+task+management). If you'd like to discuss the specifics with other users like you, you can do so on [Slack](.), [Discourse,](.) or Twitter"[.](inserthowtolinkhere)"
+            - Let us know if anything is unclear!
+    - [.](inserthowtolinkhere)

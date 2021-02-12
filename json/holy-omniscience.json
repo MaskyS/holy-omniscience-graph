@@ -774,14 +774,26 @@
             ":edit/user": {
               ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
             },
-            "create-time": 1611316834911,
-            "edit-time": 1611474674766,
+            "create-time": 1613119294235,
+            "edit-time": 1613119294235,
             "refs": [
               {
                 "uid": "LK0V_kxzQ"
               }
             ],
-            "string": "((LK0V_kxzQ)) ",
+            "string": "((LK0V_kxzQ))",
+            "uid": "wJ2TDNTh6"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+            },
+            ":edit/user": {
+              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+            },
+            "create-time": 1611316834911,
+            "edit-time": 1613119313013,
+            "string": " ",
             "uid": "yMm6GCsc1"
           },
           {
@@ -2440,13 +2452,13 @@
               ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
             },
             "create-time": 1611397232713,
-            "edit-time": 1611468711508,
+            "edit-time": 1613119390931,
             "refs": [
               {
                 "uid": "pabXR_8JW"
               }
             ],
-            "string": "[[The Information Platform of The Future]] is the medium and set of tools we will use to deal with information, as we do with the internet today. ",
+            "string": "[[The Information Platform of The Future]] is the medium and set of tools we will use to deal with information, as we do with the internet today.",
             "uid": "LK0V_kxzQ"
           },
           {
@@ -2691,7 +2703,7 @@
           }
         ],
         "create-time": 1611403297549,
-        "edit-time": 1611403304299,
+        "edit-time": 1613119428294,
         "heading": 1,
         "string": "ABOUT",
         "text-align": "center",
@@ -7508,32 +7520,6 @@
     "edit-time": 1610178614213,
     "title": "Decentralized Technologies",
     "uid": "uZZD6bu-Z"
-  },
-  {
-    ":create/user": {
-      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-    },
-    ":edit/user": {
-      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-    },
-    "children": [
-      {
-        ":create/user": {
-          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-        },
-        ":edit/user": {
-          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-        },
-        "create-time": 1611318207344,
-        "edit-time": 1611318207344,
-        "string": "",
-        "uid": "3Dpj2dYbk"
-      }
-    ],
-    "create-time": 1610178682498,
-    "edit-time": 1610178682502,
-    "title": "Kifah M",
-    "uid": "_FNPCyQpZ"
   },
   {
     ":create/user": {
@@ -25505,7 +25491,7 @@
       {
         ":block/refs": [
           {
-            ":block/uid": "vRJWVafCL"
+            ":block/uid": "S5Q3kIQ8s"
           }
         ],
         ":create/user": {
@@ -25515,13 +25501,13 @@
           ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
         },
         "create-time": 1611400103346,
-        "edit-time": 1611467653835,
+        "edit-time": 1613115080225,
         "refs": [
           {
-            "uid": "vRJWVafCL"
+            "uid": "S5Q3kIQ8s"
           }
         ],
-        "string": "For past work, see ((vRJWVafCL)) for my outdated portfolio. New signaling contraption coming soon.`",
+        "string": "For past work, see my ((S5Q3kIQ8s)).",
         "uid": "Zv9WDBV08"
       },
       {
@@ -25623,6 +25609,30 @@
             "edit-time": 1611467605222,
             "string": "[maskys.com](https://maskys.com)",
             "uid": "vRJWVafCL"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+            },
+            ":edit/user": {
+              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+            },
+            "create-time": 1613115048361,
+            "edit-time": 1613115060398,
+            "string": "[Notion](https://www.notion.so/Heyo-I-m-Kifah-3307f487b13d4519b226c7c326417a73)",
+            "uid": "S5Q3kIQ8s"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+            },
+            ":edit/user": {
+              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+            },
+            "create-time": 1611318207344,
+            "edit-time": 1613115243102,
+            "string": "[LinkedIn](https://www.linkedin.com/in/maskys/)",
+            "uid": "3Dpj2dYbk"
           }
         ],
         "create-time": 1611398862944,
@@ -31514,9 +31524,649 @@
     "uid": "02-11-2021"
   },
   {
+    "children": [
+      {
+        ":create/user": {
+          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+        },
+        ":edit/user": {
+          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+        },
+        "children": [
+          {
+            ":create/user": {
+              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+            },
+            ":edit/user": {
+              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+            },
+            "create-time": 1613119210728,
+            "edit-time": 1613119213597,
+            "string": "This is a block",
+            "uid": "EoQxFx7MU"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+            },
+            ":edit/user": {
+              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+            },
+            "create-time": 1613119213584,
+            "edit-time": 1613119217530,
+            "string": "And this is also a block. ",
+            "uid": "ytCw43Den"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+            },
+            ":edit/user": {
+              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+            },
+            "create-time": 1613119217518,
+            "edit-time": 1613119217518,
+            "string": "",
+            "uid": "y1yHhUpq5"
+          }
+        ],
+        "create-time": 1613119198448,
+        "edit-time": 1613119210738,
+        "string": "This is a block",
+        "uid": "kLup-rNSL"
+      }
+    ],
     "create-time": 1613090791722,
     "edit-time": 1613090791722,
     "title": "February 12th, 2021",
     "uid": "02-12-2021"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    },
+    ":edit/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    },
+    "children": [
+      {
+        ":block/props": {
+          ":encryption": {
+            ":hint": ""
+          }
+        },
+        ":create/user": {
+          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+        },
+        ":edit/user": {
+          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+        },
+        "children": [
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "3Dpj2dYbk"
+              },
+              {
+                ":block/uid": "S5Q3kIQ8s"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+            },
+            ":edit/user": {
+              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+            },
+            "create-time": 1613115184501,
+            "edit-time": 1613115604832,
+            "refs": [
+              {
+                "uid": "3Dpj2dYbk"
+              },
+              {
+                "uid": "S5Q3kIQ8s"
+              }
+            ],
+            "string": "((3Dpj2dYbk)); ((S5Q3kIQ8s)) for comprehensive portfolio",
+            "uid": "X-OXeNrKA"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+            },
+            ":edit/user": {
+              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+            },
+            "children": [
+              {
+                ":create/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                ":edit/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                "create-time": 1613115251875,
+                "edit-time": 1613116029125,
+                "string": "to accelerate intellectual progress by building mental prosthetics :)",
+                "uid": "97Yms8gOe"
+              }
+            ],
+            "create-time": 1613116029084,
+            "edit-time": 1613116029084,
+            "string": "Why I want to work at Roam",
+            "uid": "cV4W11QOP"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+            },
+            ":edit/user": {
+              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+            },
+            "children": [
+              {
+                ":create/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                ":edit/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                "create-time": 1606453576455,
+                "edit-time": 1613116039246,
+                "string": "I learn best when something surprises me, especially if the surprise promises to help or provide value to others. I enjoy self-directed learning, so I go where my curiosity takes me. But before jumping into something, I like to think: how else might I use this knowledge later? How it could possibly aid me or others in the long run?",
+                "uid": "lEyWbaU44"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                ":edit/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                "create-time": 1610897760437,
+                "edit-time": 1613116039246,
+                "string": "Then, when something meets the criteria, I look at the paths others have taken, and try them out until I find something that works for me. When I'm unsure about the best approach to a problem, I consult the opinions of others; and when I'm stuck on a problem for too long, I try to get a pair of fresh eyes on it.",
+                "uid": "pGaquN53c"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                ":edit/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                "create-time": 1610818138957,
+                "edit-time": 1613116191982,
+                "string": "Usually the biggest struggle is holding on till all the jargon makes sense. So I'll figure out more ways to make learning a specific topic more visible in my environment, and to decrease the minimum effort to get involved. The more I learn, the more I can learn- when my repertoire of mental models grows, so does the number of associations I can create between ideas.",
+                "uid": "s4yw90LkJ"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                ":edit/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                "children": [
+                  {
+                    ":create/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "create-time": 1610818404687,
+                    "edit-time": 1613116091783,
+                    "string": "- Late 2020: Grew fascinated by graph-based search engines after discovering Atomic Search",
+                    "uid": "fYuFPdcP6"
+                  },
+                  {
+                    ":create/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "create-time": 1610818433535,
+                    "edit-time": 1613116120606,
+                    "string": "- Had an very interesting discussion with the founders, who suggested to build a background in NLP and machine learning to dive deeper into this space.",
+                    "uid": "osDGincN0"
+                  },
+                  {
+                    ":create/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "create-time": 1610818511139,
+                    "edit-time": 1613116039246,
+                    "string": "- So I spent about a couple of weeks looking at books, video courses, and documentation about NLP and tools like spaCy to get a gist of the basics and the terminology.",
+                    "uid": "T8VRPz-Uv"
+                  },
+                  {
+                    ":create/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "create-time": 1610818630959,
+                    "edit-time": 1613116039246,
+                    "string": "- After that, I wanted to do something concrete, since NLP was so vast.",
+                    "uid": "tOfqC11ah"
+                  },
+                  {
+                    ":create/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "create-time": 1610818655591,
+                    "edit-time": 1613116039246,
+                    "string": "- I pulled up an idea I had written down a while back: a tool that created text summaries of Youtube videos so I could decide whether I should watch them.",
+                    "uid": "i-9Lx0yeY"
+                  },
+                  {
+                    ":create/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "create-time": 1610818958305,
+                    "edit-time": 1613116039246,
+                    "string": "- I decided I'd build this as a browser extension. So I learnt Typescript, Browser extension APIs, writing Google Cloud Functions in Python, and bundling it together-- through documentation, Youtube videos, blog posts.",
+                    "uid": "3RDwjbwZo"
+                  },
+                  {
+                    ":create/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "create-time": 1610819011190,
+                    "edit-time": 1613116039246,
+                    "string": "- And a couple weeks later, YText was ready to use! I sent the demo back to Atomic's team, which they liked :)",
+                    "uid": "VjT8esxA4"
+                  }
+                ],
+                "create-time": 1610782272764,
+                "edit-time": 1613116039246,
+                "string": "Here's a learning journey I pursued recently:",
+                "uid": "FxzSHcQxn"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                ":edit/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                "create-time": 1613116132510,
+                "edit-time": 1613116132510,
+                "string": "",
+                "uid": "qjeEeQEBE"
+              }
+            ],
+            "create-time": 1613115685979,
+            "edit-time": 1613116038640,
+            "string": "My learning process",
+            "uid": "IKXAq_oai"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+            },
+            ":edit/user": {
+              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+            },
+            "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "2ymsvPOqD"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                ":edit/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                "create-time": 1613119892686,
+                "edit-time": 1613119901227,
+                "refs": [
+                  {
+                    "uid": "2ymsvPOqD"
+                  }
+                ],
+                "string": "Block references{{[[video]]: https://www.loom.com/share/c5145a9eb8e5474a8003f897ee229cc8}}",
+                "uid": "jmvonopEi"
+              }
+            ],
+            "create-time": 1613116196897,
+            "edit-time": 1613116383599,
+            "string": "My Roam feature demo",
+            "uid": "tUdBUyjDt"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+            },
+            ":edit/user": {
+              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+            },
+            "children": [
+              {
+                ":create/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                ":edit/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                "children": [
+                  {
+                    ":create/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "children": [
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "aWApXV3EY"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "create-time": 1613116582778,
+                        "edit-time": 1613116745544,
+                        "refs": [
+                          {
+                            "uid": "aWApXV3EY"
+                          }
+                        ],
+                        "string": "- Roam version((aWApXV3EY))",
+                        "uid": "ch_-aP9-V"
+                      },
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "aWApXV3EY"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "create-time": 1613116617364,
+                        "edit-time": 1613116753848,
+                        "refs": [
+                          {
+                            "uid": "aWApXV3EY"
+                          }
+                        ],
+                        "string": "- OS/Browser versions((aWApXV3EY))",
+                        "uid": "kg2G4whex"
+                      },
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "aWApXV3EY"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "create-time": 1613116737100,
+                        "edit-time": 1613116756954,
+                        "refs": [
+                          {
+                            "uid": "aWApXV3EY"
+                          }
+                        ],
+                        "string": "- Any error logs in your dev console((aWApXV3EY))",
+                        "uid": "0QigOkk-p"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "create-time": 1613116803141,
+                        "edit-time": 1613116908781,
+                        "string": "- What color is your sync indicator at the top right? What does it say when you hover over it?",
+                        "uid": "CYQsYnlCE"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "create-time": 1613116440423,
+                        "edit-time": 1613116859070,
+                        "string": "- When did you first notice your data missing, and what you were doing around that time?  Did you use any specific features?",
+                        "uid": "IPlg1LY5x"
+                      }
+                    ],
+                    "create-time": 1613116581143,
+                    "edit-time": 1613116894999,
+                    "string": "Hello! Sorry to hear that, let's try to get it back. Can you give me the following details so we can look into it asap? ",
+                    "uid": "C9sxtRqC2"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "aWApXV3EY"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "create-time": 1613117941617,
+                    "edit-time": 1613117984763,
+                    "refs": [
+                      {
+                        "uid": "aWApXV3EY"
+                      }
+                    ],
+                    "string": "Please also create a backup((aWApXV3EY)) of your entire graph meanwhile to save all of your current work.",
+                    "uid": "m3Y6RoAYX"
+                  }
+                ],
+                "create-time": 1613116434127,
+                "edit-time": 1613116438822,
+                "string": "> I can't find my data and I have an important presentation tomorrow, this is bullshit, what do I do?",
+                "uid": "EXY2xxdXd"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                ":edit/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                "children": [
+                  {
+                    ":create/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "create-time": 1613116924660,
+                    "edit-time": 1613118075878,
+                    "string": "Hello, you can easily customize Roam by using custom CSS themes- here's a list of community [themes](https://github.com/theianjones/roam-research-themes). See this [video](https://www.youtube.com/watch?v=UY-sAC2eGyI) to see how to apply them. Hope this helps, and please reach out if you need further assistance.",
+                    "uid": "QtXMl1hHE"
+                  }
+                ],
+                "create-time": 1613116916009,
+                "edit-time": 1613116924680,
+                "string": "> How do I apply dark mode to my graph?",
+                "uid": "7dGxfz_AN"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                ":edit/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                "children": [
+                  {
+                    ":create/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "create-time": 1613118097861,
+                    "edit-time": 1613118097861,
+                    "string": "Hello, sorry to hear you haven't been able to reach us! Let's get you sorted asap. '",
+                    "uid": "cLVKMoCI2"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "aWApXV3EY"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "create-time": 1613118007373,
+                    "edit-time": 1613118120200,
+                    "refs": [
+                      {
+                        "uid": "aWApXV3EY"
+                      }
+                    ],
+                    "string": "We are working hard to add administrative features. Meanwhile, you could create a new Roam account with the right email, and import all your notes to it((aWApXV3EY))",
+                    "uid": "O8dNFnm0L"
+                  },
+                  {
+                    ":create/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "create-time": 1613117221034,
+                    "edit-time": 1613118059395,
+                    "string": "Could you tell us how you reached out before? We want to ensure your message is delivered to the right person.",
+                    "uid": "ixkkOZOY5"
+                  }
+                ],
+                "create-time": 1613117183348,
+                "edit-time": 1613117220963,
+                "string": "> I've written in about the inability to change my email 3 times, is any one here?",
+                "uid": "7sxsCaYHZ"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                ":edit/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "aWApXV3EY"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "create-time": 1613117313871,
+                    "edit-time": 1613117499429,
+                    "refs": [
+                      {
+                        "uid": "aWApXV3EY"
+                      }
+                    ],
+                    "string": "Hello, our community has some great resources on the topic. Here's a list of [videos](https://www.youtube.com/results?search_query=roam+task+management). If you'd like to discuss the specifics with other users like you, you can do so on [Slack](.), [Discourse,](.) or Twitter((aWApXV3EY))",
+                    "uid": "1C5sMPDVa"
+                  },
+                  {
+                    ":create/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "create-time": 1613117509252,
+                    "edit-time": 1613117516856,
+                    "string": "Let us know if anything is unclear!",
+                    "uid": "3s3WrEiVR"
+                  }
+                ],
+                "create-time": 1613117297187,
+                "edit-time": 1613117313551,
+                "string": "> How do I do task management in Roam?",
+                "uid": "4AtmgmkWg"
+              }
+            ],
+            "create-time": 1613116268049,
+            "edit-time": 1613116434143,
+            "string": "Sample support responses",
+            "uid": "oK0yVBEk9"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+            },
+            ":edit/user": {
+              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+            },
+            "create-time": 1613116737213,
+            "edit-time": 1613116739565,
+            "string": "[.](inserthowtolinkhere)",
+            "uid": "aWApXV3EY"
+          }
+        ],
+        "create-time": 1613115589505,
+        "edit-time": 1613120294079,
+        "props": {
+          "encryption": {
+            "hint": ""
+          }
+        },
+        "string": "{{encrypt:U2FsdGVkX1+pRyB1vn8myftAHLbDxOdmEZkSBod54v5KcBElcfuVEVlXzNOkvL1SWSqbd1v/Jn537XJ6lkvHbg==}}",
+        "uid": "Oqr7hQen6"
+      }
+    ],
+    "create-time": 1613115092043,
+    "edit-time": 1613115092043,
+    "title": "Roam App",
+    "uid": "uUlvzn0hx"
   }
 ]
