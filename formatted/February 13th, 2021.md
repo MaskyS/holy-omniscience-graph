@@ -1,0 +1,1 @@
+- [ ] index https://twitter.com/azlenelza/status/1331623011049500678 #[Azlen Elza](<Azlen Elza.md>)[GPT-3](<GPT-3.md>)#[[[GPT-3](<[[GPT-3.md>) and its funny-talking AI friends]]#[summarization and expansion of information](<summarization and expansion of information.md>) 

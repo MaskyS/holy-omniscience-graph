@@ -32126,6 +32126,54 @@
     ":edit/user": {
       ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
     },
+    "children": [
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "_vC1e605g"
+          },
+          {
+            ":block/uid": "lTo2za8Jq"
+          },
+          {
+            ":block/uid": "tlOQ0JVe3"
+          },
+          {
+            ":block/uid": "MQbNwIZ2Y"
+          },
+          {
+            ":block/uid": "JCEZDDvVc"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+        },
+        ":edit/user": {
+          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+        },
+        "create-time": 1613202265295,
+        "edit-time": 1613230277619,
+        "refs": [
+          {
+            "uid": "_vC1e605g"
+          },
+          {
+            "uid": "lTo2za8Jq"
+          },
+          {
+            "uid": "tlOQ0JVe3"
+          },
+          {
+            "uid": "MQbNwIZ2Y"
+          },
+          {
+            "uid": "JCEZDDvVc"
+          }
+        ],
+        "string": "{{[[TODO]]}} index https://twitter.com/azlenelza/status/1331623011049500678 #[[Azlen Elza]]#GPT-3#[[[[GPT-3]] and its funny-talking AI friends]]#[[summarization and expansion of information]] ",
+        "uid": "PI5gBKnXq"
+      }
+    ],
     "create-time": 1613138438131,
     "edit-time": 1613138438131,
     "title": "February 13th, 2021",

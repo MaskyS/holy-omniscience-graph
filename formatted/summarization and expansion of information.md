@@ -27,6 +27,9 @@
         - "Who is responsible if the augmentation doesn’t reflect the author’s intent?"
 
 # Backlinks
+## [February 13th, 2021](<February 13th, 2021.md>)
+- [ ] index https://twitter.com/azlenelza/status/1331623011049500678 #[Azlen Elza](<Azlen Elza.md>)[GPT-3](<GPT-3.md>)#[[[GPT-3](<[[GPT-3.md>) and its funny-talking AI friends]]#[summarization and expansion of information](<summarization and expansion of information.md>)
+
 ## [Information Personalisation](<Information Personalisation.md>)
 - While you could argue that [Information Personalisation](<Information Personalisation.md>) is one part of [summarization and expansion of information](<summarization and expansion of information.md>),
 
