@@ -32226,10 +32226,87 @@
         ":edit/user": {
           ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
         },
-        "create-time": 1613455422237,
-        "edit-time": 1613455422237,
-        "string": "",
-        "uid": "OmSAVqPK5"
+        "children": [
+          {
+            ":create/user": {
+              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+            },
+            ":edit/user": {
+              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+            },
+            "create-time": 1613498252180,
+            "edit-time": 1613498255794,
+            "string": "A genie grants you the superpower to __listen to everyone talking in the world, at any point in time, including the past. __",
+            "uid": "yIlnekcEK"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+            },
+            ":edit/user": {
+              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+            },
+            "create-time": 1613498264308,
+            "edit-time": 1613498264308,
+            "string": "Your problem though, is that you only have two ears. Hearing everything and everyone at the same time will turn the blessing into a curse. ",
+            "uid": "h6mORoEoP"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+            },
+            ":edit/user": {
+              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+            },
+            "create-time": 1613498278590,
+            "edit-time": 1613498278590,
+            "string": "You can filter through this, however, by telling a genie what sorts of things you want to hear about, whom you want to hear from, and in what order/priority. ",
+            "uid": "3kHJQuJd9"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+            },
+            ":edit/user": {
+              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+            },
+            "children": [
+              {
+                ":create/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                ":edit/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                "create-time": 1613497923191,
+                "edit-time": 1613498414359,
+                "string": "Note: For listening to the future, you can only __schedule__ to listen in to the person. So, you could say, \"I want to listen to Mike right when he turns thirty\" or \"Tell me when Karen talks about vegan drugs.\"; This also means you can't know the right lottery numbers in advance.",
+                "uid": "g79WrJM0o"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                ":edit/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                "create-time": 1613498227492,
+                "edit-time": 1613498227492,
+                "string": "",
+                "uid": "7Y423fros"
+              }
+            ],
+            "create-time": 1613498248778,
+            "edit-time": 1613498278601,
+            "string": "What would you tell the genie?",
+            "uid": "lohMc-rmg"
+          }
+        ],
+        "create-time": 1613498073341,
+        "edit-time": 1613498073341,
+        "heading": 3,
+        "string": "Thought experiment",
+        "uid": "Vwhauswl-"
       }
     ],
     "create-time": 1613442396433,
