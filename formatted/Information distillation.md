@@ -30,6 +30,9 @@ topics for the reader beforehand.
 ## [Democratize curation](<Democratize curation.md>)
 - Curation is largely ephemereal and one-dimensional due to a lack of [Information distillation](<Information distillation.md>)
 
+## [February 22nd, 2021](<February 22nd, 2021.md>)
+- https://pol.is/home [Polis](<Polis.md>) "Distill huge amounts of reviews and critiques into main features or points made" [Information distillation](<Information distillation.md>)
+
 ## [Information distillation](<Information distillation.md>)
 - "https://twitter.com/nattyover/status/1282674617623154689 #[Information distillation](<Information distillation.md>)
 
