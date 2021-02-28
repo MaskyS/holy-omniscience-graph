@@ -1,0 +1,36 @@
+1614554405871	geckodriver	INFO	Listening on 127.0.0.1:58851
+1614554406722	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBhd4DI"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614554416761	Marionette	INFO	Listening on port 36589
+1614554416908	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614554416930	Marionette	ERROR	[18] No reply from Marionette:Register
+1614554418019	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+
+(firefox:2749): GLib-GObject-CRITICAL **: 23:20:35.865: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+1614554436928	Marionette	INFO	Stopped listening on port 36589
+1614554437527	geckodriver	INFO	Listening on 127.0.0.1:59165
+1614554437535	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekS01Rr"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614554439407	Marionette	INFO	Listening on port 36265
+1614554439469	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614554439485	Marionette	ERROR	[18] No reply from Marionette:Register
+1614554440580	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+
+(firefox:2975): GLib-GObject-CRITICAL **: 23:21:00.808: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+1614554462168	Marionette	INFO	Stopped listening on port 36265
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
