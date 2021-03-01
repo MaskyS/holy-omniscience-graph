@@ -481,3 +481,30 @@ JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEven
 
 (firefox:2964): GLib-GObject-CRITICAL **: 16:32:44.109: g_object_get: assertion 'G_IS_OBJECT (object)' failed
 1614616365479	Marionette	INFO	Stopped listening on port 38599
+1614619977441	geckodriver	INFO	Listening on 127.0.0.1:59515
+1614619978251	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejGtvKE"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614619981173	Marionette	INFO	Listening on port 41585
+1614619981288	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614619981303	Marionette	ERROR	[15] No reply from Marionette:Register
+1614619982218	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+
+(firefox:2782): GLib-GObject-CRITICAL **: 17:33:19.120: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+1614620000897	Marionette	INFO	Stopped listening on port 41585
+1614620001395	geckodriver	INFO	Listening on 127.0.0.1:56255
+1614620001402	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejMB6Oy"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614620003147	Marionette	INFO	Listening on port 39377
+1614620003230	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614620003244	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+
+(firefox:2985): GLib-GObject-CRITICAL **: 17:33:39.307: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+1614620021252	Marionette	INFO	Stopped listening on port 39377
