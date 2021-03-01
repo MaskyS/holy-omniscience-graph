@@ -262,3 +262,33 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 
 (firefox:3060): GLib-GObject-CRITICAL **: 07:19:54.807: g_object_get: assertion 'G_IS_OBJECT (object)' failed
 1614583196643	Marionette	INFO	Stopped listening on port 41041
+1614587059756	geckodriver	INFO	Listening on 127.0.0.1:54281
+1614587060578	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCZHFj7"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614587070123	Marionette	INFO	Listening on port 41961
+1614587070267	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614587070291	Marionette	ERROR	[18] No reply from Marionette:Register
+1614587071248	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+
+(firefox:2811): GLib-GObject-CRITICAL **: 08:24:48.122: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+1614587089915	Marionette	INFO	Stopped listening on port 41961
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614587090510	geckodriver	INFO	Listening on 127.0.0.1:40341
+1614587090515	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefERnU3"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614587092247	Marionette	INFO	Listening on port 43695
+1614587092344	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614587092355	Marionette	ERROR	[15] No reply from Marionette:Register
+1614587093159	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+
+(firefox:3068): GLib-GObject-CRITICAL **: 08:25:08.624: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+1614587110498	Marionette	INFO	Stopped listening on port 43695
