@@ -88,3 +88,37 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 
 (firefox:2930): GLib-GObject-CRITICAL **: 01:51:58.686: g_object_get: assertion 'G_IS_OBJECT (object)' failed
 1614563519787	Marionette	INFO	Stopped listening on port 37491
+1614565914242	geckodriver	INFO	Listening on 127.0.0.1:55037
+1614565915115	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileULAglv"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614565924639	Marionette	INFO	Listening on port 38657
+1614565924710	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614565924736	Marionette	ERROR	[18] No reply from Marionette:Register
+1614565925794	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+
+(firefox:2791): GLib-GObject-CRITICAL **: 02:32:23.628: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+1614565945561	Marionette	INFO	Stopped listening on port 38657
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614565946153	geckodriver	INFO	Listening on 127.0.0.1:45125
+1614565946160	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileARSOTT"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614565948018	Marionette	INFO	Listening on port 46657
+1614565948107	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614565948129	Marionette	ERROR	[15] No reply from Marionette:Register
+1614565949134	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+
+(firefox:3056): GLib-GObject-CRITICAL **: 02:32:48.898: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+1614565970373	Marionette	INFO	Stopped listening on port 46657
