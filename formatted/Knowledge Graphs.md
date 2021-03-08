@@ -24,6 +24,9 @@
 
 #[Knowledge Graphs](<Knowledge Graphs.md>)
 
+## [March 8th, 2021](<March 8th, 2021.md>)
+- [ ] mek.fyi #[Knowledge Graphs](<Knowledge Graphs.md>)
+
 ## [Palantir](<Palantir.md>)
 - [ ] Need to look deeper into Palantir. If my intuition is correct, they have done __significant__ work in the space of [Knowledge Graphs](<Knowledge Graphs.md>),
 
