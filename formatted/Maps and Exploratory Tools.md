@@ -19,7 +19,7 @@
 - [Engelbart](<Engelbart.md>) is a [visualizer](<visualizer.md>) [web app](<web app.md>) "that brings online conversations from [Twitter](<Twitter.md>) into a collective public space. Attention-driven algorithms push us towards people to follow, things to buy, ads to click. In relevance to social media, these algorithms drive us to echo chambers of people who share our same ideologies. Engelbart attempts to refute that by providing a space to view all Twitter activity in an empathic way. Follow Engelbart around in cyberspace to not only see what people are talking about, but how they're talking about it. Then, join in on the conversation yourself on Twitter." #[Maps and Exploratory Tools](<Maps and Exploratory Tools.md>)
 
 ## [January 10th, 2021](<January 10th, 2021.md>)
-- [Wikigraph](<Wikigraph.md>) is a [Wikipedia](<Wikipedia.md>) [visualizer](<visualizer.md>)/[search engine](<search engine.md>) built by [Drew Tada](<Drew Tada.md>). "Link: giantgra.ph" #[Maps and Exploratory Tools](<Maps and Exploratory Tools.md>)
+- [Wikigraph](<Wikigraph.md>) is a [Wikipedia](<Wikipedia.md>) [visualizer](<visualizer.md>)/[search engine](<search engine.md>) built by [Drew Tada](<Drew Tada.md>). Link: giantgra.ph #[Maps and Exploratory Tools](<Maps and Exploratory Tools.md>)
 
 - [ ] An [article](<article.md>) on how [Wikigraph](<Wikigraph.md>) was built: https://kcollective.substack.com/p/exploration-engines [Articles](<Articles.md>) [visualizer](<visualizer.md>) #[Maps and Exploratory Tools](<Maps and Exploratory Tools.md>)
 

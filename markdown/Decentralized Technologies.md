@@ -4,5 +4,5 @@
     - Anyone should be able to choose whose truth they want to hear.
 - Regardless, here's an attempt at collecting relevant resources.
 - [[Idea Market]]
-    - "The [[Idea Market]] is a concept brought forward by [[Mike Elias]], which he expands upon in his [[2019]] piece, [[Decentralizing the search for truth using idea markets]]"
-    - "{{iframe: https://ideamarket.io/}}"
+    - The [[Idea Market]] is a concept brought forward by [[Mike Elias]], which he expands upon in his [[2019]] piece, [[Decentralizing the search for truth using idea markets]]
+    - {{iframe: https://ideamarket.io/}}

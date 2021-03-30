@@ -12,7 +12,7 @@
     - "best books I read in 2019"
     - "best threads from X"
     - value judged using vanity and unaligned metrics, i.e. likes and shares
-- " [The rise of community-curated knowledge networks](<The rise of community-curated knowledge networks.md>) by [Sari Azout](<Sari Azout.md>), ((or as I like to call her, the woman who stole my brain,)) excellently showcases the intersection between [Tools for Thoughts](<Tools for Thoughts.md>) and social [curation](<curation.md>). #[Knowledge Graphs](<Knowledge Graphs.md>) #[curation engine](<curation engine.md>)"
+-  [The rise of community-curated knowledge networks](<The rise of community-curated knowledge networks.md>) by [Sari Azout](<Sari Azout.md>), ((or as I like to call her, the woman who stole my brain,)) excellently showcases the intersection between [Tools for Thoughts](<Tools for Thoughts.md>) and social [curation](<curation.md>). #[Knowledge Graphs](<Knowledge Graphs.md>) #[curation engine](<curation engine.md>)
 - Generate and expose taste profiles / filter bubbles
     - 
 

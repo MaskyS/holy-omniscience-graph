@@ -1,7 +1,7 @@
 - https://twitter.com/azlenelza/status/1269696510611959808 #[Azlen Elza](<Azlen Elza.md>) #[Max Kriegers](<Max Kriegers.md>) #[Chatting With Glue](<Chatting With Glue.md>) #[Information distillation](<Information distillation.md>) [transclusion](<transclusion.md>) [visualizer](<visualizer.md>) 
 - [ ] index and tag https://jon.bo/posts/digital-tools/ [article](<article.md>) #[Jonathan Borichevskiy](<Jonathan Borichevskiy.md>)
 - [ ] tag https://twitter.com/vgr/status/1200101161128185856
-- [Wikigraph](<Wikigraph.md>) is a [Wikipedia](<Wikipedia.md>) [visualizer](<visualizer.md>)/[search engine](<search engine.md>) built by [Drew Tada](<Drew Tada.md>). "Link: giantgra.ph" #[Maps and Exploratory Tools](<Maps and Exploratory Tools.md>)
+- [Wikigraph](<Wikigraph.md>) is a [Wikipedia](<Wikipedia.md>) [visualizer](<visualizer.md>)/[search engine](<search engine.md>) built by [Drew Tada](<Drew Tada.md>). Link: giantgra.ph #[Maps and Exploratory Tools](<Maps and Exploratory Tools.md>)
 - [ ] An [article](<article.md>) on how [Wikigraph](<Wikigraph.md>) was built: https://kcollective.substack.com/p/exploration-engines [Articles](<Articles.md>) [visualizer](<visualizer.md>) #[Maps and Exploratory Tools](<Maps and Exploratory Tools.md>)
 - [ ] Read and categorize http://artifacts.fyi/
 - https://twitter.com/balajis/status/1244422902826426370 #[Balaji Srinivasan](<Balaji Srinivasan.md>) #[Decentralized Technologies](<Decentralized Technologies.md>) #[Free Hierarchy](<Free Hierarchy.md>)

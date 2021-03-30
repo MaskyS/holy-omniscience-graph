@@ -20,5 +20,5 @@
 - [x] Read [Linked: The New Science of Networks](<Linked: The New Science of Networks.md>)
 
 ## [Missing Links](<Missing Links.md>)
-- "[x] Read [Linked: The New Science of Networks](<Linked: The New Science of Networks.md>)"
+- [x] Read [Linked: The New Science of Networks](<Linked: The New Science of Networks.md>)
 

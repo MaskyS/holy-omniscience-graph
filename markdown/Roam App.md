@@ -1,5 +1,5 @@
 - {{encrypt:U2FsdGVkX1+pRyB1vn8myftAHLbDxOdmEZkSBod54v5KcBElcfuVEVlXzNOkvL1SWSqbd1v/Jn537XJ6lkvHbg==}}
-    - "[LinkedIn](https://www.linkedin.com/in/maskys/)"; "[Notion](https://www.notion.so/Heyo-I-m-Kifah-3307f487b13d4519b226c7c326417a73)" for comprehensive portfolio
+    - [LinkedIn](https://www.linkedin.com/in/maskys/); [Notion](https://www.notion.so/Heyo-I-m-Kifah-3307f487b13d4519b226c7c326417a73) for comprehensive portfolio
     - Why I want to work at Roam
         - to accelerate intellectual progress by building mental prosthetics :)
     - My learning process
@@ -19,19 +19,19 @@
     - Sample support responses
         - > I can't find my data and I have an important presentation tomorrow, this is bullshit, what do I do?
             - Hello! Sorry to hear that, let's try to get it back. Can you give me the following details so we can look into it asap? 
-                - - Roam version"[.](inserthowtolinkhere)"
-                - - OS/Browser versions"[.](inserthowtolinkhere)"
-                - - Any error logs in your dev console"[.](inserthowtolinkhere)"
+                - - Roam version[.](inserthowtolinkhere)
+                - - OS/Browser versions[.](inserthowtolinkhere)
+                - - Any error logs in your dev console[.](inserthowtolinkhere)
                 - - What color is your sync indicator at the top right? What does it say when you hover over it?
                 - - When did you first notice your data missing, and what you were doing around that time?  Did you use any specific features?
-            - Please also create a backup"[.](inserthowtolinkhere)" of your entire graph meanwhile to save all of your current work.
+            - Please also create a backup[.](inserthowtolinkhere) of your entire graph meanwhile to save all of your current work.
         - > How do I apply dark mode to my graph?
             - Hello, you can easily customize Roam by using custom CSS themes- here's a list of community [themes](https://github.com/theianjones/roam-research-themes). See this [video](https://www.youtube.com/watch?v=UY-sAC2eGyI) to see how to apply them. Hope this helps, and please reach out if you need further assistance.
         - > I've written in about the inability to change my email 3 times, is any one here?
             - Hello, sorry to hear you haven't been able to reach us! Let's get you sorted asap. '
-            - We are working hard to add administrative features. Meanwhile, you could create a new Roam account with the right email, and import all your notes to it"[.](inserthowtolinkhere)"
+            - We are working hard to add administrative features. Meanwhile, you could create a new Roam account with the right email, and import all your notes to it[.](inserthowtolinkhere)
             - Could you tell us how you reached out before? We want to ensure your message is delivered to the right person.
         - > How do I do task management in Roam?
-            - Hello, our community has some great resources on the topic. Here's a list of [videos](https://www.youtube.com/results?search_query=roam+task+management). If you'd like to discuss the specifics with other users like you, you can do so on [Slack](.), [Discourse,](.) or Twitter"[.](inserthowtolinkhere)"
+            - Hello, our community has some great resources on the topic. Here's a list of [videos](https://www.youtube.com/results?search_query=roam+task+management). If you'd like to discuss the specifics with other users like you, you can do so on [Slack](.), [Discourse,](.) or Twitter[.](inserthowtolinkhere)
             - Let us know if anything is unclear!
     - [.](inserthowtolinkhere)

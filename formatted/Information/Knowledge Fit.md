@@ -20,7 +20,7 @@
 ## [summarization and expansion of information](<summarization and expansion of information.md>)
 - to make sure the information is transmitted in a language you understand- no jargon or ideas building upon concepts you don't know. In other words, it helps achieve [Information/Knowledge Fit](<../Information/Knowledge Fit.md>).
 
-- "https://twitter.com/Kpaxs/status/947516464025821184 [context](<../context.md>) #[Information/Knowledge Fit](<../Information/Knowledge Fit.md>)"
+- https://twitter.com/Kpaxs/status/947516464025821184 [context](<../context.md>) #[Information/Knowledge Fit](<../Information/Knowledge Fit.md>)
 
 - Achieving [Information/Knowledge Fit](<../Information/Knowledge Fit.md>)
 

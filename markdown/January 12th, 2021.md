@@ -11,7 +11,7 @@ You don't get to do less work when you get more senior, you have to do more work
 - https://twitter.com/Conaw/status/1206057354128576513 #[[Conor White-Sullivan]] #[[Free Hierarchy]] #[[good code]] #[[moddable nodes]]
 - https://twitter.com/naval/status/1339487097158131713 #[[Naval Ravikant]] #[[Free Hierarchy]]
 - https://twitter.com/Conaw/status/1215737589975486464?s=20 #[[Free Hierarchy]] #[[Conor White-Sullivan]] #[[Roam Research]] #Evernote
-- "A speech is like a love affair. Any fool can start it, but to end it requires considerable skill. " —[[Lord Mancroft]] #[[Free Hierarchy]]
+- A speech is like a love affair. Any fool can start it, but to end it requires considerable skill.  —[[Lord Mancroft]] #[[Free Hierarchy]]
 - https://twitter.com/AdvThinking/status/1348382983204560897 #[[Idea Market]] #[[Free Hierarchy]] #[[skin in the game]]
 - https://twitter.com/balajis/status/1309489945027817472 #[[Free Hierarchy]] #curation #[[Roam Research]] #[[Balaji Srinivasan]] #Wikipedia
 - https://twitter.com/balajis/status/1339140008368693248 #[[Balaji Srinivasan]] #[[Free Hierarchy]] #[[San Francisco]] #[[N-city system]]

@@ -1,4 +1,4 @@
 - [[Holy Origin]] is the 4th [Holy Idea]([[holy ideas]]) of the [[Enneagram]], and the third idea that [[The Information Platform of The Future]] enables. 
 - For now, you may think of it as the principle behind transclusion, [[perfect transclusion]]—not the one we have now. 
 - {{[[TODO]]}} This needs to be expanded upon and put into context, but until then, please see (Idea 4)
-    - "https://www.diamondapproach.org/glossary/refinery_phrases/enneagram-holy-ideas" 
+    - https://www.diamondapproach.org/glossary/refinery_phrases/enneagram-holy-ideas 

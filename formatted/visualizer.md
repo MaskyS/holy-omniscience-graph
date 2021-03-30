@@ -16,7 +16,7 @@
 - [Wikigraph](<Wikigraph.md>) is a [Wikipedia](<Wikipedia.md>) [visualizer](<visualizer.md>)/
 
 ## [January 22nd, 2021](<January 22nd, 2021.md>)
-- https://twitter.com/jordanmoore/status/1352381177278164993/photo/3 [Atlas Recall](<Atlas Recall.md>): "a [visual]([visualizer](<visualizer.md>))
+- https://twitter.com/jordanmoore/status/1352381177278164993/photo/3 [Atlas Recall](<Atlas Recall.md>): a [visual]([visualizer](<visualizer.md>))
 
 ## [January 9th, 2021](<January 9th, 2021.md>)
 - [Athens Research](<Athens Research.md>) interactive graph [visualizer](<visualizer.md>)

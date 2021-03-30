@@ -1,7 +1,7 @@
 
 # Backlinks
 ## [Free Hierarchy](<Free Hierarchy.md>)
-- "An unbalanced society: [Pathos](<Pathos.md>)
+- An unbalanced society: [Pathos](<Pathos.md>)
 
 - ### An unbalanced society: [Pathos](<Pathos.md>)
 

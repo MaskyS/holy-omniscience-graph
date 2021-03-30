@@ -1,10 +1,10 @@
 ^^**__IN PROGRESS__**^^
 # Table of Contents
-    - "ABOUT"
-    - "STRUCTURE"
-    - "IDEAS"
-    - "PILLARS"
-":hiccup [:hr]"
+    - ABOUT
+    - STRUCTURE
+    - IDEAS
+    - PILLARS
+:hiccup [:hr]
 # ABOUT
     - [The Information Platform of The Future](<The Information Platform of The Future.md>) is the medium and set of tools we will use to deal with information, as we do with the internet today.
     - It is **not** a literal, centralized platform, but rather a fusion of modern solutions to perennial problems. It will revolutionize how we discover, consume, and produce information.
@@ -20,7 +20,7 @@
     - Today, we are privy from both our data and the algorithms used to get new information. Tomorrow, data will be detached from the platforms we use, and we'll have a whole marketplace of algorithms and hierarchies to process and arrange our information. 
     - Our end goal is to achieve [holy omniscience](<holy omniscience.md>), or [holy transparency]([holy omniscience](<holy omniscience.md>)). ((Rest assured that the content of this graph will only be as religious as your interpretation of it.))
     - [The Information Platform of The Future](<The Information Platform of The Future.md>) also enables two other [holy ideas](<holy ideas.md>), in quick succession: [Holy Truth](<Holy Truth.md>) and [Holy Origin](<Holy Origin.md>).
-    - ":hiccup [:hr]"
+    - :hiccup [:hr]
 # STRUCTURE
     - This page will focus on **ideas** for their timelessness; then we go into tools and implementations ((to illustrate the current execution progress)).
     - Then we go into tools and implementations to __illustrate the current execution progress of__ [The Information Platform of The Future](<The Information Platform of The Future.md>).
@@ -29,7 +29,7 @@
         - Lastly, if you're a really information-hungry person, you will be delighted to learn that a lot of content actually exists outside of these topic pages, in the Daily Notes.
             - This is because finding information happens faster than its organization. Interesting content instantly gets indexed there but putting it in context takes longer, thus ideas take a while to show up here. 
         - So if you've somehow managed to exhaust these ramblings, scroll through the daily notes. 
-    - ":hiccup [:hr]"
+    - :hiccup [:hr]
 # IDEAS
     - {{embed: [Free Hierarchy](<Free Hierarchy.md>)}}
     - {{embed: [summarization and expansion of information](<summarization and expansion of information.md>)}}
@@ -50,7 +50,7 @@
     about topics I am interested in" — [Jonathan Borichevskiy](<Jonathan Borichevskiy.md>)
     - {{embed: [Proof of X](<Proof of X.md>)}}
     - {{embed: [dual-authority judgement of information](<dual-authority judgement of information.md>)}}
-    - ":hiccup [:hr]"
+    - :hiccup [:hr]
     - # PILLARS
         - Everything AI:
         - {{embed: [[[GPT-3](<[[GPT-3.md>) and its funny-talking AI friends]]}}
@@ -89,13 +89,13 @@ Analogies, metaphors, and all the rest increase understanding, enjoyment, and me
 - https://twitter.com/MatthewWSiu/status/1340620345171083265 (thread) #[Matthew Siu](<Matthew Siu.md>) #[Maps and Exploratory Tools](<Maps and Exploratory Tools.md>) #[Free Hierarchy](<Free Hierarchy.md>) #[The Information Platform of The Future](<The Information Platform of The Future.md>)
 
 ## [Start Here](<Start Here.md>)
-- "What is [The Information Platform of The Future](<The Information Platform of The Future.md>)?
+- What is [The Information Platform of The Future](<The Information Platform of The Future.md>)?
 
 - Here, therefore, we are building a blueprint for **accelerators of intellectual progress**. We map ideas, tools, and resources for creating [The Information Platform of The Future](<The Information Platform of The Future.md>).
 
 ## What is [The Information Platform of The Future](<The Information Platform of The Future.md>)?
 
-- "[The Information Platform of The Future](<The Information Platform of The Future.md>)
+- [The Information Platform of The Future](<The Information Platform of The Future.md>)
 
 - 1. Everything is (or will be) rounded up on [The Information Platform of The Future](<The Information Platform of The Future.md>)
 

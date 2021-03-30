@@ -16,9 +16,9 @@ founder ends up rebuilding the state.
 
 - [Balaji]([Balaji Srinivasan](<Balaji Srinivasan.md>))
 
-- "https://twitter.com/balajis/status/1339140008368693248 #[Balaji Srinivasan](<Balaji Srinivasan.md>)
+- https://twitter.com/balajis/status/1339140008368693248 #[Balaji Srinivasan](<Balaji Srinivasan.md>)
 
-- "https://twitter.com/balajis/status/1342745289006796802 #[Balaji Srinivasan](<Balaji Srinivasan.md>)
+- https://twitter.com/balajis/status/1342745289006796802 #[Balaji Srinivasan](<Balaji Srinivasan.md>)
 
 ## [January 10th, 2021](<January 10th, 2021.md>)
 - https://twitter.com/balajis/status/1244422902826426370 #[Balaji Srinivasan](<Balaji Srinivasan.md>)

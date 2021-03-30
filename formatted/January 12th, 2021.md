@@ -11,7 +11,7 @@ You don't get to do less work when you get more senior, you have to do more work
 - https://twitter.com/Conaw/status/1206057354128576513 #[Conor White-Sullivan](<Conor White-Sullivan.md>) #[Free Hierarchy](<Free Hierarchy.md>) #[good code](<good code.md>) #[moddable nodes](<moddable nodes.md>)
 - https://twitter.com/naval/status/1339487097158131713 #[Naval Ravikant](<Naval Ravikant.md>) #[Free Hierarchy](<Free Hierarchy.md>)
 - https://twitter.com/Conaw/status/1215737589975486464?s=20 #[Free Hierarchy](<Free Hierarchy.md>) #[Conor White-Sullivan](<Conor White-Sullivan.md>) #[Roam Research](<Roam Research.md>) [Evernote](<Evernote.md>)
-- "A speech is like a love affair. Any fool can start it, but to end it requires considerable skill. " —[Lord Mancroft](<Lord Mancroft.md>) #[Free Hierarchy](<Free Hierarchy.md>)
+- A speech is like a love affair. Any fool can start it, but to end it requires considerable skill.  —[Lord Mancroft](<Lord Mancroft.md>) #[Free Hierarchy](<Free Hierarchy.md>)
 - https://twitter.com/AdvThinking/status/1348382983204560897 #[Idea Market](<Idea Market.md>) #[Free Hierarchy](<Free Hierarchy.md>) #[skin in the game](<skin in the game.md>)
 - https://twitter.com/balajis/status/1309489945027817472 #[Free Hierarchy](<Free Hierarchy.md>) [curation](<curation.md>) #[Roam Research](<Roam Research.md>) #[Balaji Srinivasan](<Balaji Srinivasan.md>) [Wikipedia](<Wikipedia.md>)
 - https://twitter.com/balajis/status/1339140008368693248 #[Balaji Srinivasan](<Balaji Srinivasan.md>) #[Free Hierarchy](<Free Hierarchy.md>) #[San Francisco](<San Francisco.md>) #[N-city system](<N-city system.md>)

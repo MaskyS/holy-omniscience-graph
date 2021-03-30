@@ -12,6 +12,6 @@
     - "best books I read in 2019"
     - "best threads from X"
     - value judged using vanity and unaligned metrics, i.e. likes and shares
-- " [[The rise of community-curated knowledge networks]] by [[Sari Azout]], ((or as I like to call her, the woman who stole my brain,)) excellently showcases the intersection between [[Tools for Thoughts]] and social [[curation]]. #[[Knowledge Graphs]] #[[curation engine]]"
+-  [[The rise of community-curated knowledge networks]] by [[Sari Azout]], ((or as I like to call her, the woman who stole my brain,)) excellently showcases the intersection between [[Tools for Thoughts]] and social [[curation]]. #[[Knowledge Graphs]] #[[curation engine]]
 - Generate and expose taste profiles / filter bubbles
     - 

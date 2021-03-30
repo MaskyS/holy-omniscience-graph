@@ -18,7 +18,7 @@
 - In the same way that Bitcoin allows people to transact without trusting banks and governments to manage fiat currency, a **decentralized market that measures the perceived value of ideas** allows people to define reality without trusting fiat narratives created by centralized media and other reality-defining institutions.
 - # Ideological risk management
     - [Pascal’s Wager](<Pascal’s Wager.md>) is one of the most famous examples of **beliefs **being regarded as **bets**.
-    - "![Illustration of Pascal's Wager](https://miro.medium.com/max/2415/1*LTkICqVskVQa0SPQCKu38A.jpeg)"
+    - ![Illustration of Pascal's Wager](https://miro.medium.com/max/2415/1*LTkICqVskVQa0SPQCKu38A.jpeg)
     - Pascal argues in favor of a belief in God due to its high reward and low risk, and to the high risk and low reward of its alternative.
     - In one way or another, all beliefs work this way — when we “bet on” a belief, we expect to be rewarded more for holding that belief than we would for betting on an alternative.
     - Typically, the risks involved in betting on a belief are primarily personal and social:
@@ -56,7 +56,7 @@
     - ### A scientific and cultural revolution engine
         - Kuhn’s Structure of Scientific Revolutions argues that scientific progress is incremental most of the time — only occasionally do we participate in revolutionary science, in which discoveries are made that change our fundamental assumptions about the world.
         - Idea markets crowdsource a continuous renewal of our fundamental assumptions about the world, enabling an environment of perpetual scientific and cultural revolution.
-        - [William Gibson](<William Gibson.md>) wrote, "“The future is here; it just isn’t evenly distributed yet.”" Idea markets are future-distributors.
+        - [William Gibson](<William Gibson.md>) wrote, “The future is here; it just isn’t evenly distributed yet.” Idea markets are future-distributors.
     - ### Humanity’s ideological immune system
         - By making it profitable to identify under-appreciated ideas, idea markets in turn make it expensive to promote ideas that can’t stand on their own merits — propaganda and false narratives.
         - Corporate and governmental interests will need to continually spend money to artificially inflate the value of a false narrative, and with each passing day the reward to venture philosophers who convincingly replace or refute it will increase. Thus, weak narratives are doomed to crumble and propaganda is doomed to fail. 
@@ -114,7 +114,7 @@
 
 # Backlinks
 ## [Decentralized Technologies](<Decentralized Technologies.md>)
-- "The [Idea Market](<Idea Market.md>) is a concept brought forward by [Mike Elias](<Mike Elias.md>), which he expands upon in his [2019](<2019.md>) piece, [Decentralizing the search for truth using idea markets](<Decentralizing the search for truth using idea markets.md>)"
+- The [Idea Market](<Idea Market.md>) is a concept brought forward by [Mike Elias](<Mike Elias.md>), which he expands upon in his [2019](<2019.md>) piece, [Decentralizing the search for truth using idea markets](<Decentralizing the search for truth using idea markets.md>)
 
 ## [Idea Market](<Idea Market.md>)
 - The [Idea Market](<Idea Market.md>) is a concept brought forward by [Mike Elias](<Mike Elias.md>), which he expands upon in his [2019](<2019.md>) piece, [Decentralizing the search for truth using idea markets](<Decentralizing the search for truth using idea markets.md>)

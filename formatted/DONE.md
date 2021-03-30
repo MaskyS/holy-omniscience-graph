@@ -7,5 +7,5 @@
 - {{[DONE](<DONE.md>)}
 
 ## [Missing Links](<Missing Links.md>)
-- "{{[DONE](<DONE.md>)}
+- {{[DONE](<DONE.md>)}
 

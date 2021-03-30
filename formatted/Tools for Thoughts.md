@@ -27,7 +27,7 @@
 
 # Backlinks
 ## [Democratize curation](<Democratize curation.md>)
-- " [The rise of community-curated knowledge networks](<The rise of community-curated knowledge networks.md>) by [Sari Azout](<Sari Azout.md>), ((or as I like to call her, the woman who stole my brain,)) excellently showcases the intersection between [Tools for Thoughts](<Tools for Thoughts.md>)
+-  [The rise of community-curated knowledge networks](<The rise of community-curated knowledge networks.md>) by [Sari Azout](<Sari Azout.md>), ((or as I like to call her, the woman who stole my brain,)) excellently showcases the intersection between [Tools for Thoughts](<Tools for Thoughts.md>)
 
 ## [Ideaflow](<Ideaflow.md>)
 - If I had to make a judgement from the demo, Ideaflow's [Tools for Thoughts](<Tools for Thoughts.md>)
@@ -39,7 +39,7 @@
 - #[Tools for Thoughts](<Tools for Thoughts.md>)
 
 ## [Start Here](<Start Here.md>)
-- > " [The rise of community-curated knowledge networks](<The rise of community-curated knowledge networks.md>) by [Sari Azout](<Sari Azout.md>), ((or as I like to call her, the woman who stole my brain,)) excellently showcases the intersection between [Tools for Thoughts](<Tools for Thoughts.md>)
+- >  [The rise of community-curated knowledge networks](<The rise of community-curated knowledge networks.md>) by [Sari Azout](<Sari Azout.md>), ((or as I like to call her, the woman who stole my brain,)) excellently showcases the intersection between [Tools for Thoughts](<Tools for Thoughts.md>)
 
 ## [The Information Platform of The Future](<The Information Platform of The Future.md>)
 - {{embed: [Tools for Thoughts](<Tools for Thoughts.md>)}

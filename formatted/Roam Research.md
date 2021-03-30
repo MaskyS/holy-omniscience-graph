@@ -62,7 +62,7 @@
 - For instance, I can't index (search, refer) embedded tweets in [Roam Research](<Roam Research.md>);
 
 ## [search engine](<search engine.md>)
-- "https://twitter.com/CultRoam/status/1273827332554240001 #[Roam Research](<Roam Research.md>)
+- https://twitter.com/CultRoam/status/1273827332554240001 #[Roam Research](<Roam Research.md>)
 
 ## [summarization and expansion of information](<summarization and expansion of information.md>)
 - [Roam Research](<Roam Research.md>)

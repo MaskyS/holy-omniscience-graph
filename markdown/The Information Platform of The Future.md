@@ -1,10 +1,10 @@
 ^^**__IN PROGRESS__**^^
 # Table of Contents
-    - "ABOUT"
-    - "STRUCTURE"
-    - "IDEAS"
-    - "PILLARS"
-":hiccup [:hr]"
+    - ABOUT
+    - STRUCTURE
+    - IDEAS
+    - PILLARS
+:hiccup [:hr]
 # ABOUT
     - [[The Information Platform of The Future]] is the medium and set of tools we will use to deal with information, as we do with the internet today.
     - It is **not** a literal, centralized platform, but rather a fusion of modern solutions to perennial problems. It will revolutionize how we discover, consume, and produce information.
@@ -20,7 +20,7 @@
     - Today, we are privy from both our data and the algorithms used to get new information. Tomorrow, data will be detached from the platforms we use, and we'll have a whole marketplace of algorithms and hierarchies to process and arrange our information. 
     - Our end goal is to achieve [[holy omniscience]], or [holy transparency]([[holy omniscience]]). ((Rest assured that the content of this graph will only be as religious as your interpretation of it.))
     - [[The Information Platform of The Future]] also enables two other [[holy ideas]], in quick succession: [[Holy Truth]] and [[Holy Origin]].
-    - ":hiccup [:hr]"
+    - :hiccup [:hr]
 # STRUCTURE
     - This page will focus on **ideas** for their timelessness; then we go into tools and implementations ((to illustrate the current execution progress)).
     - Then we go into tools and implementations to __illustrate the current execution progress of__ [[The Information Platform of The Future]].
@@ -29,7 +29,7 @@
         - Lastly, if you're a really information-hungry person, you will be delighted to learn that a lot of content actually exists outside of these topic pages, in the Daily Notes.
             - This is because finding information happens faster than its organization. Interesting content instantly gets indexed there but putting it in context takes longer, thus ideas take a while to show up here. 
         - So if you've somehow managed to exhaust these ramblings, scroll through the daily notes. 
-    - ":hiccup [:hr]"
+    - :hiccup [:hr]
 # IDEAS
     - {{embed: [[Free Hierarchy]]}}
     - {{embed: [[summarization and expansion of information]]}}
@@ -50,7 +50,7 @@
     about topics I am interested in" — [[Jonathan Borichevskiy]]
     - {{embed: [[Proof of X]]}}
     - {{embed: [[dual-authority judgement of information]]}}
-    - ":hiccup [:hr]"
+    - :hiccup [:hr]
     - # PILLARS
         - Everything AI:
         - {{embed: [[[[GPT-3]] and its funny-talking AI friends]]}}

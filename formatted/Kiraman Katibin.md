@@ -5,7 +5,7 @@
     - Putting together everything required for determining truth
 - By logging what one consumes, one can signal expertise and taste. We use taste to decide what to listen to, and expertise to decide what to believe.
 - Why record actions? It captures [your identity]([You Are Your Actions](<You Are Your Actions.md>)). It provides the [Proof of X](<Proof of X.md>). Show, don't tell. Consumption and production, __over time__, is heavily correlated with who you are:
-    - - "You are what you eat."
+    - - You are what you eat.
     - - [You Are The Average Of The Five People Around You](https://medium.com/the-polymath-project/you-are-the-average-of-the-five-people-you-spend-the-most-time-with-a2ea32d08c72)
     - - Tell me how X and I'll tell you who you are.
 -  Consumption is hard to fake. You can't pretend to have read a book or watched a movie

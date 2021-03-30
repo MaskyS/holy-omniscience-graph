@@ -5,7 +5,7 @@
 ## [Decentralized Technologies](<Decentralized Technologies.md>)
 - [Idea Market](<Idea Market.md>)
 
-- "The [Idea Market](<Idea Market.md>)
+- The [Idea Market](<Idea Market.md>)
 
 ## [Idea Market](<Idea Market.md>)
 - The [Idea Market](<Idea Market.md>)

@@ -1,4 +1,4 @@
 - In Development
     - [[Atomic Search]]
 - Google is past its expiration date. Some people have pointed to Roam being the competitor... but its not quite, because there are so many other features (that we cover here) to implement.
-    - "https://twitter.com/CultRoam/status/1273827332554240001 #[[Roam Research]] #[[search engine]] #Google"
+    - https://twitter.com/CultRoam/status/1273827332554240001 #[[Roam Research]] #[[search engine]] #Google

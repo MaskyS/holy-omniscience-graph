@@ -4,7 +4,7 @@
 ## [Free Hierarchy](<Free Hierarchy.md>)
 - Let's start at the beginning, focusing on why [Conor White-Sullivan](<Conor White-Sullivan.md>)
 
-- "https://twitter.com/Conaw/status/1206057354128576513 #[Conor White-Sullivan](<Conor White-Sullivan.md>)
+- https://twitter.com/Conaw/status/1206057354128576513 #[Conor White-Sullivan](<Conor White-Sullivan.md>)
 
 ## [January 11th, 2021](<January 11th, 2021.md>)
 - [ ] Import all of [Conor White-Sullivan](<Conor White-Sullivan.md>)'

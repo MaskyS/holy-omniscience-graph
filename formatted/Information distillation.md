@@ -23,7 +23,7 @@ topics for the reader beforehand.
 - Translate slow (and unsearchable) mediums to semantic text
     - Auto summarize [podcasts](<podcasts.md>) and videos
     - Show overview of topics and principles covered
-    - "https://twitter.com/nattyover/status/1282674617623154689 #[Information distillation](<Information distillation.md>) [podcasts](<podcasts.md>) #[Unstructured Information](<Unstructured Information.md>) "
+    - https://twitter.com/nattyover/status/1282674617623154689 #[Information distillation](<Information distillation.md>) [podcasts](<podcasts.md>) #[Unstructured Information](<Unstructured Information.md>) 
 - Show content overlap between similar resources
 
 # Backlinks
@@ -31,10 +31,10 @@ topics for the reader beforehand.
 - Curation is largely ephemereal and one-dimensional due to a lack of [Information distillation](<Information distillation.md>)
 
 ## [February 22nd, 2021](<February 22nd, 2021.md>)
-- https://pol.is/home [Polis](<Polis.md>) "Distill huge amounts of reviews and critiques into main features or points made" [Information distillation](<Information distillation.md>)
+- https://pol.is/home [Polis](<Polis.md>) Distill huge amounts of reviews and critiques into main features or points made [Information distillation](<Information distillation.md>)
 
 ## [Information distillation](<Information distillation.md>)
-- "https://twitter.com/nattyover/status/1282674617623154689 #[Information distillation](<Information distillation.md>)
+- https://twitter.com/nattyover/status/1282674617623154689 #[Information distillation](<Information distillation.md>)
 
 ## [January 10th, 2021](<January 10th, 2021.md>)
 - https://twitter.com/azlenelza/status/1269696510611959808 #[Azlen Elza](<Azlen Elza.md>) #[Max Kriegers](<Max Kriegers.md>) #[Chatting With Glue](<Chatting With Glue.md>) #[Information distillation](<Information distillation.md>)

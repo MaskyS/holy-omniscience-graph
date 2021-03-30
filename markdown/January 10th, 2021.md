@@ -1,7 +1,7 @@
 - https://twitter.com/azlenelza/status/1269696510611959808 #[[Azlen Elza]] #[[Max Kriegers]] #[[Chatting With Glue]] #[[Information distillation]] #transclusion #visualizer 
 - {{[[TODO]]}} index and tag https://jon.bo/posts/digital-tools/ #article #[[Jonathan Borichevskiy]]
 - {{[[TODO]]}} tag https://twitter.com/vgr/status/1200101161128185856
-- [[Wikigraph]] is a [[Wikipedia]] [[visualizer]]/[[search engine]] built by [[Drew Tada]]. "Link: giantgra.ph" #[[Maps and Exploratory Tools]]
+- [[Wikigraph]] is a [[Wikipedia]] [[visualizer]]/[[search engine]] built by [[Drew Tada]]. Link: giantgra.ph #[[Maps and Exploratory Tools]]
 - {{[[TODO]]}} An [[article]] on how [[Wikigraph]] was built: https://kcollective.substack.com/p/exploration-engines #Articles #visualizer #[[Maps and Exploratory Tools]]
 - {{[[TODO]]}} Read and categorize http://artifacts.fyi/
 - https://twitter.com/balajis/status/1244422902826426370 #[[Balaji Srinivasan]] #[[Decentralized Technologies]] #[[Free Hierarchy]]

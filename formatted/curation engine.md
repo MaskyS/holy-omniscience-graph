@@ -1,7 +1,7 @@
 
 # Backlinks
 ## [Democratize curation](<Democratize curation.md>)
-- " [The rise of community-curated knowledge networks](<The rise of community-curated knowledge networks.md>) by [Sari Azout](<Sari Azout.md>), ((or as I like to call her, the woman who stole my brain,)) excellently showcases the intersection between [Tools for Thoughts](<Tools for Thoughts.md>) and social [curation](<curation.md>). #[Knowledge Graphs](<Knowledge Graphs.md>) #[curation engine](<curation engine.md>)"
+-  [The rise of community-curated knowledge networks](<The rise of community-curated knowledge networks.md>) by [Sari Azout](<Sari Azout.md>), ((or as I like to call her, the woman who stole my brain,)) excellently showcases the intersection between [Tools for Thoughts](<Tools for Thoughts.md>) and social [curation](<curation.md>). #[Knowledge Graphs](<Knowledge Graphs.md>) #[curation engine](<curation engine.md>)
 
 ## [January 10th, 2021](<January 10th, 2021.md>)
 - https://twitter.com/visakanv/status/1348212104159875072?s=20 #[curation engine](<curation engine.md>)
@@ -28,5 +28,5 @@
 - {{embed: [curation engine](<curation engine.md>)}
 
 ## [Start Here](<Start Here.md>)
-- > " [The rise of community-curated knowledge networks](<The rise of community-curated knowledge networks.md>) by [Sari Azout](<Sari Azout.md>), ((or as I like to call her, the woman who stole my brain,)) excellently showcases the intersection between [Tools for Thoughts](<Tools for Thoughts.md>) and social [curation](<curation.md>). #[Knowledge Graphs](<Knowledge Graphs.md>) #[curation engine](<curation engine.md>)"
+- >  [The rise of community-curated knowledge networks](<The rise of community-curated knowledge networks.md>) by [Sari Azout](<Sari Azout.md>), ((or as I like to call her, the woman who stole my brain,)) excellently showcases the intersection between [Tools for Thoughts](<Tools for Thoughts.md>) and social [curation](<curation.md>). #[Knowledge Graphs](<Knowledge Graphs.md>) #[curation engine](<curation engine.md>)
 

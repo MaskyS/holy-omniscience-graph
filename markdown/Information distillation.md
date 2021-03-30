@@ -23,5 +23,5 @@ topics for the reader beforehand.
 - Translate slow (and unsearchable) mediums to semantic text
     - Auto summarize [[podcasts]] and videos
     - Show overview of topics and principles covered
-    - "https://twitter.com/nattyover/status/1282674617623154689 #[[Information distillation]] #podcasts #[[Unstructured Information]] "
+    - https://twitter.com/nattyover/status/1282674617623154689 #[[Information distillation]] #podcasts #[[Unstructured Information]] 
 - Show content overlap between similar resources

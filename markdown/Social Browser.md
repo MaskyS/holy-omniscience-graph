@@ -1,3 +1,3 @@
 - clone of [[Twitter Links]] by [[Paul Katsen]] that never saw the light of day.
 - Demo: 
-    - "https://twitter.com/pavtalk/status/1315456023050645505?s=20 #[[Social Browser]] #[[Paul Katsen]] #[[Gossip Aggregator]] #[[Browser Extension]]"
+    - https://twitter.com/pavtalk/status/1315456023050645505?s=20 #[[Social Browser]] #[[Paul Katsen]] #[[Gossip Aggregator]] #[[Browser Extension]]

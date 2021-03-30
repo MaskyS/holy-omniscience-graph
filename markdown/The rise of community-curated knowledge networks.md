@@ -12,7 +12,7 @@
     - We consume information recreationally, not as a way to achieve our goals.
     - Curation has been too focused on the information and not enough on architecture; how we collect, store, augment, and utilize what’s already in our 
 minds.
-    - ## 1. "Our feed-based information architecture is obsessed with the present."
+    - ## 1. Our feed-based information architecture is obsessed with the present.
         - We seem to have accepted the job of the curator as providing a list of links with some commentary on an organized schedule. But this format is subject to the same accidental property of social media; ephemerality. 
         - Substack makes this worse. How often have you gone back to read an old issue of your favorite newsletter? Why bother when you’ll have a new one soon? Without an information architecture that supports a longer shelf life for content, we will continue to accumulate mental and behavioral debt.
         - In the early days, Google helped us make sense of this abundance. I still remember when a Google search led to discovering personal blogs and hidden gems instead of results manufactured by SEO experts.
@@ -21,12 +21,12 @@ minds.
         - These days, we turn to places like Twitter and Substack to find things that people we trust find useful. But Twitter, which was originally conceived as a platform to post personal status updates under the prompt “what are you doing?”, was never designed for the purpose of curating the world’s information stream. Their use-case was always one of obsolescence.  
         - What’s amazing is how chronological feeds — essentially accidental experiments of digital architecture — have rewired our brains. In the feed, everything is fleeting. This design property means you’re either always on and connected, or you’re off and wondering if you’re missing something important. 
         - In short, the architecture of digital platforms has made us obsessive documenters and consumers of the present, yet largely indifferent to the archives we create.
-    - ## 2. "We consume information recreationally, not as a way to achieve our goals."
+    - ## 2. We consume information recreationally, not as a way to achieve our goals.
         - The architecture of digital platforms encourage us to consume information because it’s in front of us, not because it’s relevant. On Twitter, nothing has to be remembered, studied, applied, or reflected on. It’s an environment that promotes distracted thinking and superficial learning.  
         - The human brain is incredible at uncovering meaning, but is deficient at long-term memory storage. If we forget what we read, we can’t apply the knowledge to the problem at hand. We don’t need to read a long write-up on Figma’s winning strategy on a Wednesday at 11am when it hits our inbox, but we should be able to reference it if we’re building a company in the design tools space.
         - With our current tools, the burden of memory is left to the individual.
-    - ##  3. "Curation has been too focused on the information and not enough on architecture; how we collect, store, augment, and utilize what’s already in our 
-minds."
+    - ##  3. Curation has been too focused on the information and not enough on architecture; how we collect, store, augment, and utilize what’s already in our 
+minds.
         - The conversation around curation thus far has focused too much on reducing the amount of information, and too little on what other architectures might be possible outside of the feeds or newsletters we’ve grown accustomed to.
         - While technology successfully disrupted content production, the experience of consuming content remains unchanged – the words have merely moved from a printed page to a screen.
 - The Internet offers us the first major opportunity to introduce new, digitally-native information architectures that improve our understanding of the world through added context and relation. 👇🏽

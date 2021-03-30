@@ -1,7 +1,7 @@
 - I think that putting these things together will unlock a bigger perspective: #questions
     - {{[[TODO]]}} How can we apply [[category theory]] to [[informetrics]]? What are the most important concepts from the former to understand?
     - {{[[TODO]]}} What are the most important works in [[graph theory]] or [[network theory]]? Which insights can we extract?
-        - "{{[[DONE]]}} Read [[Linked: The New Science of Networks]]"
+        - {{[[DONE]]}} Read [[Linked: The New Science of Networks]]
     - {{[[TODO]]}} What is most unclear about [[Free Hierarchy]]?
         - At what point does a hierarchy act as a node?
     - {{[[TODO]]}} Is it possible to represent information fractally?

@@ -5,28 +5,28 @@
     - That being said, I cannot delay any longer, for this is the basis of [The Information Platform of The Future](<The Information Platform of The Future.md>), despite being one of my later discoveries.
     - I hope that you, as one of the first readers, can understand my ramblings, and that these ideas will have as profound an impact as they did on me. If you don't understand but would like to, or have any feedback to share, please [reach out.](((nUop3RPuu)))
 # Table of Contents
-    - "Introduction"
-    - "The Chosen Ones"
+    - Introduction
+    - The Chosen Ones
         - [Yuval's answer](((06Pmssc8V)))
         - [Three-prong approach to enabling progress](((sOW_vMvji)))
-    - "Accelerating Intellectual Progress by Building a Note-Taking App"
+    - Accelerating Intellectual Progress by Building a Note-Taking App
         - [Why Roam Was Created](((Ouy6fW_PL)))
         - [The Zettelkasten](((Xr3Xrx2GD)))
-        - "An intro to Roam"
-        - "What makes Roam Roam?"
-    - "**Abstract Thesis**"
-    - "Human Nature"
-    - "Information hierarchies"
-    - "Democracy as it exists today is flawed."
-        - "An unbalanced society: [Pathos](<Pathos.md>) ⬆ [Logos](<Logos.md>) ⏬ [Ethos](<Ethos.md>) 📉"
-        - "A rant against Nationalism"
-        - "Better Democracies"
-        - "Exit Over Voice"
-    - "Free Hierarchies in Business."
-    - "Free hierarchy in online scenes"
-    - "Other Illustrations of free hierarchies"
-    - "Ponderings"
-    - "Post-Pondering Script"
+        - An intro to Roam
+        - What makes Roam Roam?
+    - **Abstract Thesis**
+    - Human Nature
+    - Information hierarchies
+    - Democracy as it exists today is flawed.
+        - An unbalanced society: [Pathos](<Pathos.md>) ⬆ [Logos](<Logos.md>) ⏬ [Ethos](<Ethos.md>) 📉
+        - A rant against Nationalism
+        - Better Democracies
+        - Exit Over Voice
+    - Free Hierarchies in Business.
+    - Free hierarchy in online scenes
+    - Other Illustrations of free hierarchies
+    - Ponderings
+    - Post-Pondering Script
 ## Introduction
     - Why are humans more successful than other animals? What makes [Roam Research](<Roam Research.md>) better than [Evernote](<Evernote.md>) or [Notion](<Notion.md>) ? Why is prototypal inheritance (object composition) better than class inheritance? 
     - At the heart of the answers to these questions lies the concept of free hierarchies.
@@ -152,7 +152,7 @@ Now, how does Roam/Zettelkasten and humans' use of imagination to organize socie
             - The node's meaning is comprehensible on its own, requiring minimal context.
         - This does not mean that a node cannot fulfill more than one purpose. Indeed, the best node fulfills its purpose in such a way that it is easily 'extensible'; to serve purposes not thought of originally. But it shall carry out this purpose in a __different__ hierarchy such that it benefits the parent hierarchy.
             - An example for good code (a node) in programs (a hierarchy)
-            - "https://twitter.com/Conaw/status/1206057354128576513 #[Conor White-Sullivan](<Conor White-Sullivan.md>) #[Free Hierarchy](<Free Hierarchy.md>) #[good code](<good code.md>) #[moddable nodes](<moddable nodes.md>)"
+            - https://twitter.com/Conaw/status/1206057354128576513 #[Conor White-Sullivan](<Conor White-Sullivan.md>) #[Free Hierarchy](<Free Hierarchy.md>) #[good code](<good code.md>) #[moddable nodes](<moddable nodes.md>)
     - **In a free hierarchy, the nodes may be rearranged in multiple (or infinite) configurations. **
         - It is in this freedom that free hierarchies draw their power from. ((Roam vs Evernote, humans vs other species, true democracy, OOP vs prototypal modelling,))
             - For example, lego pieces can be put together in a myriad of ways
@@ -170,7 +170,7 @@ Now, how does Roam/Zettelkasten and humans' use of imagination to organize socie
             - Is this the most optimal arrangement/strategy? 
             - Should I leave or should I stay? etc.
         - [ ] b. To sustain the growth of a free hierarchy, it is critical that it has a mission bigger than itself; an endgame. 
-            - > ""A speech is like a love affair. Any fool can start it, but to end it requires considerable skill. " —[Lord Mancroft](<Lord Mancroft.md>) #[Free Hierarchy](<Free Hierarchy.md>)"
+            - > A speech is like a love affair. Any fool can start it, but to end it requires considerable skill.  —[Lord Mancroft](<Lord Mancroft.md>) #[Free Hierarchy](<Free Hierarchy.md>)
             - If this is not true, and redundancy increases, i.e. nodes keep multiplying despite there being no new roles to fulfill, violence inevitably will inevitably occur. **And this we call** '[cancer](https://twitter.com/maskys_/status/1339763293775282181?s=20)'. 
                 - As [Rene Girard](<Rene Girard.md>) ((the french historian whose Mimetic Theory greatly influenced Peter Thiel)) and [Shakespeare](<Shakespeare.md>) noted, 
                     - We do not fight because we’re different; we fight because we are the same; and want (to be) the same things.
@@ -221,31 +221,31 @@ Now, how does Roam/Zettelkasten and humans' use of imagination to organize socie
             - - even if you did, you couldn't __attempt__ to leave your monopoly without suffering significant [backlash](https://www.lexology.com/library/detail.aspx?g=d5ebd361-1d36-4405-bfa6-50441866ac41).
             - - you couldn't be part of multiple monopolies, or easily try them out, due to physical restrictions
         - Today things are different. It becomes increasingly possible to sustain free hierarchies, where everyone's allowed to make noise, including the loudest noise of them all: silence.
-        - The ability to peacefully walk away is the most powerful method to keep the leaders and other members of the hierarchy accountable. As [Balaji Srinivasan](<Balaji Srinivasan.md>) put it, "No one needs to listen to you if you can’t leave."
+        - The ability to peacefully walk away is the most powerful method to keep the leaders and other members of the hierarchy accountable. As [Balaji Srinivasan](<Balaji Srinivasan.md>) put it, No one needs to listen to you if you can’t leave.
         - ### Exit Over Voice
             - [Balaji]([Balaji Srinivasan](<Balaji Srinivasan.md>)) is a staunch advocate of 'Exit over Voice'. He explains its role in progress: 
-                - "All progress is really the process of: You exit, you build something up,
- and then it gets ossified, and the next generation exits again. ""Exit has the potential to transform your life quickly. Exit also gives you the freedom to try something new, which can lead to new inventions."
+                - All progress is really the process of: You exit, you build something up,
+ and then it gets ossified, and the next generation exits again. Exit has the potential to transform your life quickly. Exit also gives you the freedom to try something new, which can lead to new inventions.
             - The most striking example is that of tech workers. As Balaji predicted back in 2019:
                 - https://twitter.com/balajis/status/1207010599324008448
             - 2020 happened, and every company was forced to work remote. THe unacknowledged truth that digital nomads have fighted for years became undeniable: 
                 - **knowledge workers can just as freely choose their geographical hierarchy as they can their work hierarchy, and they don't even have to be the same**.
             - Thus began the mass exodus and the unstoppable rise of the N-city system :
-                - "https://twitter.com/balajis/status/1339140008368693248 #[Balaji Srinivasan](<Balaji Srinivasan.md>) #[Free Hierarchy](<Free Hierarchy.md>) #[San Francisco](<San Francisco.md>) #[N-city system](<N-city system.md>)"
+                - https://twitter.com/balajis/status/1339140008368693248 #[Balaji Srinivasan](<Balaji Srinivasan.md>) #[Free Hierarchy](<Free Hierarchy.md>) #[San Francisco](<San Francisco.md>) #[N-city system](<N-city system.md>)
                 - The result of this enabling of free hierarchies at a large scale is that we can now start saying goodbye to incompetent politicians and systems:
-                    - "https://twitter.com/balajis/status/1342745289006796802 #[Balaji Srinivasan](<Balaji Srinivasan.md>) #[N-city system](<N-city system.md>) #[Free Hierarchy](<Free Hierarchy.md>) [Miami](<Miami.md>) #[San Francisco](<San Francisco.md>)"
+                    - https://twitter.com/balajis/status/1342745289006796802 #[Balaji Srinivasan](<Balaji Srinivasan.md>) #[N-city system](<N-city system.md>) #[Free Hierarchy](<Free Hierarchy.md>) [Miami](<Miami.md>) #[San Francisco](<San Francisco.md>)
                 - Does the word 'monopoly' make more sense now? Yes? No? Well, let's look at... 
 ## Free Hierarchies in Business.
-    - I think the most evident proof comes from Peter Thiel, who's famous for saying that ""Monopoly is the condition of every successful business.""
+    - I think the most evident proof comes from Peter Thiel, who's famous for saying that "Monopoly is the condition of every successful business."
     - Except, it's not just for business, but for every aspect of humanity and every entity that doesn't exist in a vacuum.
     - Peter understands free hierarchies. Here [David Perell](<David Perell.md>) [recounts](https://perell.com/essay/peter-thiel/)  how Thiel successfully leveraged the power of re-arranging nodes in a free hierarchy:
         - > When two people want the same scarce object, they fight. In response, as CEO of [PayPal](<PayPal.md>), [Thiel]([Peter Thiel](<Peter Thiel.md>)) set up the company structure to eliminate competition between employees. **PayPal overhauled the organization chart every three months. By repositioning people, the company avoided most conflicts before they even started**. 
 
 **Employees were evaluated on one single criterion, and no two employees had the same one.** They were responsible for one job, one metric, and one part of the business. 
     - We see that Thiel also acknowledges the importance of eliminating redundancy. In his book [Zero To One](<Zero To One.md>), he shares this observation:
-        - > "Tolstoy opens Anna Karenina by observing: “All happy families are alike;  each unhappy family is unhappy in its own way.” Business is the opposite. "
+        - > Tolstoy opens Anna Karenina by observing: “All happy families are alike;  each unhappy family is unhappy in its own way.” Business is the opposite. 
 
-"All happy companies are different: each one earns a monopoly by solving a unique problem. All failed companies are the same: they failed to escape competition."
+All happy companies are different: each one earns a monopoly by solving a unique problem. All failed companies are the same: they failed to escape competition.
 ## Free hierarchy in online scenes
     - The reason topic-specific online communities are blowing up right now is that they get free hierarchies mostly right: 
         - You come together for one specific reason; 
@@ -285,9 +285,9 @@ Now, how does Roam/Zettelkasten and humans' use of imagination to organize socie
     - [ ] How will nodes optimize connections to other nodes?
         - - ensure the network doesn't depend too much on a single node/suffer from a single point of error.
             - By nature of being scale-free, or fractal, they become antifragile! When a node leaves a free hierarchy, latter is minimally affected, and in many cases, exit produces better hierarchies! [See]([Fractal Brains: Fractal Thoughts](<Fractal Brains: Fractal Thoughts.md>)):
-                - > "they also are very robust. They maintain their coherence; they hold together well, even under tough circumstances. They are balanced in this respect, between order and chaos. They are simple, yet also very complex.
+                - > they also are very robust. They maintain their coherence; they hold together well, even under tough circumstances. They are balanced in this respect, between order and chaos. They are simple, yet also very complex.
  This balance is often referred to as "criticality," thus the title of the article: "Broadband Criticality." And the term "self-organized" is often added because systems tend to become fractal on their own, simply by putting a lot of system components together and allowing them to exchange information. Think of a party. All you need to do is come up with enough people at the same place and time and they will start to form complex patterns of connection with one another.
- Self-organizing critical systems are also very good at connecting, both internally and also to other surrounding systems. The branches of a tree are connected in a very lovely way. If you shake one branch, you'll see broad shaking across the tree. Fractal structures hang together nicely. Yet the branches may be trimmed without affecting the overall structure. Indeed, if you trim them far enough out (above the growth bud, "post-traumatic growth" or "whatever doesn't kill you makes you stronger") they will often grow even stronger, with more complex connections in the outer branches. Finally, branchlike patterns easily connect to other systems — a literal web of life. A tree with many fractal branches (and also roots) can better connect to the sun (and soil) to gather and exchange life-sustaining nutrients."
+ Self-organizing critical systems are also very good at connecting, both internally and also to other surrounding systems. The branches of a tree are connected in a very lovely way. If you shake one branch, you'll see broad shaking across the tree. Fractal structures hang together nicely. Yet the branches may be trimmed without affecting the overall structure. Indeed, if you trim them far enough out (above the growth bud, "post-traumatic growth" or "whatever doesn't kill you makes you stronger") they will often grow even stronger, with more complex connections in the outer branches. Finally, branchlike patterns easily connect to other systems — a literal web of life. A tree with many fractal branches (and also roots) can better connect to the sun (and soil) to gather and exchange life-sustaining nutrients.
         - - ideal number of connections?
             - > A second fundamental property in the study of complex networks arises with the discovery that the probability distribution of the number of links per node, P(k) (also known as the degree distribution), can be represented by a power-law (scale-free) with a degree exponent γ usually in the range 2 < γ < 3 [6], 
                 - > P(k) ∼ k−γ.
@@ -300,13 +300,13 @@ Now, how does Roam/Zettelkasten and humans' use of imagination to organize socie
 - [article](<article.md>) [fractal](<fractal.md>) #[Free Hierarchy](<Free Hierarchy.md>)
 
 ## [Free Hierarchy](<Free Hierarchy.md>)
-- "https://twitter.com/Conaw/status/1206057354128576513 #[Conor White-Sullivan](<Conor White-Sullivan.md>) #[Free Hierarchy](<Free Hierarchy.md>)
+- https://twitter.com/Conaw/status/1206057354128576513 #[Conor White-Sullivan](<Conor White-Sullivan.md>) #[Free Hierarchy](<Free Hierarchy.md>)
 
-- > ""A speech is like a love affair. Any fool can start it, but to end it requires considerable skill. " —[Lord Mancroft](<Lord Mancroft.md>) #[Free Hierarchy](<Free Hierarchy.md>)"
+- > A speech is like a love affair. Any fool can start it, but to end it requires considerable skill.  —[Lord Mancroft](<Lord Mancroft.md>) #[Free Hierarchy](<Free Hierarchy.md>)
 
-- "https://twitter.com/balajis/status/1339140008368693248 #[Balaji Srinivasan](<Balaji Srinivasan.md>) #[Free Hierarchy](<Free Hierarchy.md>)
+- https://twitter.com/balajis/status/1339140008368693248 #[Balaji Srinivasan](<Balaji Srinivasan.md>) #[Free Hierarchy](<Free Hierarchy.md>)
 
-- "https://twitter.com/balajis/status/1342745289006796802 #[Balaji Srinivasan](<Balaji Srinivasan.md>) #[N-city system](<N-city system.md>) #[Free Hierarchy](<Free Hierarchy.md>)
+- https://twitter.com/balajis/status/1342745289006796802 #[Balaji Srinivasan](<Balaji Srinivasan.md>) #[N-city system](<N-city system.md>) #[Free Hierarchy](<Free Hierarchy.md>)
 
 ## [January 10th, 2021](<January 10th, 2021.md>)
 - https://twitter.com/balajis/status/1244422902826426370 #[Balaji Srinivasan](<Balaji Srinivasan.md>) #[Decentralized Technologies](<Decentralized Technologies.md>) #[Free Hierarchy](<Free Hierarchy.md>)
@@ -320,7 +320,7 @@ Now, how does Roam/Zettelkasten and humans' use of imagination to organize socie
 
 - https://twitter.com/Conaw/status/1215737589975486464?s=20 #[Free Hierarchy](<Free Hierarchy.md>)
 
-- "A speech is like a love affair. Any fool can start it, but to end it requires considerable skill. " —[Lord Mancroft](<Lord Mancroft.md>) #[Free Hierarchy](<Free Hierarchy.md>)
+- A speech is like a love affair. Any fool can start it, but to end it requires considerable skill.  —[Lord Mancroft](<Lord Mancroft.md>) #[Free Hierarchy](<Free Hierarchy.md>)
 
 - https://twitter.com/AdvThinking/status/1348382983204560897 #[Idea Market](<Idea Market.md>) #[Free Hierarchy](<Free Hierarchy.md>)
 

@@ -24,9 +24,9 @@
 - When will we notice the impacts of [Individual Media](<Individual Media.md>)?
 
 ## [summarization and expansion of information](<summarization and expansion of information.md>)
-- "How can we make sure [Individual Media](<Individual Media.md>)
+- How can we make sure [Individual Media](<Individual Media.md>)
 
-- "Will [Individual Media](<Individual Media.md>)
+- Will [Individual Media](<Individual Media.md>)
 
-- "When will we notice the impacts of [Individual Media](<Individual Media.md>)?
+- When will we notice the impacts of [Individual Media](<Individual Media.md>)?
 
