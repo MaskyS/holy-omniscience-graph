@@ -6296,6 +6296,16 @@
             },
             "children": [
               {
+                ":block/props": {
+                  ":iframe": {
+                    "https://whimsical.com/embed/TCeXP1dpRkdT8rpMvYci2P": {
+                      ":size": {
+                        ":height": 509,
+                        ":width": 720
+                      }
+                    }
+                  }
+                },
                 ":create/user": {
                   ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
                 },
@@ -6304,6 +6314,16 @@
                 },
                 "create-time": 1610181291616,
                 "edit-time": 1610181413270,
+                "props": {
+                  "iframe": {
+                    "https://whimsical.com/embed/TCeXP1dpRkdT8rpMvYci2P": {
+                      "size": {
+                        "height": 509,
+                        "width": 720
+                      }
+                    }
+                  }
+                },
                 "string": "{{iframe: https://whimsical.com/embed/TCeXP1dpRkdT8rpMvYci2P  }}",
                 "uid": "lp38JjdQx"
               }
