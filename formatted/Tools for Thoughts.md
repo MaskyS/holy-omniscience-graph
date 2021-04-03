@@ -26,6 +26,9 @@
         - tools that are __planning__ to support backlinks: https://www.notion.so/4452365eac2c4963a21d2a66421a3e9b?v=3aee7aeca7c34baa82825fa4958aa303
 
 # Backlinks
+## [April 3rd, 2021](<April 3rd, 2021.md>)
+- [Yoshiki Schmitz](<Yoshiki Schmitz.md>)'s [notes](https://www.notion.so/About-Me-7543563c194748f4a500d2c164bd3057) on [Tools for Thoughts](<Tools for Thoughts.md>)
+
 ## [Democratize curation](<Democratize curation.md>)
 -  [The rise of community-curated knowledge networks](<The rise of community-curated knowledge networks.md>) by [Sari Azout](<Sari Azout.md>), ((or as I like to call her, the woman who stole my brain,)) excellently showcases the intersection between [Tools for Thoughts](<Tools for Thoughts.md>)
 

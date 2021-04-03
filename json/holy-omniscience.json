@@ -32785,9 +32785,51 @@
     "uid": "04-02-2021"
   },
   {
+    "children": [
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "mFi35uXZh"
+          },
+          {
+            ":block/uid": "n_4DF3UzW"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+        },
+        ":edit/user": {
+          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+        },
+        "create-time": 1617435925693,
+        "edit-time": 1617435949711,
+        "refs": [
+          {
+            "uid": "mFi35uXZh"
+          },
+          {
+            "uid": "n_4DF3UzW"
+          }
+        ],
+        "string": "[[Yoshiki Schmitz]]'s [notes](https://www.notion.so/About-Me-7543563c194748f4a500d2c164bd3057) on [[Tools for Thoughts]] and much more",
+        "uid": "1MCN-cB_d"
+      }
+    ],
     "create-time": 1617409137663,
     "edit-time": 1617409137663,
     "title": "April 3rd, 2021",
     "uid": "04-03-2021"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    },
+    ":edit/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    },
+    "create-time": 1617435932435,
+    "edit-time": 1617435932437,
+    "title": "Yoshiki Schmitz",
+    "uid": "n_4DF3UzW"
   }
 ]

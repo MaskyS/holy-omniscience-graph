@@ -1,0 +1,1 @@
+- [[Yoshiki Schmitz]]'s [notes](https://www.notion.so/About-Me-7543563c194748f4a500d2c164bd3057) on [[Tools for Thoughts]] and much more
