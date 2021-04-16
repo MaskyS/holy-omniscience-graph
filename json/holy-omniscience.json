@@ -26455,6 +26455,16 @@
     },
     "children": [
       {
+        ":block/props": {
+          ":iframe": {
+            "https://en.wikipedia.org/wiki/Enneagram_of_Personality": {
+              ":size": {
+                ":height": 720,
+                ":width": 720
+              }
+            }
+          }
+        },
         ":create/user": {
           ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
         },
@@ -26463,6 +26473,16 @@
         },
         "create-time": 1611467839074,
         "edit-time": 1611467842904,
+        "props": {
+          "iframe": {
+            "https://en.wikipedia.org/wiki/Enneagram_of_Personality": {
+              "size": {
+                "height": 720,
+                "width": 720
+              }
+            }
+          }
+        },
         "string": "{{iframe: https://en.wikipedia.org/wiki/Enneagram_of_Personality}}",
         "uid": "K44JrrP3Z"
       }
