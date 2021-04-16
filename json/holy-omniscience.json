@@ -573,10 +573,10 @@
                     ":edit/user": {
                       ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
                     },
-                    "create-time": 1611470028585,
-                    "edit-time": 1611935780292,
-                    "string": "Second, we like to think of our unique ideas as part of ourselves; that they define us, So we try to \"protect\" them, restricting our most important work to the lonely confines of our minds. We are afraid to share this part of ourselves, lest they attract plagiarism, or worse, criticism, or worse, indifference. ",
-                    "uid": "J12pOqNzs"
+                    "create-time": 1618557762422,
+                    "edit-time": 1618557762422,
+                    "string": "Second, we like to think of our unique ideas as part of ourselves; that they define us, So we try to \"protect\" them, restricting our most important work to the lonely confines of our minds. ",
+                    "uid": "421GEQ4Pf"
                   },
                   {
                     ":create/user": {
@@ -585,10 +585,10 @@
                     ":edit/user": {
                       ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
                     },
-                    "create-time": 1611475274655,
-                    "edit-time": 1611475274645,
+                    "create-time": 1611470028585,
+                    "edit-time": 1618557762436,
                     "string": "We are afraid to share this part of ourselves, lest they attract plagiarism, or worse, criticism, or worse, indifference. ",
-                    "uid": "oK9iI8Uz9"
+                    "uid": "J12pOqNzs"
                   }
                 ],
                 "create-time": 1611934960869,
@@ -2548,8 +2548,8 @@
                       ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
                     },
                     "create-time": 1611403362466,
-                    "edit-time": 1611941822644,
-                    "string": "every unit of information should be treated as a node in a network (or hierarchy)and grant users the complete freedom to build, arrange, and expand these hierarchies.**",
+                    "edit-time": 1618557859610,
+                    "string": "every unit of information should be treated as a node in a network (or hierarchy) and grant users the complete freedom to build, arrange, and expand these hierarchies.",
                     "uid": "QoEVxNu3n"
                   },
                   {
@@ -2728,28 +2728,6 @@
             "edit-time": 1611941644160,
             "string": "This page will focus on **ideas** for their timelessness; then we go into tools and implementations ((to illustrate the current execution progress)).",
             "uid": "-mqjEdw7R"
-          },
-          {
-            ":block/refs": [
-              {
-                ":block/uid": "pabXR_8JW"
-              }
-            ],
-            ":create/user": {
-              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-            },
-            ":edit/user": {
-              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-            },
-            "create-time": 1610203151798,
-            "edit-time": 1611468711509,
-            "refs": [
-              {
-                "uid": "pabXR_8JW"
-              }
-            ],
-            "string": "Then we go into tools and implementations to __illustrate the current execution progress of__ [[The Information Platform of The Future]].",
-            "uid": "u8nTTwhmu"
           },
           {
             ":create/user": {
@@ -32893,5 +32871,17 @@
     "edit-time": 1618389850690,
     "title": "April 14th, 2021",
     "uid": "04-14-2021"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    },
+    ":edit/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    },
+    "create-time": 1618557836193,
+    "edit-time": 1618557836193,
+    "title": "April 16th, 2021",
+    "uid": "04-16-2021"
   }
 ]

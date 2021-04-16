@@ -13,7 +13,7 @@
     - 
     - **The conceptual backbone of this platform is the theory of** [free hierarchies]([[Free Hierarchy]]). If you read only one thing in this graph, make it free hierarchies.
         - It's a vast theory with many implications; but a very short and incomplete explanation of its application is:
-            - every unit of information should be treated as a node in a network (or hierarchy)and grant users the complete freedom to build, arrange, and expand these hierarchies.**
+            - every unit of information should be treated as a node in a network (or hierarchy) and grant users the complete freedom to build, arrange, and expand these hierarchies.
             - - every unit of information should be treated as a node in a network (or hierarchy)
             - - the __relationships__ between these nodes, and how they behave in various contexts, are more important than their intrinsic properties.
             - - users should have complete freedom to build, arrange, and expand these hierarchies, regardless of where the data/information was produced.
@@ -23,7 +23,6 @@
     - :hiccup [:hr]
 # STRUCTURE
     - This page will focus on **ideas** for their timelessness; then we go into tools and implementations ((to illustrate the current execution progress)).
-    - Then we go into tools and implementations to __illustrate the current execution progress of__ [[The Information Platform of The Future]].
     - I've tried to categorize everything into the six pillars below, but as you probably have realized by now, this graph is wildly interconnected. 
     - So the best way to exploit this chaotic Wonderland is to let yourself be led by your curiosity and exploring the  backlinks and ideas that interest you the most.
         - Lastly, if you're a really information-hungry person, you will be delighted to learn that a lot of content actually exists outside of these topic pages, in the Daily Notes.

@@ -17,7 +17,7 @@
         - We are on the cusp of a virtual revolution led by map-builders and innovators. But our bright minds are few in number, their efforts disorganized and redundant; and their work obscure.
         - It is easy to understand why.
             - First, such high-level abstract thinking is extremely rare.
-            - Second, we like to think of our unique ideas as part of ourselves; that they define us, So we try to "protect" them, restricting our most important work to the lonely confines of our minds. We are afraid to share this part of ourselves, lest they attract plagiarism, or worse, criticism, or worse, indifference. 
+            - Second, we like to think of our unique ideas as part of ourselves; that they define us, So we try to "protect" them, restricting our most important work to the lonely confines of our minds. 
             - We are afraid to share this part of ourselves, lest they attract plagiarism, or worse, criticism, or worse, indifference. 
         - But we may stall no longer. Our capability to produce information is overwhelming our abilities to meaningfully use it. Censorship and misinformation abound. To regain control over our information means to regain control over our lives, and for that we must immediately overcome our fears.
         - :hiccup [:hr]
