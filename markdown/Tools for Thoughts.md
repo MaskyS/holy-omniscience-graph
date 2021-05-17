@@ -17,7 +17,7 @@
         - Roam comes with the following features that make it absolutely amazing
             - Reusable thought blocks/transclusion
             - Collapsible parentheticals ((that work like this!))
-            - 
+            - Different versions of the same blocks
             - Back links and references as well as queries
             - block embeds. Write once, edit anywhere.
     - [[Codex Editor]]
