@@ -26040,13 +26040,16 @@
       {
         ":block/refs": [
           {
-            ":block/uid": "MQbNwIZ2Y"
-          },
-          {
             ":block/uid": "xC2eqdY4-"
           },
           {
+            ":block/uid": "DPi17z9B5"
+          },
+          {
             ":block/uid": "0JT_J8-Ga"
+          },
+          {
+            ":block/uid": "OgOvRU_tQ"
           }
         ],
         ":create/user": {
@@ -26055,20 +26058,1079 @@
         ":edit/user": {
           ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
         },
-        "create-time": 1611398256996,
-        "edit-time": 1611398282413,
-        "refs": [
+        "children": [
           {
-            "uid": "MQbNwIZ2Y"
-          },
+            ":block/refs": [
+              {
+                ":block/uid": "Zlsxn63VX"
+              },
+              {
+                ":block/uid": "Bv7VBM-Xq"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+            },
+            ":edit/user": {
+              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+            },
+            "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "0zpVS4mEO"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                ":edit/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                "children": [
+                  {
+                    ":create/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "children": [
+                      {
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "create-time": 1622707217653,
+                        "edit-time": 1626666304445,
+                        "string": "Software users' goals can be better satisfied through other means",
+                        "uid": "LCJDa3bJL"
+                      }
+                    ],
+                    "create-time": 1622707289723,
+                    "edit-time": 1626666304445,
+                    "string": "Interactivity is a curse for users and a crutch for designers. ",
+                    "uid": "rpDqrz23h"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "0JT_J8-Ga"
+                      },
+                      {
+                        ":block/uid": "iDff7xihn"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "create-time": 1622707296806,
+                    "edit-time": 1626666304445,
+                    "refs": [
+                      {
+                        "uid": "0JT_J8-Ga"
+                      },
+                      {
+                        "uid": "iDff7xihn"
+                      }
+                    ],
+                    "string": "[[Bret Victor]] demonstrates crucial role of [[information software design]] ((the design of context-senstitive information graphics)) and presents three approaches to context-sensitivity. ((interactivity being the last one))",
+                    "uid": "2QwG7Ywq6"
+                  }
+                ],
+                "create-time": 1622706775701,
+                "edit-time": 1626666304445,
+                "refs": [
+                  {
+                    "uid": "0zpVS4mEO"
+                  }
+                ],
+                "string": "Thesis::",
+                "uid": "FFBgaDpFC"
+              },
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "ObR0Ovw6c"
+                  },
+                  {
+                    ":block/uid": "wgX2PDMh3"
+                  },
+                  {
+                    ":block/uid": "QFPzi8F6v"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                ":edit/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "HOEbvBhNC"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "children": [
+                      {
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "children": [
+                          {
+                            ":create/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            "create-time": 1622707621955,
+                            "edit-time": 1626666304445,
+                            "string": "reading and intepreting pictures on the screen",
+                            "uid": "noG0aYFvn"
+                          },
+                          {
+                            ":create/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            "create-time": 1622707657640,
+                            "edit-time": 1626666304445,
+                            "string": "uses hardware as a proxy to interact with the objects on screen.",
+                            "uid": "YwNSzim1l"
+                          }
+                        ],
+                        "create-time": 1622707603496,
+                        "edit-time": 1626666304445,
+                        "string": "Users experience software via",
+                        "uid": "5QqbiD6iX"
+                      }
+                    ],
+                    "create-time": 1622707619793,
+                    "edit-time": 1626666304445,
+                    "refs": [
+                      {
+                        "uid": "HOEbvBhNC"
+                      }
+                    ],
+                    "string": "Reasoning:: ",
+                    "uid": "lQUVx8wsN"
+                  }
+                ],
+                "create-time": 1622707553055,
+                "edit-time": 1626666304445,
+                "refs": [
+                  {
+                    "uid": "ObR0Ovw6c"
+                  },
+                  {
+                    "uid": "wgX2PDMh3"
+                  },
+                  {
+                    "uid": "QFPzi8F6v"
+                  }
+                ],
+                "string": "Claim:: Software design mainly involves [[graphic design]] and [[industrial design]].",
+                "uid": "X07EHdiql"
+              },
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "ObR0Ovw6c"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                ":edit/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                "children": [
+                  {
+                    ":create/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "children": [
+                      {
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "children": [
+                          {
+                            ":create/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            "create-time": 1622707524646,
+                            "edit-time": 1626666304445,
+                            "string": "Messages can include identity, social status, emotion, persuasion",
+                            "uid": "6Foowb56w"
+                          }
+                        ],
+                        "create-time": 1622707495972,
+                        "edit-time": 1626666304445,
+                        "string": "What type of messages?",
+                        "uid": "Z8JRxlquy"
+                      }
+                    ],
+                    "create-time": 1622707477630,
+                    "edit-time": 1626666304445,
+                    "string": "It's the art of conveying a message on a two-dimensional surface",
+                    "uid": "kiGZJ_VzE"
+                  },
+                  {
+                    ":create/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "children": [
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "rRw_o1rrF"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "create-time": 1622707698733,
+                        "edit-time": 1626666304445,
+                        "refs": [
+                          {
+                            "uid": "rRw_o1rrF"
+                          }
+                        ],
+                        "string": "[[Information Design]] - the use of pictures to express knowledge of interest to the reader",
+                        "uid": "q6POjuClR"
+                      }
+                    ],
+                    "create-time": 1622707541913,
+                    "edit-time": 1626666304445,
+                    "string": "Which branch of graphic design is most relevant to software?",
+                    "uid": "vuPmQUKP8"
+                  }
+                ],
+                "create-time": 1622707472027,
+                "edit-time": 1626666304445,
+                "refs": [
+                  {
+                    "uid": "ObR0Ovw6c"
+                  }
+                ],
+                "string": "What is [[graphic design]]?",
+                "uid": "365tCWmUd"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                ":edit/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                "children": [
+                  {
+                    ":create/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "create-time": 1622707747211,
+                    "edit-time": 1626666304445,
+                    "string": "They understand how to arrange information on the page so the reader can ask and answer questions, make comparisons, and draw conclusions.",
+                    "uid": "JNooGhbIA"
+                  }
+                ],
+                "create-time": 1622707725524,
+                "edit-time": 1626666304445,
+                "string": "What makes a good graphic designer?",
+                "uid": "U0WxN_ZAg"
+              },
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "wgX2PDMh3"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                ":edit/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                "children": [
+                  {
+                    ":create/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "children": [
+                      {
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "children": [
+                          {
+                            ":create/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            "create-time": 1622707879109,
+                            "edit-time": 1626666304445,
+                            "string": "Cutlery to chairs, cell phones to cars.",
+                            "uid": "7n_2MyqKc"
+                          }
+                        ],
+                        "create-time": 1622707864619,
+                        "edit-time": 1626666304445,
+                        "string": "What kind of products/objects?",
+                        "uid": "7V37z0gEn"
+                      }
+                    ],
+                    "create-time": 1622707847535,
+                    "edit-time": 1626666304445,
+                    "string": "The art of arranging and shaping a physical product so it can manipulated by people",
+                    "uid": "g4JLVmzFu"
+                  }
+                ],
+                "create-time": 1622707827859,
+                "edit-time": 1626666304445,
+                "refs": [
+                  {
+                    "uid": "wgX2PDMh3"
+                  }
+                ],
+                "string": "What is [[industrial design]]?",
+                "uid": "_V-oZlWpY"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                ":edit/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                "children": [
+                  {
+                    ":create/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "children": [
+                      {
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "create-time": 1622707990690,
+                        "edit-time": 1626666304445,
+                        "string": "the capabilities and limitations of the human body in manipulating physical objects, ",
+                        "uid": "R-qv9tbER"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "create-time": 1622707989014,
+                        "edit-time": 1626666304445,
+                        "string": "AND",
+                        "uid": "-Ir7_-6Jr"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "create-time": 1622707924107,
+                        "edit-time": 1626666304445,
+                        "string": "of the human mind in comprehending mechanical models.",
+                        "uid": "TR7HW_m7J"
+                      }
+                    ],
+                    "create-time": 1622707980525,
+                    "edit-time": 1626666304445,
+                    "string": "They understand:",
+                    "uid": "1bqX4Aue7"
+                  },
+                  {
+                    ":create/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "create-time": 1622707958597,
+                    "edit-time": 1626666304445,
+                    "string": "They design an understandable mapping from physical features to functions",
+                    "uid": "uIxudTIoP"
+                  }
+                ],
+                "create-time": 1622707907028,
+                "edit-time": 1626666304445,
+                "string": "What makes a good industrial designer?",
+                "uid": "ScKkweYsk"
+              },
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "duWRHDqqp"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                ":edit/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                "children": [
+                  {
+                    ":create/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "create-time": 1622714124126,
+                    "edit-time": 1626666304445,
+                    "string": "A person uses information software to construct and manipulate a model that is internal to the mind\u2014a mental representation of information.",
+                    "uid": "b91-rQypr"
+                  },
+                  {
+                    ":create/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "create-time": 1622712584008,
+                    "edit-time": 1626666304445,
+                    "string": "Good information software encourages the user to ask and answer questions, make comparisons, and draw conclusions.",
+                    "uid": "39dNOnd_6"
+                  }
+                ],
+                "create-time": 1622714120067,
+                "edit-time": 1626666304445,
+                "refs": [
+                  {
+                    "uid": "duWRHDqqp"
+                  }
+                ],
+                "string": "[[Information software]] serves the human urge to learn. ",
+                "uid": "Xk6U3TfJ3"
+              },
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "DVPOXlfrx"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                ":edit/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                "children": [
+                  {
+                    ":create/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "create-time": 1622712723269,
+                    "edit-time": 1626666304445,
+                    "string": "A person uses manipulation software to construct and manipulate a model external to herself\u2014a virtual object represented within the computer, or a remote physical object.",
+                    "uid": "kex6vW6xJ"
+                  }
+                ],
+                "create-time": 1622714137633,
+                "edit-time": 1626666304445,
+                "refs": [
+                  {
+                    "uid": "DVPOXlfrx"
+                  }
+                ],
+                "string": "[[Manipulation software]] serves the human urge to create. ",
+                "uid": "rxbbSGt18"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                ":edit/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                "children": [
+                  {
+                    ":create/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "create-time": 1622712785285,
+                    "edit-time": 1626666304445,
+                    "string": "creating a response to information learned\u2014that is, the external model manipulated by the speaker is the internal model learned by the listener.",
+                    "uid": "EIuDBlqvR"
+                  }
+                ],
+                "create-time": 1622714172015,
+                "edit-time": 1626666304445,
+                "string": "communication can be thought of as ",
+                "uid": "QBUn22jzV"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                ":edit/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                "children": [
+                  {
+                    ":create/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "create-time": 1622712900852,
+                    "edit-time": 1626666304445,
+                    "string": "I want to ask and answer questions, compare my options, and let it guide my spending decisions.",
+                    "uid": "lr0yqKEZ8"
+                  }
+                ],
+                "create-time": 1622712846702,
+                "edit-time": 1626666304445,
+                "string": "People using software do not __care __about artificial objects; they care about seeing information and understanding choices\u2014manipulating a model in their heads.",
+                "uid": "17nMEZVwG"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                ":edit/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                "children": [
+                  {
+                    ":create/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "create-time": 1622712997536,
+                    "edit-time": 1626666304445,
+                    "string": "It does so by exploiting the capabilities of the human eye: instantaneous and effortless movement, high bandwidth and capacity for parallel processing, intrinsic pattern recognition and correlation, a macro/micro duality that can skim a whole page or focus on the tiniest detail. ",
+                    "uid": "6isZz0XLc"
+                  },
+                  {
+                    ":create/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "children": [
+                      {
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "create-time": 1622713015178,
+                        "edit-time": 1626666304445,
+                        "string": "the one-dimensional, uncontrollable auditory system, the relatively sluggish motor system, the mind\u2019s limited capacity to comprehend hidden mechanisms. ",
+                        "uid": "CgtwollTz"
+                      }
+                    ],
+                    "create-time": 1622713008984,
+                    "edit-time": 1626666304445,
+                    "string": "Meanwhile, a graphic sidesteps human shortcomings: ",
+                    "uid": "HBE755D4j"
+                  },
+                  {
+                    ":create/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "create-time": 1622712919380,
+                    "edit-time": 1626666304445,
+                    "string": "A graphic presents no mechanisms to comprehend or manipulate\u2014it plugs directly into the mind\u2019s spatial reasoning centers.",
+                    "uid": "cwmpLOiQb"
+                  }
+                ],
+                "create-time": 1622712992767,
+                "edit-time": 1626666304445,
+                "string": "A well-designed information graphic can almost compel the viewer to ask and answer questions, make comparisons, and draw conclusions. ",
+                "uid": "4nOSpKnZ8"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                ":edit/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                "children": [
+                  {
+                    ":create/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "create-time": 1622713146731,
+                    "edit-time": 1626666304445,
+                    "string": "This is a problem of surface, but not a superficial problem. ",
+                    "uid": "eXSGelv-1"
+                  },
+                  {
+                    ":create/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "children": [
+                      {
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "create-time": 1622713136912,
+                        "edit-time": 1626666304445,
+                        "string": "Their foremost concern is behavior\u2014what the software does.",
+                        "uid": "iYZUf3Zow"
+                      }
+                    ],
+                    "create-time": 1622713149320,
+                    "edit-time": 1626666304445,
+                    "string": "The main cause, I believe, is that many software designers feel they are designing a machine. ",
+                    "uid": "m1HjHPaiT"
+                  },
+                  {
+                    ":create/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "children": [
+                      {
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "create-time": 1622713195543,
+                        "edit-time": 1626666304445,
+                        "string": "I suggest that the design of information software should be approached initially and primarily as a graphic design project. ",
+                        "uid": "bgpPSRSqU"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "children": [
+                          {
+                            ":create/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            "children": [
+                              {
+                                ":create/user": {
+                                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                },
+                                "create-time": 1622713205158,
+                                "edit-time": 1626666304445,
+                                "string": "What is relevant information? ",
+                                "uid": "_IYBv9cXk"
+                              },
+                              {
+                                ":create/user": {
+                                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                },
+                                "create-time": 1622713207092,
+                                "edit-time": 1626666304445,
+                                "string": "What questions will the viewer ask? ",
+                                "uid": "FX7qpJ5F1"
+                              },
+                              {
+                                ":create/user": {
+                                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                },
+                                "create-time": 1622713209627,
+                                "edit-time": 1626666304445,
+                                "string": "What situations will she want to compare?",
+                                "uid": "smclfLKyj"
+                              },
+                              {
+                                ":create/user": {
+                                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                },
+                                "create-time": 1622713213734,
+                                "edit-time": 1626666304445,
+                                "string": "What decision is she trying to make? ",
+                                "uid": "wNpkH3hnW"
+                              },
+                              {
+                                ":create/user": {
+                                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                },
+                                "create-time": 1622713216158,
+                                "edit-time": 1626666304445,
+                                "string": "How can the data be presented most effectively? ",
+                                "uid": "PCAxSQBTP"
+                              },
+                              {
+                                ":create/user": {
+                                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                },
+                                "create-time": 1622713219001,
+                                "edit-time": 1626666304445,
+                                "string": "How can the visual vocabulary and techniques of graphic design be employed to direct the user\u2019s eyes to the solution? ",
+                                "uid": "TCJV_LGVE"
+                              }
+                            ],
+                            "create-time": 1622713202560,
+                            "edit-time": 1626666304445,
+                            "string": "The designer should ask: ",
+                            "uid": "IEb5fXHHp"
+                          },
+                          {
+                            ":create/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            "create-time": 1622713189213,
+                            "edit-time": 1626666304445,
+                            "string": "The designer must start by considering what the software looks like, because the user is using it to learn, and she learns by looking at it.",
+                            "uid": "fkbAUVU0m"
+                          }
+                        ],
+                        "create-time": 1622713198581,
+                        "edit-time": 1626666304445,
+                        "string": "The foremost concern should be appearance\u2014what and how information is presented. ",
+                        "uid": "5Uw6tN2Dy"
+                      }
+                    ],
+                    "create-time": 1622713161311,
+                    "edit-time": 1626666304445,
+                    "string": "These designers start by specifying __functionality__, but the essence of\ninformation software is the __presentation__.",
+                    "uid": "vZP7pF6nC"
+                  }
+                ],
+                "create-time": 1622713144104,
+                "edit-time": 1626666304445,
+                "string": "most current software communicates deplorably. ",
+                "uid": "1WqY-oNcC"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                ":edit/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                "children": [
+                  {
+                    ":edit/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "edit-time": 1626666304445,
+                    "string": "infer the context in which its data is needed,",
+                    "uid": "Xc72lpsj8"
+                  },
+                  {
+                    ":edit/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "edit-time": 1626666304445,
+                    "string": "winnow the data to exclude the irrelevant, and",
+                    "uid": "t7fDBagjL"
+                  },
+                  {
+                    ":edit/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "edit-time": 1626666304445,
+                    "string": "generate a graphic which directly addresses the present needs.",
+                    "uid": "w3FEMvOar"
+                  }
+                ],
+                "create-time": 1622713404241,
+                "edit-time": 1626666304445,
+                "string": "Software overcomes the static restriction of print. it can- ",
+                "uid": "hBUoXo3tG"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                ":edit/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                "children": [
+                  {
+                    ":create/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "children": [
+                      {
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "create-time": 1622713520256,
+                        "edit-time": 1626666304445,
+                        "string": "winnow its data space to the subset of information that the user cares about, ",
+                        "uid": "xjx4u6yN0"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "create-time": 1622713522141,
+                        "edit-time": 1626666304445,
+                        "string": "and ",
+                        "uid": "Vv93vUO1y"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "create-time": 1622713443906,
+                        "edit-time": 1626666304445,
+                        "string": "present the data in such a way that the user\u2019s current questions can best be answered.",
+                        "uid": "KcohcosLu"
+                      }
+                    ],
+                    "create-time": 1622713517395,
+                    "edit-time": 1626666304445,
+                    "string": "Context allows software to ",
+                    "uid": "YUjVHqQ92"
+                  },
+                  {
+                    ":edit/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "children": [
+                      {
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "create-time": 1622713549029,
+                        "edit-time": 1626666304445,
+                        "string": "Environment involves sensing the current state of the world.",
+                        "uid": "hR1__42pu"
+                      },
+                      {
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "edit-time": 1626666304445,
+                        "string": "History involves remembering the past.",
+                        "uid": "GC_9win1p"
+                      },
+                      {
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "edit-time": 1626666304445,
+                        "string": "Interaction involves soliciting input from the user.",
+                        "uid": "WjzcRoacL"
+                      }
+                    ],
+                    "edit-time": 1626666304445,
+                    "string": "There are, in fact, three sources from which software can infer context:",
+                    "uid": "mW-KEvfES"
+                  }
+                ],
+                "create-time": 1622713506376,
+                "edit-time": 1626666304445,
+                "string": "Unlike conventional graphics, which must be suitable for any reader in any situation, a context-sensitive graphic incorporates who the user is and what exactly the user wants to\nlearn at the moment. ",
+                "uid": "z1JNxypDt"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                ":edit/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                "children": [
+                  {
+                    ":create/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "create-time": 1622713616569,
+                    "edit-time": 1626666304445,
+                    "string": "only when the environment and history provide insufficient context to construct an acceptable graphic.",
+                    "uid": "wem7Ku8we"
+                  }
+                ],
+                "create-time": 1622714211467,
+                "edit-time": 1626666304445,
+                "string": "Interaction should be used judiciously and sparingly, ",
+                "uid": "eYo7gzNyJ"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                ":edit/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                "children": [
+                  {
+                    ":create/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "create-time": 1622713643657,
+                    "edit-time": 1626666304445,
+                    "string": "Providing immediate feedback reduces the amount of manipulation the user must do before either reaching an adequate view or recognizing a wrong turn and backtracking.",
+                    "uid": "2VhzCZ4qx"
+                  }
+                ],
+                "create-time": 1622714221105,
+                "edit-time": 1626666304445,
+                "string": "For information software in particular, all interaction specifies context. Thus, each interaction can and should result in a discernible change to a context-sensitive information graphic. ",
+                "uid": "KzWZuab27"
+              }
+            ],
+            "create-time": 1622706750480,
+            "edit-time": 1626666315690,
+            "refs": [
+              {
+                "uid": "Zlsxn63VX"
+              },
+              {
+                "uid": "Bv7VBM-Xq"
+              }
+            ],
+            "string": "[[Notes]] #[[Not finished]]",
+            "uid": "JTu2cp6IC"
+          }
+        ],
+        "create-time": 1611398256996,
+        "edit-time": 1626666290324,
+        "refs": [
           {
             "uid": "xC2eqdY4-"
           },
           {
+            "uid": "DPi17z9B5"
+          },
+          {
             "uid": "0JT_J8-Ga"
+          },
+          {
+            "uid": "OgOvRU_tQ"
           }
         ],
-        "string": "{{[[TODO]]}} To read http://worrydream.com/MagicInk/ by [[Bret Victor]] as recommended by [[Conor White-Sullivan]]",
+        "string": "{{[[DONE]]}} To read [[Magic Ink]]http://worrydream.com/MagicInk/ by [[Bret Victor]] as recommended by [[Conor White-Sullivan]] ",
         "uid": "lwd-qax0i"
       },
       {
@@ -32300,18 +33362,6 @@
                 "edit-time": 1613498414359,
                 "string": "Note: For listening to the future, you can only __schedule__ to listen in to the person. So, you could say, \"I want to listen to Mike right when he turns thirty\" or \"Tell me when Karen talks about vegan drugs.\"; This also means you can't know the right lottery numbers in advance.",
                 "uid": "g79WrJM0o"
-              },
-              {
-                ":create/user": {
-                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-                },
-                ":edit/user": {
-                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-                },
-                "create-time": 1613498227492,
-                "edit-time": 1613498227492,
-                "string": "",
-                "uid": "7Y423fros"
               }
             ],
             "create-time": 1613498248778,
@@ -32953,5 +34003,185 @@
     "edit-time": 1620204257036,
     "title": "May 5th, 2021",
     "uid": "05-05-2021"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    },
+    ":edit/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    },
+    "create-time": 1626665976506,
+    "edit-time": 1626665976506,
+    "title": "July 18th, 2021",
+    "uid": "07-18-2021"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    },
+    ":edit/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    },
+    "create-time": 1626666282830,
+    "edit-time": 1626666304533,
+    "title": "Magic Ink",
+    "uid": "OgOvRU_tQ"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    },
+    ":edit/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    },
+    "create-time": 1626666297021,
+    "edit-time": 1626666297022,
+    "title": "Notes",
+    "uid": "Zlsxn63VX"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    },
+    ":edit/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    },
+    "create-time": 1626666303116,
+    "edit-time": 1626666303117,
+    "title": "Not finished",
+    "uid": "Bv7VBM-Xq"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    },
+    ":edit/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    },
+    "create-time": 1626666304531,
+    "edit-time": 1626666304533,
+    "title": "Kifah",
+    "uid": "L3ntaMBoh"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    },
+    ":edit/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    },
+    "create-time": 1626666304531,
+    "edit-time": 1626666304533,
+    "title": "Roam Canon",
+    "uid": "LsfpqHtNl"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    },
+    ":edit/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    },
+    "create-time": 1626666304540,
+    "edit-time": 1626666304540,
+    "title": "Thesis",
+    "uid": "0zpVS4mEO"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    },
+    ":edit/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    },
+    "create-time": 1626666304553,
+    "edit-time": 1626666304554,
+    "title": "information software design",
+    "uid": "iDff7xihn"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    },
+    ":edit/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    },
+    "create-time": 1626666304558,
+    "edit-time": 1626666304558,
+    "title": "graphic design",
+    "uid": "ObR0Ovw6c"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    },
+    ":edit/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    },
+    "create-time": 1626666304566,
+    "edit-time": 1626666304567,
+    "title": "Information Design",
+    "uid": "rRw_o1rrF"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    },
+    ":edit/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    },
+    "create-time": 1626666304569,
+    "edit-time": 1626666304570,
+    "title": "industrial design",
+    "uid": "wgX2PDMh3"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    },
+    ":edit/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    },
+    "create-time": 1626666304569,
+    "edit-time": 1626666304570,
+    "title": "Claim",
+    "uid": "QFPzi8F6v"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    },
+    ":edit/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    },
+    "create-time": 1626666304581,
+    "edit-time": 1626666304581,
+    "title": "Reasoning",
+    "uid": "HOEbvBhNC"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    },
+    ":edit/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    },
+    "create-time": 1626666304638,
+    "edit-time": 1626666304638,
+    "title": "Information software",
+    "uid": "duWRHDqqp"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    },
+    ":edit/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    },
+    "create-time": 1626666304644,
+    "edit-time": 1626666304645,
+    "title": "Manipulation software",
+    "uid": "DVPOXlfrx"
   }
 ]

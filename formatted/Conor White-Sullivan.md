@@ -20,5 +20,5 @@
 - See writing-related post -> click-fb-reaction-like-thing -> hit "related to `coding`" -> increase [Conor White-Sullivan](<Conor White-Sullivan.md>)'
 
 ## [January 23rd, 2021](<January 23rd, 2021.md>)
-- [ ] To read http://worrydream.com/MagicInk/ by [Bret Victor](<Bret Victor.md>) as recommended by [Conor White-Sullivan](<Conor White-Sullivan.md>)
+- [x] To read [Magic Ink](<Magic Ink.md>)http://worrydream.com/MagicInk/ by [Bret Victor](<Bret Victor.md>) as recommended by [Conor White-Sullivan](<Conor White-Sullivan.md>)
 

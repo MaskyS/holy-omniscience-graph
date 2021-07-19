@@ -4,4 +4,3 @@
     - You can filter through this, however, by telling a genie what sorts of things you want to hear about, whom you want to hear from, and in what order/priority. 
     - What would you tell the genie?
         - Note: For listening to the future, you can only __schedule__ to listen in to the person. So, you could say, "I want to listen to Mike right when he turns thirty" or "Tell me when Karen talks about vegan drugs."; This also means you can't know the right lottery numbers in advance.
-        - 

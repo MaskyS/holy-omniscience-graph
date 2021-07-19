@@ -74,8 +74,6 @@
 
 - {{[TODO](<TODO.md>)}
 
-- {{[TODO](<TODO.md>)}
-
 ## [January 24th, 2021](<January 24th, 2021.md>)
 - {{[TODO](<TODO.md>)}
 
