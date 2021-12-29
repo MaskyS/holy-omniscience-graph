@@ -18846,32 +18846,6 @@
                 "edit-time": 1610728355112,
                 "string": "It is in this freedom that free hierarchies draw their power from. ((Roam vs Evernote, humans vs other species, true democracy, OOP vs prototypal modelling,))",
                 "uid": "avgOHTswt"
-              },
-              {
-                ":create/user": {
-                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-                },
-                ":edit/user": {
-                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-                },
-                "children": [
-                  {
-                    ":create/user": {
-                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-                    },
-                    "create-time": 1610571086218,
-                    "edit-time": 1610711474126,
-                    "string": "![centralized-decentralized-network \u2013 CoinCasso Exchange](https://coincasso.com/wp-content/uploads/2020/04/centralized-decentralized-network.jpg)",
-                    "uid": "wiodW-h6m"
-                  }
-                ],
-                "create-time": 1610436614597,
-                "edit-time": 1610711474126,
-                "string": "^^Note to Illustrator: show that nodes can be arranged in not only in different positions, but also with differing numbers of connections **with the same number of nodes**. e.g. arrangement/hierarchy 1 has 10 connections total whereas hierarchy 2 has 20 connections. This is what hierarchy/node means/looks like:^^",
-                "uid": "j4Yition8"
               }
             ],
             "create-time": 1610711460127,
@@ -34309,5 +34283,17 @@
     "edit-time": 1640104556499,
     "title": "December 21st, 2021",
     "uid": "12-21-2021"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    },
+    ":edit/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    },
+    "create-time": 1640770507910,
+    "edit-time": 1640770507910,
+    "title": "December 29th, 2021",
+    "uid": "12-29-2021"
   }
 ]

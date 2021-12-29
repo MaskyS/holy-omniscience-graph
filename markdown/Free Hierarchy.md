@@ -156,8 +156,6 @@ Now, how does Roam/Zettelkasten and humans' use of imagination to organize socie
     - **In a free hierarchy, the nodes may be rearranged in multiple (or infinite) configurations. **
         - It is in this freedom that free hierarchies draw their power from. ((Roam vs Evernote, humans vs other species, true democracy, OOP vs prototypal modelling,))
             - For example, lego pieces can be put together in a myriad of ways
-        - ^^Note to Illustrator: show that nodes can be arranged in not only in different positions, but also with differing numbers of connections **with the same number of nodes**. e.g. arrangement/hierarchy 1 has 10 connections total whereas hierarchy 2 has 20 connections. This is what hierarchy/node means/looks like:^^
-            - ![centralized-decentralized-network – CoinCasso Exchange](https://coincasso.com/wp-content/uploads/2020/04/centralized-decentralized-network.jpg)
     - **In a free hierarchy, every node is free to leave if it so chooses.**
     - **Free hierarchies are arranged so as to reduce redundancy. In the ideal hierarchy, no two nodes fulfills the same purpose (position).**
     - **Nodes may, and indeed, strive to, simultaneously form part of multiple free hierarchies**
