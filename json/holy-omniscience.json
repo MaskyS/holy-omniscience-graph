@@ -34262,18 +34262,6 @@
   },
   {
     ":create/user": {
-      ":user/uid": "ikLNJRYZ2RgfrTkSWqC628LFSzG3"
-    },
-    ":edit/user": {
-      ":user/uid": "ikLNJRYZ2RgfrTkSWqC628LFSzG3"
-    },
-    "create-time": 1640094436227,
-    "edit-time": 1640094436227,
-    "title": "ln",
-    "uid": "YQ42ewQxY"
-  },
-  {
-    ":create/user": {
       ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
     },
     ":edit/user": {
