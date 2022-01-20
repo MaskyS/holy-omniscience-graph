@@ -82,7 +82,7 @@ Analogies, metaphors, and all the rest increase understanding, enjoyment, and me
 
 - I think it'll be crucial in [The Information Platform of The Future](<The Information Platform of The Future.md>)
 
-- #[Roam Research](<Roam Research.md>) [memes](<memes.md>) [chad](<chad.md>) [spiritualism](<spiritualism.md>) [tech](<tech.md>) #[The Information Platform of The Future](<The Information Platform of The Future.md>)
+- #[Roam Research](<Roam Research.md>) [memes](<memes.md>) [spiritualism](<spiritualism.md>) [tech](<tech.md>) #[The Information Platform of The Future](<The Information Platform of The Future.md>)
 
 ## [January 24th, 2021](<January 24th, 2021.md>)
 - https://twitter.com/MatthewWSiu/status/1340620345171083265 (thread) #[Matthew Siu](<Matthew Siu.md>) #[Maps and Exploratory Tools](<Maps and Exploratory Tools.md>) #[Free Hierarchy](<Free Hierarchy.md>) #[The Information Platform of The Future](<The Information Platform of The Future.md>)

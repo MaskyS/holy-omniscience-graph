@@ -43,7 +43,7 @@
         - By allowing me to add non-vanity tags, I can rearrange my information silos/networks.
             - It gives me a deeper, multidimensional overview into an individual I follow with just a glance at their profile. 
                 - Maybe I'll have [[Conor White-Sullivan]] with the following tags:
-                    - #[[Roam Research]] #memes #chad #spiritualism #tech #[[The Information Platform of The Future]] #[[Knowledge Graphs]] #programming #texas #millenial #startup #Clojure
+                    - #[[Roam Research]] #memes #spiritualism #tech #[[The Information Platform of The Future]] #[[Knowledge Graphs]] #programming #Utah #millenial #startup #Clojure
                 - And maybe I can increase or decrease the weight of each tag, and link them to individual content blocks. This increases metadata for both the post and its poster. Example:
                     - See writing-related post -> click-fb-reaction-like-thing -> hit "related to `coding`" -> increase [[Conor White-Sullivan]]'s coding tag by 5pts -> then optionally,  hit `show me more/less like this`
             - Maybe see serendipitous connections between users, like noticing that 

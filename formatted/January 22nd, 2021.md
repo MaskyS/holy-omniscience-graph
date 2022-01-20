@@ -43,7 +43,7 @@
         - By allowing me to add non-vanity tags, I can rearrange my information silos/networks.
             - It gives me a deeper, multidimensional overview into an individual I follow with just a glance at their profile. 
                 - Maybe I'll have [Conor White-Sullivan](<Conor White-Sullivan.md>) with the following tags:
-                    - #[Roam Research](<Roam Research.md>) [memes](<memes.md>) [chad](<chad.md>) [spiritualism](<spiritualism.md>) [tech](<tech.md>) #[The Information Platform of The Future](<The Information Platform of The Future.md>) #[Knowledge Graphs](<Knowledge Graphs.md>) [programming](<programming.md>) [texas](<texas.md>) [millenial](<millenial.md>) [startup](<startup.md>) [Clojure](<Clojure.md>)
+                    - #[Roam Research](<Roam Research.md>) [memes](<memes.md>) [spiritualism](<spiritualism.md>) [tech](<tech.md>) #[The Information Platform of The Future](<The Information Platform of The Future.md>) #[Knowledge Graphs](<Knowledge Graphs.md>) [programming](<programming.md>) [Utah](<Utah.md>) [millenial](<millenial.md>) [startup](<startup.md>) [Clojure](<Clojure.md>)
                 - And maybe I can increase or decrease the weight of each tag, and link them to individual content blocks. This increases metadata for both the post and its poster. Example:
                     - See writing-related post -> click-fb-reaction-like-thing -> hit "related to `coding`" -> increase [Conor White-Sullivan](<Conor White-Sullivan.md>)'s coding tag by 5pts -> then optionally,  hit `show me more/less like this`
             - Maybe see serendipitous connections between users, like noticing that 

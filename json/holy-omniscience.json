@@ -6347,8 +6347,8 @@
                   ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
                 },
                 "create-time": 1610171722804,
-                "edit-time": 1610171722804,
-                "string": "allow personal  definitions of truths and subjects to arise",
+                "edit-time": 1642658537665,
+                "string": "allow personal definitions of truths and subjects to arise",
                 "uid": "kFoh-fpJS"
               },
               {
@@ -23992,9 +23992,6 @@
                                 ":block/uid": "aYo8OnEZR"
                               },
                               {
-                                ":block/uid": "f08O-KBJZ"
-                              },
-                              {
                                 ":block/uid": "O1-J3JW1Q"
                               },
                               {
@@ -24004,9 +24001,6 @@
                                 ":block/uid": "sbU0Bfcsx"
                               },
                               {
-                                ":block/uid": "DI6hbYWmi"
-                              },
-                              {
                                 ":block/uid": "jWgFb9tiP"
                               },
                               {
@@ -24014,6 +24008,9 @@
                               },
                               {
                                 ":block/uid": "3d2Fje2Ni"
+                              },
+                              {
+                                ":block/uid": "Jb7leOHCe"
                               }
                             ],
                             ":create/user": {
@@ -24023,7 +24020,7 @@
                               ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
                             },
                             "create-time": 1611304686568,
-                            "edit-time": 1611566031805,
+                            "edit-time": 1642659582268,
                             "refs": [
                               {
                                 "uid": "pabXR_8JW"
@@ -24038,9 +24035,6 @@
                                 "uid": "aYo8OnEZR"
                               },
                               {
-                                "uid": "f08O-KBJZ"
-                              },
-                              {
                                 "uid": "O1-J3JW1Q"
                               },
                               {
@@ -24050,9 +24044,6 @@
                                 "uid": "sbU0Bfcsx"
                               },
                               {
-                                "uid": "DI6hbYWmi"
-                              },
-                              {
                                 "uid": "jWgFb9tiP"
                               },
                               {
@@ -24060,9 +24051,12 @@
                               },
                               {
                                 "uid": "3d2Fje2Ni"
+                              },
+                              {
+                                "uid": "Jb7leOHCe"
                               }
                             ],
-                            "string": "#[[Roam Research]] #memes #chad #spiritualism #tech #[[The Information Platform of The Future]] #[[Knowledge Graphs]] #programming #texas #millenial #startup #Clojure",
+                            "string": "#[[Roam Research]] #memes #spiritualism #tech #[[The Information Platform of The Future]] #[[Knowledge Graphs]] #programming #Utah #millenial #startup #Clojure",
                             "uid": "rqeBNlPNJ"
                           }
                         ],
@@ -25049,20 +25043,6 @@
     ":edit/user": {
       ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
     },
-    "children": [
-      {
-        ":create/user": {
-          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-        },
-        ":edit/user": {
-          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-        },
-        "create-time": 1611332525330,
-        "edit-time": 1611332525330,
-        "string": "",
-        "uid": "JY4guqaMT"
-      }
-    ],
     "create-time": 1611304680501,
     "edit-time": 1611304680503,
     "title": "Conor White-Sullivan",
@@ -34295,5 +34275,29 @@
     "edit-time": 1641311490321,
     "title": "January 4th, 2022",
     "uid": "01-04-2022"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    },
+    ":edit/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    },
+    "create-time": 1642658459407,
+    "edit-time": 1642658459407,
+    "title": "January 20th, 2022",
+    "uid": "01-20-2022"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    },
+    ":edit/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    },
+    "create-time": 1642659582271,
+    "edit-time": 1642659582272,
+    "title": "Utah",
+    "uid": "Jb7leOHCe"
   }
 ]

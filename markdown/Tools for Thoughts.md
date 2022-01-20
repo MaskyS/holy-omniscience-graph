@@ -3,7 +3,7 @@
         - {{iframe: https://whimsical.com/embed/TCeXP1dpRkdT8rpMvYci2P  }}
     - But beyond that, in terms of **principles**, I think tools for thoughts should have:
         - drastically reduce effort to capture thoughts and ideas
-        - allow personal  definitions of truths and subjects to arise
+        - allow personal definitions of truths and subjects to arise
         - Modularize thoughts even as you embed them into deeper and more intricate webs of knowledge
         - reduce redundancy
         - allow thought indenting in order to enable zooming in and out of details
