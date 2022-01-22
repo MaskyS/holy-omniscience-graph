@@ -1,5 +1,5 @@
 - Creator of the [[Holy Omniscience Graph]].
-- 19 y/o from Mauritius currently on a gap year. I am an [information nerd](((8rgZnistc))), which basically means I nerd out about so many things that I've had to invent a new category for myself. Hoping to forgo the "another cog in the system" life and to build my own [free hierarchies]([[Free Hierarchy]]).
+- 19 y/o from Mauritius currently on a gap year. I am an [information nerd](((8rgZnistc))). Hoping to forgo the "another cog in the system" life and to build my own [free hierarchies]([[Free Hierarchy]]).
 - For past work, see my [Notion](https://www.notion.so/Heyo-I-m-Kifah-3307f487b13d4519b226c7c326417a73).
 - Follow/DM me on [Twitter](https://twitter.com/maskys_).
 - Want to discuss these ideas and more? Let's schedule a call on [Calendly](https://calendly.com/maskys).

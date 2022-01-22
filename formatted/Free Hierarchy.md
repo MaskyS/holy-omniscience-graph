@@ -370,7 +370,7 @@ All happy companies are different: each one earns a monopoly by solving a unique
 - [Palantir](<Palantir.md>) [video](<video.md>) on "Dynamic Ontology", that relates quite a bit to the advantages of [Free Hierarchy](<Free Hierarchy.md>)
 
 ## [Kifah Meeran](<Kifah Meeran.md>)
-- 19 y/o from Mauritius currently on a gap year. I am an [information nerd](((8rgZnistc))), which basically means I nerd out about so many things that I've had to invent a new category for myself. Hoping to forgo the "another cog in the system" life and to build my own [free hierarchies]([Free Hierarchy](<Free Hierarchy.md>))
+- 19 y/o from Mauritius currently on a gap year. I am an [information nerd](((8rgZnistc))). Hoping to forgo the "another cog in the system" life and to build my own [free hierarchies]([Free Hierarchy](<Free Hierarchy.md>))
 
 ## [Linked: The New Science of Networks](<Linked: The New Science of Networks.md>)
 - tags: #[network theory](<network theory.md>) #[Free Hierarchy](<Free Hierarchy.md>)
