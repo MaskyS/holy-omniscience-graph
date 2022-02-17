@@ -1,4 +1,4 @@
 - https://stratechery.com/2020/social-networking-2-0/ [Articles](<Articles.md>)
-- [ ] mek.fyi #[Knowledge Graphs](<Knowledge Graphs.md>) #[Rabbit Holes](<Rabbit Holes.md>) [Michael E. Karpeles](<Michael E. Karpeles.md>) #[Maps and Exploratory Tools](<Maps and Exploratory Tools.md>)
+- [x] mek.fyi #[Knowledge Graphs](<Knowledge Graphs.md>) #[Rabbit Holes](<Rabbit Holes.md>) [Michael E. Karpeles](<Michael E. Karpeles.md>) #[Maps and Exploratory Tools](<Maps and Exploratory Tools.md>)
 - https://refresh.study/ [Browser](<Browser.md>) 
 - 

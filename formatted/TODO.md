@@ -93,9 +93,6 @@
 ## [Linked: The New Science of Networks](<Linked: The New Science of Networks.md>)
 - ## {{[TODO](<TODO.md>)}
 
-## [March 8th, 2021](<March 8th, 2021.md>)
-- {{[TODO](<TODO.md>)}
-
 ## [Missing Links](<Missing Links.md>)
 - {{[TODO](<TODO.md>)}
 

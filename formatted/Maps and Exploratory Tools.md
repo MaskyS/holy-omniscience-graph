@@ -46,7 +46,7 @@
 [Twitter](<Twitter.md>) [visualizer](<visualizer.md>) [curation](<curation.md>) #[Maps and Exploratory Tools](<Maps and Exploratory Tools.md>)
 
 ## [March 8th, 2021](<March 8th, 2021.md>)
-- [ ] mek.fyi #[Knowledge Graphs](<Knowledge Graphs.md>) #[Rabbit Holes](<Rabbit Holes.md>) [Michael E. Karpeles](<Michael E. Karpeles.md>) #[Maps and Exploratory Tools](<Maps and Exploratory Tools.md>)
+- [x] mek.fyi #[Knowledge Graphs](<Knowledge Graphs.md>) #[Rabbit Holes](<Rabbit Holes.md>) [Michael E. Karpeles](<Michael E. Karpeles.md>) #[Maps and Exploratory Tools](<Maps and Exploratory Tools.md>)
 
 ## [The Information Platform of The Future](<The Information Platform of The Future.md>)
 - {{embed: [Maps and Exploratory Tools](<Maps and Exploratory Tools.md>)}
